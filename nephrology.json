@@ -1,0 +1,132 @@
+[
+  {
+    "question": "What is the most classic presenting symptom in a child with post-streptococcal glomerulonephritis?",
+    "options": [
+      "Fever",
+      "Tea-colored urine", 
+      "Periorbital edema", 
+      "Hypertension", 
+      "Abdominal pain"
+    ],
+    "correct": "Tea-colored urine",
+    "explanation": "Tea-colored (or cola-colored) urine due to gross hematuria is the most classic presenting symptom of post-streptococcal glomerulonephritis in children. This distinctive discoloration results from the presence of red blood cells in the urine. While periorbital edema, hypertension, and oliguria are also common findings, the tea-colored urine is typically the symptom that prompts families to seek medical attention.",
+    "reference": "Tasic V, Polenakovic M. Occurrence of subclinical post-streptococcal glomerulonephritis in family contacts. Journal of Paediatrics and Child Health. 2003;39(3):177-9."
+  },
+  {
+    "question": "Which serological marker is most specific for confirming a recent streptococcal infection in post-streptococcal glomerulonephritis?",
+    "options": [
+      "Anti-streptolysin O (ASO) titer",
+      "Anti-DNase B antibody", 
+      "Streptozyme test", 
+      "Throat culture", 
+      "Anti-streptokinase antibody"
+    ],
+    "correct": "Anti-DNase B antibody",
+    "explanation": "While Anti-streptolysin O (ASO) titers are commonly used, Anti-DNase B antibody is more specific for confirming recent streptococcal infection in the context of post-streptococcal glomerulonephritis. It rises more consistently than ASO in skin infections (impetigo), which are common precursors to PSGN. Anti-DNase B also remains elevated longer (up to 6-8 weeks) compared to ASO titers, making it more useful when patients present late after the inciting infection.",
+    "reference": "Blyth CC, Robertson PW, Rosenberg AR. Post-streptococcal glomerulonephritis in Sydney: a 16-year retrospective review. Journal of Paediatrics and Child Health. 2007;43(6):446-50."
+  },
+  {
+    "question": "What is the typical latency period between streptococcal pharyngitis and the development of post-streptococcal glomerulonephritis?",
+    "options": [
+      "1-3 days",
+      "7-10 days", 
+      "2-3 weeks", 
+      "4-6 weeks", 
+      "8-12 weeks"
+    ],
+    "correct": "7-10 days",
+    "explanation": "The typical latency period between streptococcal pharyngitis and the development of post-streptococcal glomerulonephritis is 7-10 days. For streptococcal skin infections (impetigo), the latency period is longer, approximately 3-6 weeks. This delay represents the time required for the immune response to develop and immune complexes to form and deposit in the glomeruli.",
+    "reference": "Rodriguez-Iturbe B, Musser JM. The current state of poststreptococcal glomerulonephritis. Journal of the American Society of Nephrology. 2008;19(10):1855-64."
+  },
+  {
+    "question": "Which complement component is characteristically decreased in the acute phase of post-streptococcal glomerulonephritis?",
+    "options": [
+      "C1q",
+      "C3", 
+      "C4", 
+      "C5", 
+      "C9"
+    ],
+    "correct": "C3",
+    "explanation": "C3 complement levels are characteristically decreased in the acute phase of post-streptococcal glomerulonephritis due to activation of the alternative complement pathway. This hypocomplementemia is typically transient and normalizes within 6-8 weeks. In contrast, C4 levels typically remain normal, which helps differentiate PSGN from other forms of glomerulonephritis such as lupus nephritis, where both C3 and C4 are reduced due to classical pathway activation.",
+    "reference": "Yoshizawa N. Acute glomerulonephritis. Internal Medicine. 2000;39(9):687-94."
+  },
+  {
+    "question": "Which of the following is the most common long-term renal complication in children who have recovered from post-streptococcal glomerulonephritis?",
+    "options": [
+      "Persistent proteinuria",
+      "Chronic hypertension", 
+      "Recurrent gross hematuria", 
+      "End-stage renal disease", 
+      "Renal tubular acidosis"
+    ],
+    "correct": "Persistent proteinuria",
+    "explanation": "Persistent proteinuria is the most common long-term renal complication in children who have recovered from post-streptococcal glomerulonephritis, occurring in approximately 15% of cases. Most children with PSGN have an excellent prognosis with complete recovery, but a small percentage may develop persistent proteinuria. Chronic hypertension and end-stage renal disease are much less common long-term complications in the pediatric population, especially compared to adults with PSGN.",
+    "reference": "Sethi S, Fervenza FC. Membranoproliferative glomerulonephritis--a new look at an old entity. The New England Journal of Medicine. 2012;366(12):1119-31."
+  },
+  {
+    "question": "Which age group has the highest incidence of post-streptococcal glomerulonephritis?",
+    "options": [
+      "Infants (<1 year)",
+      "Toddlers (1-3 years)", 
+      "Preschool children (3-5 years)", 
+      "School-age children (5-12 years)", 
+      "Adolescents (13-18 years)"
+    ],
+    "correct": "School-age children (5-12 years)",
+    "explanation": "School-age children (5-12 years) have the highest incidence of post-streptococcal glomerulonephritis. This age predilection is likely related to the increased exposure to Group A Streptococcus in school settings and the developing immune system's response. PSGN is relatively uncommon in children younger than 2 years of age and in adults older than 40 years, though cases can occur in any age group.",
+    "reference": "Eison TM, Ault BH, Jones DP, Chesney RW, Wyatt RJ. Post-streptococcal acute glomerulonephritis in children: clinical features and pathogenesis. Pediatric Nephrology. 2011;26(2):165-80."
+  },
+  {
+    "question": "Which of the following streptococcal antigens has been most strongly implicated in the pathogenesis of post-streptococcal glomerulonephritis?",
+    "options": [
+      "M protein",
+      "Streptolysin O", 
+      "Neuraminidase", 
+      "Nephritis-associated plasmin receptor (NAPlr)", 
+      "Hyaluronidase"
+    ],
+    "correct": "Nephritis-associated plasmin receptor (NAPlr)",
+    "explanation": "Nephritis-associated plasmin receptor (NAPlr) has been most strongly implicated in the pathogenesis of post-streptococcal glomerulonephritis. NAPlr is a streptococcal glyceraldehyde-3-phosphate dehydrogenase that can bind to glomeruli and activate plasmin, contributing to glomerular injury. Another important antigen is Streptococcal pyrogenic exotoxin B (SPE-B). These antigens can induce immune complex formation or direct glomerular damage, triggering the inflammatory cascade responsible for the clinical manifestations of PSGN.",
+    "reference": "Oda T, Yoshizawa N, Yamakami K, Tamura K, Kuroki A, Sugisaki T, et al. Localization of nephritis-associated plasmin receptor in acute poststreptococcal glomerulonephritis. Human Pathology. 2010;41(9):1276-85."
+  },
+  {
+    "question": "What is the most common electrolyte abnormality observed in children with acute post-streptococcal glomerulonephritis?",
+    "options": [
+      "Hyperkalemia",
+      "Hyponatremia", 
+      "Hypocalcemia", 
+      "Hyperphosphatemia", 
+      "Hypomagnesemia"
+    ],
+    "correct": "Hyponatremia",
+    "explanation": "Hyponatremia is the most common electrolyte abnormality observed in children with acute post-streptococcal glomerulonephritis. It occurs primarily due to dilutional effects from water retention associated with decreased glomerular filtration rate and edema. Although hyperkalemia can occur in severe cases with significant renal impairment, hyponatremia is more frequently encountered. The hyponatremia is typically mild and resolves with improvement in renal function and diuresis.",
+    "reference": "Pais P, Kump T, Greenbaum LA. Delay in diagnosis in poststreptococcal glomerulonephritis. Journal of Pediatrics. 2008;153(4):560-4."
+  },
+  {
+    "question": "Which of the following is NOT a common initial treatment approach for a child with post-streptococcal glomerulonephritis?",
+    "options": [
+      "Fluid restriction",
+      "Sodium restriction", 
+      "Antihypertensive therapy if needed", 
+      "Prophylactic antibiotic therapy", 
+      "Corticosteroid therapy"
+    ],
+    "correct": "Corticosteroid therapy",
+    "explanation": "Corticosteroid therapy is NOT a common initial treatment approach for post-streptococcal glomerulonephritis in children. Management of PSGN is primarily supportive, focusing on fluid restriction, sodium restriction, and antihypertensive therapy as needed. Diuretics may be used for significant edema or hypertension. Antibiotics are given to eradicate any remaining streptococcal infection, but corticosteroids and other immunosuppressive agents are not routinely indicated as the disease is typically self-limited with a good prognosis in children.",
+    "reference": "Kasahara T, Hayakawa H, Okubo S, Okugawa T, Kabuki N, Tomizawa S, et al. Prognosis of acute poststreptococcal glomerulonephritis (APSGN) is excellent in children, when adequately diagnosed. Pediatrics International. 2001;43(4):364-7."
+  },
+  {
+    "question": "What is the characteristic histopathological finding on light microscopy in post-streptococcal glomerulonephritis?",
+    "options": [
+      "Minimal change disease",
+      "Membranous nephropathy", 
+      "Diffuse proliferative glomerulonephritis", 
+      "Focal segmental glomerulosclerosis", 
+      "Crescentic glomerulonephritis"
+    ],
+    "correct": "Diffuse proliferative glomerulonephritis",
+    "explanation": "Diffuse proliferative glomerulonephritis is the characteristic histopathological finding on light microscopy in post-streptococcal glomerulonephritis. This pattern shows hypercellularity due to infiltration of neutrophils and monocytes, as well as proliferation of endothelial and mesangial cells. Immunofluorescence typically reveals granular deposits of IgG and C3 along the glomerular basement membrane in a 'starry sky' pattern. Electron microscopy shows subepithelial 'humps' representing immune complex deposits.",
+    "reference": "Nasr SH, Markowitz GS, Stokes MB, Said SM, Valeri AM, D'Agati VD. Acute postinfectious glomerulonephritis in the modern era: experience with 86 adults and review of the literature. Medicine (Baltimore). 2008;87(1):21-32."
+  }
+]
