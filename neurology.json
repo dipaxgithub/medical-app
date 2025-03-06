@@ -1,0 +1,133 @@
+
+[
+  {
+    "question": "Which organism is the most common cause of bacterial meningitis in neonates (0-28 days)?",
+    "options": [
+      "Neisseria meningitidis",
+      "Streptococcus pneumoniae",
+      "Haemophilus influenzae type b",
+      "Group B Streptococcus",
+      "Listeria monocytogenes"
+    ],
+    "correct": "Group B Streptococcus",
+    "explanation": "Group B Streptococcus (GBS) is the leading cause of bacterial meningitis in neonates, particularly in the first week of life. The organism is typically acquired from the maternal genital tract during delivery. Implementation of intrapartum antibiotic prophylaxis has reduced the incidence, but GBS remains the predominant pathogen in this age group.",
+    "reference": "Pediatric Infectious Disease Journal, 2021; 40(5): 392-399"
+  },
+  {
+    "question": "What is the most common presenting symptom of bacterial meningitis in children over 2 years of age?",
+    "options": [
+      "Seizures",
+      "Headache",
+      "Lethargy",
+      "Vomiting",
+      "Neck stiffness"
+    ],
+    "correct": "Headache",
+    "explanation": "Headache is the most common presenting symptom in children over 2 years with bacterial meningitis, reported in approximately 85% of cases. Unlike infants who often present with non-specific symptoms, older children typically manifest symptoms similar to adults, with headache being predominant due to increased intracranial pressure and meningeal irritation.",
+    "reference": "Lancet Neurology, 2023; 22(8): 723-735"
+  },
+  {
+    "question": "Which CSF finding is most consistent with bacterial meningitis?",
+    "options": [
+      "Clear appearance, normal glucose, normal protein, <5 WBC/mm³",
+      "Clear appearance, normal glucose, elevated protein, 50-100 WBC/mm³ (lymphocytic predominance)",
+      "Cloudy appearance, low glucose, elevated protein, >1000 WBC/mm³ (neutrophil predominance)",
+      "Clear appearance, low glucose, normal protein, 50-500 WBC/mm³ (neutrophil predominance)",
+      "Cloudy appearance, normal glucose, elevated protein, >500 WBC/mm³ (lymphocytic predominance)"
+    ],
+    "correct": "Cloudy appearance, low glucose, elevated protein, >1000 WBC/mm³ (neutrophil predominance)",
+    "explanation": "Classic CSF findings in bacterial meningitis include cloudy appearance due to high neutrophil count (typically >1000 WBC/mm³ with neutrophil predominance), decreased glucose ratio (<0.4 CSF:serum), and elevated protein (>100 mg/dL). These findings reflect the intense inflammatory response and impaired glucose transport across the blood-brain barrier characteristic of bacterial infection.",
+    "reference": "Clinical Infectious Diseases, 2024; 78(3): 315-324"
+  },
+  {
+    "question": "Which of the following is the most common cause of aseptic meningitis in children?",
+    "options": [
+      "Mycobacterium tuberculosis",
+      "Enteroviruses",
+      "Herpes simplex virus",
+      "Lyme disease",
+      "Partially treated bacterial meningitis"
+    ],
+    "correct": "Enteroviruses",
+    "explanation": "Enteroviruses (including coxsackieviruses and echoviruses) account for 85-95% of all cases of aseptic meningitis in children where a pathogen is identified. These infections typically occur during summer and fall months, with characteristic CSF findings of lymphocytic pleocytosis, normal glucose, and mildly elevated protein levels.",
+    "reference": "New England Journal of Medicine, 2022; 386(14): 1358-1366"
+  },
+  {
+    "question": "Which cranial nerve palsy is most commonly associated with tuberculous meningitis in children?",
+    "options": [
+      "Cranial nerve III (oculomotor)",
+      "Cranial nerve IV (trochlear)",
+      "Cranial nerve VI (abducens)",
+      "Cranial nerve VII (facial)",
+      "Cranial nerve VIII (vestibulocochlear)"
+    ],
+    "correct": "Cranial nerve VI (abducens)",
+    "explanation": "Cranial nerve VI (abducens) palsy is the most common cranial neuropathy in tuberculous meningitis, occurring in approximately 15-40% of pediatric cases. This results from increased intracranial pressure and/or direct involvement of the nerve in the inflammatory exudate at the base of the brain, causing lateral rectus palsy and presenting as inward deviation of the affected eye.",
+    "reference": "Journal of Pediatric Neurology, 2023; 21(4): 233-241"
+  },
+  {
+    "question": "Which empiric antibiotic regimen is most appropriate for suspected bacterial meningitis in a 4-month-old infant?",
+    "options": [
+      "Vancomycin + Ceftriaxone",
+      "Ampicillin + Gentamicin",
+      "Vancomycin + Cefotaxime + Ampicillin",
+      "Meropenem + Vancomycin",
+      "Ceftriaxone + Metronidazole"
+    ],
+    "correct": "Vancomycin + Cefotaxime + Ampicillin",
+    "explanation": "For infants 1-3 months, empiric coverage should include vancomycin (for potential resistant pneumococci), a third-generation cephalosporin like cefotaxime (for gram-negative organisms), and ampicillin (for Listeria monocytogenes). Ceftriaxone is generally avoided in infants under 3 months due to its bilirubin-displacing properties. This regimen covers the most common pathogens in this age group: Group B Streptococcus, E. coli, Listeria, and Streptococcus pneumoniae.",
+    "reference": "American Academy of Pediatrics Red Book, 2024 Edition"
+  },
+  {
+    "question": "What is the most common neurological complication of pneumococcal meningitis in children?",
+    "options": [
+      "Cerebral abscess",
+      "Subdural empyema",
+      "Hydrocephalus",
+      "Hearing loss",
+      "Hemiparesis"
+    ],
+    "correct": "Hearing loss",
+    "explanation": "Sensorineural hearing loss is the most common neurological sequela of pneumococcal meningitis, affecting approximately 30-40% of survivors. It results from direct bacterial invasion or inflammatory mediators damaging the cochlea and eighth cranial nerve. The hearing loss can be unilateral or bilateral and may be permanent. This highlights the importance of audiological assessment in all children recovering from pneumococcal meningitis.",
+    "reference": "Pediatrics, 2023; 151(2): e2022058795"
+  },
+  {
+    "question": "Which of the following findings on head CT would be most concerning for increased intracranial pressure, potentially contraindicating immediate lumbar puncture in a child with suspected meningitis?",
+    "options": [
+      "Mild ventricular enlargement",
+      "Basilar cistern effacement",
+      "Single small calcification",
+      "Mild cortical atrophy",
+      "Incidental arachnoid cyst"
+    ],
+    "correct": "Basilar cistern effacement",
+    "explanation": "Basilar cistern effacement on CT is a significant indicator of brain swelling and increased intracranial pressure. This finding, along with other signs such as midline shift, loss of sulcal markings, or significant mass effect, suggests a risk of herniation with lumbar puncture. In such cases, antimicrobial therapy should be initiated immediately, and lumbar puncture deferred until intracranial pressure is controlled.",
+    "reference": "Journal of Pediatric Neurology, 2022; 20(6): 489-497"
+  },
+  {
+    "question": "Which meningitis vaccine is routinely recommended for all adolescents at age 11-12 years with a booster dose at age 16 years?",
+    "options": [
+      "Meningococcal B vaccine (MenB)",
+      "Pneumococcal conjugate vaccine (PCV13)",
+      "Haemophilus influenzae type b vaccine (Hib)",
+      "Meningococcal conjugate vaccine (MenACWY)",
+      "Tuberculosis vaccine (BCG)"
+    ],
+    "correct": "Meningococcal conjugate vaccine (MenACWY)",
+    "explanation": "The meningococcal conjugate vaccine (MenACWY) is recommended for all adolescents at 11-12 years with a booster at 16 years to provide protection during the period of increased risk. This vaccine protects against Neisseria meningitidis serogroups A, C, W, and Y. The recommendation reflects the epidemiological pattern of meningococcal disease with higher incidence during adolescence and young adulthood, particularly in congregate settings like college dormitories.",
+    "reference": "Centers for Disease Control and Prevention, Advisory Committee on Immunization Practices Recommendations, 2024"
+  },
+  {
+    "question": "What is the most appropriate initial management for a 3-week-old neonate presenting with fever, irritability, and bulging fontanelle?",
+    "options": [
+      "Immediate lumbar puncture followed by antibiotics if CSF is abnormal",
+      "Blood culture and observation for 24 hours",
+      "Immediate empiric antibiotics after obtaining blood and CSF cultures",
+      "CT scan prior to any further management",
+      "Antipyretics and reassessment in 12 hours"
+    ],
+    "correct": "Immediate empiric antibiotics after obtaining blood and CSF cultures",
+    "explanation": "In a neonate with fever, irritability, and bulging fontanelle, bacterial meningitis must be presumed until proven otherwise. The standard of care is to obtain blood and CSF cultures (if not contraindicated) and immediately initiate empiric antibiotics without waiting for results. Delaying antibiotics in neonatal meningitis significantly increases mortality and morbidity. The bulging fontanelle suggests increased intracranial pressure, making prompt intervention critical.",
+    "reference": "Pediatric Infectious Disease Journal, 2024; 43(1): 42-51"
+  }
+]
