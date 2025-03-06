@@ -1,0 +1,133 @@
+
+[
+  {
+    "question": "Which of the following is the most common cause of community-acquired pneumonia in children 3 months to 5 years of age?",
+    "options": [
+      "Respiratory syncytial virus",
+      "Mycoplasma pneumoniae",
+      "Haemophilus influenzae",
+      "Staphylococcus aureus",
+      "Streptococcus pneumoniae"
+    ],
+    "correct": "Streptococcus pneumoniae",
+    "explanation": "Streptococcus pneumoniae remains the most common bacterial cause of community-acquired pneumonia in children 3 months to 5 years of age, despite the introduction of pneumococcal vaccines. Viral causes collectively may be more common, but as a single pathogen, S. pneumoniae is still predominant in this age group.",
+    "reference": "Bradley JS, et al. The management of community-acquired pneumonia in infants and children older than 3 months of age: Clinical practice guidelines by the Pediatric Infectious Diseases Society and the Infectious Diseases Society of America. Clinical Infectious Diseases"
+  },
+  {
+    "question": "Which radiographic finding is most consistent with atypical pneumonia in a school-aged child?",
+    "options": [
+      "Lobar consolidation",
+      "Interstitial infiltrates",
+      "Pleural effusion",
+      "Hilar lymphadenopathy",
+      "Pneumatocele"
+    ],
+    "correct": "Interstitial infiltrates",
+    "explanation": "Atypical pneumonia, commonly caused by Mycoplasma pneumoniae in school-aged children, typically presents with interstitial infiltrates on chest radiography. These diffuse, bilateral, reticular or reticulonodular patterns are distinct from the focal lobar consolidation commonly seen in typical bacterial pneumonia.",
+    "reference": "Jain S, et al. Community-acquired pneumonia requiring hospitalization among U.S. children. New England Journal of Medicine"
+  },
+  {
+    "question": "What is the first-line empiric antibiotic treatment for a previously healthy, fully immunized 3-year-old with community-acquired pneumonia being treated as an outpatient?",
+    "options": [
+      "Azithromycin",
+      "Amoxicillin",
+      "Amoxicillin-clavulanate",
+      "Ceftriaxone",
+      "Trimethoprim-sulfamethoxazole"
+    ],
+    "correct": "Amoxicillin",
+    "explanation": "Amoxicillin is recommended as first-line therapy for previously healthy, fully immunized children with presumed bacterial community-acquired pneumonia. It provides excellent coverage against Streptococcus pneumoniae, the most common bacterial pathogen, and is preferred over broader-spectrum antibiotics to help reduce antimicrobial resistance.",
+    "reference": "Harris M, et al. British Thoracic Society guidelines for the management of community acquired pneumonia in children: update 2011. Thorax"
+  },
+  {
+    "question": "Which of the following risk factors most significantly increases the likelihood of developing complicated pneumonia with empyema in children?",
+    "options": [
+      "History of asthma",
+      "Recent influenza infection",
+      "Prematurity",
+      "Immunization with pneumococcal conjugate vaccine",
+      "Daycare attendance"
+    ],
+    "correct": "Recent influenza infection",
+    "explanation": "Recent influenza infection significantly increases the risk of developing complicated pneumonia with empyema in children. Influenza virus damages the respiratory epithelium, impairing local immune defenses and facilitating bacterial invasion, particularly by Staphylococcus aureus and Streptococcus pneumoniae, leading to severe pneumonia complications including empyema.",
+    "reference": "Ampofo K, et al. Association between respiratory viral infections and pneumococcal disease in children. Pediatric Infectious Disease Journal"
+  },
+  {
+    "question": "In which age group is Chlamydia trachomatis most likely to cause pneumonia?",
+    "options": [
+      "Neonates (0-4 weeks)",
+      "Infants (1-12 months)",
+      "Toddlers (1-3 years)",
+      "Preschoolers (3-5 years)",
+      "School-aged children (5-12 years)"
+    ],
+    "correct": "Infants (1-12 months)",
+    "explanation": "Chlamydia trachomatis pneumonia typically presents in infants between 4 and 12 weeks of age. Transmission occurs during passage through an infected birth canal, with a 3-6 week incubation period. The infection often presents as an afebrile pneumonia with staccato cough, tachypnea, and characteristic interstitial infiltrates on chest radiography.",
+    "reference": "Darville T. Chlamydia trachomatis infections in neonates and young children. Seminars in Pediatric Infectious Diseases"
+  },
+  {
+    "question": "Which clinical feature best differentiates viral from bacterial pneumonia in children?",
+    "options": [
+      "Presence of fever",
+      "Respiratory rate",
+      "White blood cell count",
+      "No single feature reliably differentiates",
+      "Oxygen saturation"
+    ],
+    "correct": "No single feature reliably differentiates",
+    "explanation": "No single clinical feature reliably differentiates viral from bacterial pneumonia in children. While bacterial pneumonia may be associated with higher fevers, leukocytosis, and focal findings, and viral pneumonia often presents with more diffuse findings and wheezing, there is substantial overlap. Even laboratory markers like CRP and procalcitonin have limited specificity.",
+    "reference": "Shah SN, et al. Effectiveness of an integrated clinical prediction rule for diagnosing pneumonia in children in the emergency department. CMAJ"
+  },
+  {
+    "question": "What is the most appropriate initial oxygen therapy for a child with community-acquired pneumonia and SpO2 of 88% on room air?",
+    "options": [
+      "Nasal cannula at 2 L/min",
+      "Non-rebreather mask",
+      "Continuous positive airway pressure (CPAP)",
+      "High-flow nasal cannula",
+      "Intubation and mechanical ventilation"
+    ],
+    "correct": "Nasal cannula at 2 L/min",
+    "explanation": "For a child with pneumonia and moderate hypoxemia (SpO2 88%), supplemental oxygen via nasal cannula at 2 L/min is the most appropriate initial therapy. This provides sufficient oxygen to maintain saturation ≥92% while being well-tolerated by most children. Escalation to high-flow nasal cannula or non-invasive ventilation should be considered if the child fails to improve or shows signs of increased work of breathing.",
+    "reference": "World Health Organization. Oxygen therapy for children: a manual for health workers. WHO"
+  },
+  {
+    "question": "Which of the following pathogens is most commonly associated with necrotizing pneumonia in children?",
+    "options": [
+      "Respiratory syncytial virus",
+      "Mycoplasma pneumoniae",
+      "Streptococcus pneumoniae",
+      "Staphylococcus aureus (particularly PVL-positive strains)",
+      "Klebsiella pneumoniae"
+    ],
+    "correct": "Staphylococcus aureus (particularly PVL-positive strains)",
+    "explanation": "Staphylococcus aureus, particularly strains producing Panton-Valentine leukocidin (PVL) toxin, is most commonly associated with necrotizing pneumonia in children. This severe form of pneumonia is characterized by rapid progression, tissue necrosis, cavitation, and often pneumatocele formation. Community-acquired methicillin-resistant S. aureus (CA-MRSA) frequently harbors the PVL genes, contributing to its virulence.",
+    "reference": "Shallcross LJ, et al. The role of the Panton-Valentine leukocidin toxin in staphylococcal disease: a systematic review and meta-analysis. The Lancet Infectious Diseases"
+  },
+  {
+    "question": "Which of the following is the most appropriate indication for chest CT in a child with pneumonia?",
+    "options": [
+      "Failure to respond to appropriate antibiotic therapy after 48-72 hours",
+      "High fever (>39°C) despite antibiotic treatment",
+      "Presence of wheezing on auscultation",
+      "Initial diagnosis of community-acquired pneumonia",
+      "Recurrent pneumonia in the same anatomical location"
+    ],
+    "correct": "Recurrent pneumonia in the same anatomical location",
+    "explanation": "Recurrent pneumonia in the same anatomical location is an appropriate indication for chest CT as it suggests an underlying anatomical abnormality such as congenital pulmonary airway malformation, bronchial stenosis, or foreign body aspiration that may not be visible on plain radiographs. CT imaging helps identify these structural abnormalities that predispose to recurrent infections in the same location.",
+    "reference": "Andronikou S, et al. Imaging approach to pneumonia in children: what to look for and what to expect. Journal of Thoracic Imaging"
+  },
+  {
+    "question": "Which of the following is the strongest predictor of severe disease requiring ICU admission in children with community-acquired pneumonia?",
+    "options": [
+      "Age <2 years",
+      "Presence of pleural effusion",
+      "White blood cell count >15,000/μL",
+      "Hypoxemia (SpO2 <90%) despite supplemental oxygen",
+      "Fever >39°C for >3 days"
+    ],
+    "correct": "Hypoxemia (SpO2 <90%) despite supplemental oxygen",
+    "explanation": "Hypoxemia (SpO2 <90%) that persists despite supplemental oxygen is the strongest predictor of severe pneumonia requiring ICU admission in children. It indicates significant ventilation-perfusion mismatch, extensive disease, or impending respiratory failure. Other concerning signs include altered mental status, respiratory rate >70 breaths/min in infants, and signs of sepsis or shock.",
+    "reference": "Williams DJ, et al. Severity of disease and risk of invasive pneumococcal disease among children hospitalized with pneumonia. Pediatrics"
+  }
+]
