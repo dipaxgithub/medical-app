@@ -1,1 +1,132 @@
-
+[
+  {
+    "question": "What is the most common ocular manifestation of vitamin A deficiency in children?",
+    "options": [
+      "Corneal scarring",
+      "Conjunctival xerosis", 
+      "Night blindness (nyctalopia)", 
+      "Bitot's spots", 
+      "Keratomalacia"
+    ],
+    "correct": "Night blindness (nyctalopia)",
+    "explanation": "Night blindness (nyctalopia) is typically the earliest and most common ocular manifestation of vitamin A deficiency. It occurs due to impaired rhodopsin synthesis in the retina, affecting the rod photoreceptors responsible for vision in low light conditions. This symptom often precedes other ocular manifestations and can be reversed with vitamin A supplementation.",
+    "reference": "World Health Organization. Global prevalence of vitamin A deficiency in populations at risk 1995-2005. WHO Global Database on Vitamin A Deficiency."
+  },
+  {
+    "question": "Which of the following is the WHO-recommended dose of vitamin A for treatment of severe vitamin A deficiency in children 6-11 months of age?",
+    "options": [
+      "50,000 IU",
+      "100,000 IU", 
+      "200,000 IU", 
+      "400,000 IU", 
+      "600,000 IU"
+    ],
+    "correct": "100,000 IU",
+    "explanation": "The WHO recommends 100,000 IU of vitamin A for treatment of severe vitamin A deficiency in children 6-11 months of age. This is administered as a single oral dose on day 1, followed by a second dose on day 2, and a third dose at least 2 weeks later. Children under 6 months receive 50,000 IU, while children 12 months and older receive 200,000 IU following the same schedule.",
+    "reference": "WHO. Guideline: Vitamin A supplementation in infants and children 6–59 months of age. Geneva, World Health Organization, 2011."
+  },
+  {
+    "question": "Which of the following is NOT a risk factor for vitamin A deficiency in children?",
+    "options": [
+      "Measles infection",
+      "Exclusive breastfeeding for 6 months", 
+      "Severe protein-energy malnutrition", 
+      "Persistent diarrhea", 
+      "Maternal vitamin A deficiency"
+    ],
+    "correct": "Exclusive breastfeeding for 6 months",
+    "explanation": "Exclusive breastfeeding for 6 months is protective against vitamin A deficiency, not a risk factor. Human milk contains adequate vitamin A for infants up to 6 months of age when the mother is well-nourished. Other listed options are established risk factors: measles depletes vitamin A stores, malnutrition impairs absorption and storage, persistent diarrhea increases loss, and maternal deficiency leads to low vitamin A content in breast milk.",
+    "reference": "Bailey RL, West KP Jr, Black RE. The epidemiology of global micronutrient deficiencies. Ann Nutr Metab. 2015;66(suppl 2):22-33."
+  },
+  {
+    "question": "Which pathological finding is characteristic of keratomalacia in severe vitamin A deficiency?",
+    "options": [
+      "Hyperkeratinization of conjunctival epithelium",
+      "Corneal stromal infiltrates", 
+      "Corneal ulceration and colliquative necrosis", 
+      "Corneal edema with stromal thickening", 
+      "Increased goblet cell density"
+    ],
+    "correct": "Corneal ulceration and colliquative necrosis",
+    "explanation": "Keratomalacia, the most severe ocular manifestation of vitamin A deficiency, is characterized by corneal ulceration and colliquative necrosis (liquefactive necrosis) of the cornea. This occurs due to severe keratinization of the corneal epithelium, loss of corneal structural integrity, and subsequent bacterial invasion. Without urgent treatment, this condition can rapidly progress to corneal perforation, anterior staphyloma, and permanent blindness.",
+    "reference": "Sommer A. Vitamin A deficiency and clinical disease: An historical overview. J Nutr. 2008;138(10):1835-1839."
+  },
+  {
+    "question": "What is the mechanism by which vitamin A deficiency increases susceptibility to infections in children?",
+    "options": [
+      "Reduced neutrophil production",
+      "Impaired antibody response", 
+      "Compromised epithelial barriers and decreased immune function", 
+      "Diminished complement activation", 
+      "Decreased macrophage phagocytosis only"
+    ],
+    "correct": "Compromised epithelial barriers and decreased immune function",
+    "explanation": "Vitamin A deficiency compromises the integrity of epithelial barriers throughout the body (respiratory, gastrointestinal, urinary tract) and impairs immune function through multiple mechanisms. It reduces the production of secretory IgA, impairs T-cell mediated immunity, decreases natural killer cell activity, and affects cytokine production. The loss of epithelial barrier function combined with impaired immune response significantly increases susceptibility to infections, particularly respiratory and diarrheal diseases.",
+    "reference": "Stephensen CB. Vitamin A, infection, and immune function. Annu Rev Nutr. 2001;21:167-192."
+  },
+  {
+    "question": "Which of the following is a classic sign of vitamin A deficiency affecting the conjunctiva?",
+    "options": [
+      "Follicular hypertrophy",
+      "Bitot's spots", 
+      "Subconjunctival hemorrhage", 
+      "Chemosis", 
+      "Papillary reaction"
+    ],
+    "correct": "Bitot's spots",
+    "explanation": "Bitot's spots are classic signs of vitamin A deficiency affecting the conjunctiva. They appear as foamy, triangular, grayish-white, slightly elevated lesions on the temporal conjunctiva, typically bilateral. These spots consist of keratinized epithelial debris and saprophytic bacteria (particularly Corynebacterium xerosis). Bitot's spots are pathognomonic for vitamin A deficiency when accompanied by conjunctival xerosis, though in severe chronic deficiency, they may persist even after vitamin A supplementation.",
+    "reference": "Sommer A. Vitamin A deficiency and its consequences: a field guide to detection and control. World Health Organization, 1995."
+  },
+  {
+    "question": "In which age group is vitamin A deficiency most prevalent globally?",
+    "options": [
+      "Neonates (0-28 days)",
+      "Young infants (1-5 months)", 
+      "Preschool children (6-59 months)", 
+      "School-age children (6-12 years)", 
+      "Adolescents (13-19 years)"
+    ],
+    "correct": "Preschool children (6-59 months)",
+    "explanation": "Vitamin A deficiency is most prevalent in preschool children aged 6-59 months globally. This age group is particularly vulnerable due to increased physiological requirements during rapid growth, potentially inadequate complementary feeding practices after exclusive breastfeeding ends, higher exposure to infections that deplete vitamin A stores, and limited dietary diversity in many resource-limited settings. WHO estimates that approximately 190 million preschool children worldwide are affected by vitamin A deficiency.",
+    "reference": "Stevens GA, Bennett JE, Hennocq Q, et al. Trends and mortality effects of vitamin A deficiency in children in 138 low-income and middle-income countries between 1991 and 2013: a pooled analysis of population-based surveys. Lancet Glob Health. 2015;3(9):e528-e536."
+  },
+  {
+    "question": "Which histological change is characteristic of vitamin A deficiency in the respiratory epithelium?",
+    "options": [
+      "Increased mucus production",
+      "Squamous metaplasia replacing ciliated epithelium", 
+      "Hyperplasia of goblet cells", 
+      "Infiltration of eosinophils", 
+      "Basement membrane thickening"
+    ],
+    "correct": "Squamous metaplasia replacing ciliated epithelium",
+    "explanation": "Vitamin A deficiency causes squamous metaplasia of the respiratory epithelium, where normal ciliated columnar epithelium is replaced by stratified squamous epithelium. This metaplastic change impairs mucociliary clearance, reducing the respiratory tract's ability to remove pathogens and particulates. The loss of ciliated cells and goblet cells (which produce protective mucus) compromises the mechanical barrier function of the respiratory tract, contributing to increased susceptibility to respiratory infections in vitamin A deficient children.",
+    "reference": "Wolbach SB, Howe PR. Tissue changes following deprivation of fat-soluble A vitamin. J Exp Med. 1925;42(6):753-777."
+  },
+  {
+    "question": "Which intervention has been shown to reduce all-cause mortality in children aged 6-59 months by approximately 24% in vitamin A deficient populations?",
+    "options": [
+      "Weekly low-dose vitamin A supplementation",
+      "Biannual high-dose vitamin A supplementation", 
+      "Daily multivitamin supplementation", 
+      "Monthly moderate-dose vitamin A supplementation", 
+      "Fortification of staple foods with vitamin A"
+    ],
+    "correct": "Biannual high-dose vitamin A supplementation",
+    "explanation": "Biannual high-dose vitamin A supplementation (200,000 IU for children 12-59 months, 100,000 IU for infants 6-11 months) has been shown to reduce all-cause mortality in children aged 6-59 months by approximately 24% in vitamin A deficient populations. This evidence from multiple randomized controlled trials and meta-analyses led to the WHO recommendation for universal vitamin A supplementation in this age group in settings where vitamin A deficiency is a public health problem. The intervention is considered one of the most cost-effective child survival strategies.",
+    "reference": "Imdad A, Mayo-Wilson E, Herzer K, Bhutta ZA. Vitamin A supplementation for preventing morbidity and mortality in children from six months to five years of age. Cochrane Database Syst Rev. 2017;3:CD008524."
+  },
+  {
+    "question": "Which biochemical test is considered the gold standard for assessing vitamin A status in children?",
+    "options": [
+      "Retinol-binding protein (RBP) levels",
+      "Serum retinol concentration", 
+      "Relative dose response (RDR) test", 
+      "Modified relative dose response (MRDR) test", 
+      "Serum retinyl esters measurement"
+    ],
+    "correct": "Relative dose response (RDR) test",
+    "explanation": "The relative dose response (RDR) test is considered the gold standard for assessing vitamin A status in children. It measures the percentage change in serum retinol concentration before and after administration of a small dose of vitamin A. The test reflects liver vitamin A reserves more accurately than static measures like serum retinol. An RDR value >20% indicates depleted liver stores. While more precise than serum retinol measurement, the RDR test requires two blood samples and is more complex to perform, making it less practical for large-scale assessments.",
+    "reference": "Tanumihardjo SA. Vitamin A: biomarkers of nutrition for development. Am J Clin Nutr. 2011;94(2):658S-665S."
+  }
+]
