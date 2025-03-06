@@ -1,132 +1,132 @@
 [
   {
-    "question": "Which of the following best describes the pathophysiology of meconium aspiration syndrome?",
+    "question": "What is the most common cause of congenital hypothyroidism worldwide?",
     "options": [
-      "Simple mechanical obstruction of airways",
-      "Chemical pneumonitis with airway obstruction and surfactant inactivation",
-      "Purely inflammatory response to foreign material",
-      "Direct toxic effect on type II pneumocytes",
-      "Bacterial superinfection of meconium-filled alveoli"
+      "Thyroid hormone resistance",
+      "Iodine deficiency",
+      "Thyroid dysgenesis",
+      "Thyroid dyshormogenesis",
+      "Maternal antibodies"
     ],
-    "correct": "Chemical pneumonitis with airway obstruction and surfactant inactivation",
-    "explanation": "Meconium aspiration syndrome (MAS) involves a complex pathophysiology where meconium causes mechanical obstruction of airways, chemical pneumonitis due to inflammatory mediators, and inactivation of surfactant. This leads to ventilation-perfusion mismatch, atelectasis, and potential persistent pulmonary hypertension of the newborn (PPHN).",
-    "reference": "Pediatric Pulmonology, 2017; 52(4): 474-482"
+    "correct": "Thyroid dysgenesis",
+    "explanation": "Thyroid dysgenesis (abnormal thyroid gland development) accounts for approximately 80-85% of permanent congenital hypothyroidism cases in iodine-sufficient regions. This includes thyroid agenesis (complete absence), hypoplasia (underdevelopment), and ectopic thyroid tissue (most commonly sublingual).",
+    "reference": "Pediatrics in Review. 2018;39(9):425-436"
   },
   {
-    "question": "Which risk factor is most strongly associated with meconium-stained amniotic fluid?",
+    "question": "Which screening test is most commonly used for congenital hypothyroidism in newborn screening programs?",
     "options": [
-      "Maternal diabetes",
-      "Preterm delivery",
-      "Post-term pregnancy",
-      "Maternal hypertension",
-      "Multiple gestation"
+      "Free T4 alone",
+      "Total T4 alone",
+      "TSH alone",
+      "TSH and Free T4",
+      "Total T3"
     ],
-    "correct": "Post-term pregnancy",
-    "explanation": "Post-term pregnancy (>42 weeks gestation) is the strongest risk factor for meconium-stained amniotic fluid. The incidence of meconium-stained amniotic fluid increases from approximately 10% at term to 40-50% in post-term pregnancies, likely due to increased gut maturity and relative placental insufficiency causing fetal stress.",
-    "reference": "American Journal of Obstetrics and Gynecology, 2020; 222(6): 581.e1-581.e8"
+    "correct": "TSH alone",
+    "explanation": "Most newborn screening programs worldwide use TSH as the primary screening test for congenital hypothyroidism. TSH elevation is the most sensitive indicator of primary hypothyroidism, which represents the vast majority of congenital hypothyroidism cases. Some programs use a combined TSH and T4 approach or a two-tier system, but TSH alone is the most common initial screening method.",
+    "reference": "European Journal of Endocrinology. 2014;170(1):R1-R8"
   },
   {
-    "question": "What is the current recommendation regarding routine intrapartum suctioning of the oropharynx and nasopharynx at the perineum in infants born through meconium-stained amniotic fluid?",
+    "question": "What is the optimal age for initiating treatment in a newborn diagnosed with congenital hypothyroidism?",
     "options": [
-      "Recommended for all infants born through meconium-stained fluid",
-      "Recommended only for thick meconium",
-      "Recommended only for non-vigorous infants",
-      "No longer recommended",
-      "Recommended only for infants <37 weeks gestation"
+      "Within the first 24 hours of life",
+      "Within the first 7 days of life",
+      "Within the first 14 days of life",
+      "Within the first 21 days of life",
+      "Within the first month of life"
     ],
-    "correct": "No longer recommended",
-    "explanation": "Since 2015, routine intrapartum suctioning of the oropharynx and nasopharynx at the perineum in infants born through meconium-stained amniotic fluid is no longer recommended. Randomized controlled trials have shown no benefit to this practice in preventing meconium aspiration syndrome, and current resuscitation guidelines focus on immediate assessment and resuscitation as needed.",
-    "reference": "Neonatal Resuscitation Program (NRP) Guidelines, American Academy of Pediatrics, 2021"
+    "correct": "Within the first 14 days of life",
+    "explanation": "Treatment for congenital hypothyroidism should ideally be initiated within the first 14 days of life to prevent neurodevelopmental deficits. Studies have shown that infants who begin treatment before 14 days of age have better intellectual outcomes compared to those who start treatment later. Earlier treatment (within the first 7 days) may be even more beneficial, but the 14-day mark is considered the critical threshold.",
+    "reference": "Journal of Clinical Endocrinology & Metabolism. 2020;105(12):e4536-e4563"
   },
   {
-    "question": "Which radiographic finding is MOST consistent with meconium aspiration syndrome?",
+    "question": "What is the recommended initial dose of levothyroxine for a term newborn with congenital hypothyroidism?",
     "options": [
-      "Ground glass opacification",
-      "Pneumothorax",
-      "Lobar consolidation",
-      "Hyperinflation with patchy opacities",
-      "Pleural effusion"
+      "5-7 μg/kg/day",
+      "7-10 μg/kg/day",
+      "10-15 μg/kg/day",
+      "15-20 μg/kg/day",
+      "20-25 μg/kg/day"
     ],
-    "correct": "Hyperinflation with patchy opacities",
-    "explanation": "Chest radiographs in meconium aspiration syndrome typically show hyperinflation with patchy opacities (coarse, irregular infiltrates) due to areas of obstruction and atelectasis adjacent to areas of air trapping. This creates the characteristic appearance of hyperexpansion with 'fluffy' or patchy infiltrates distributed throughout the lung fields.",
-    "reference": "Radiographics, 2019; 39(4): 1019-1032"
+    "correct": "10-15 μg/kg/day",
+    "explanation": "The recommended initial dose of levothyroxine for a term newborn with congenital hypothyroidism is 10-15 μg/kg/day. This higher dose is necessary to rapidly normalize thyroid hormone levels and optimize neurodevelopmental outcomes. Lower doses may lead to persistent hypothyroidism, while higher doses may cause adverse effects including craniosynostosis and hyperactivity.",
+    "reference": "Thyroid. 2021;31(3):387-419"
   },
   {
-    "question": "What is the most appropriate initial respiratory support for a term infant with moderate meconium aspiration syndrome and increasing oxygen requirements?",
+    "question": "Which of the following findings is NOT typically associated with congenital hypothyroidism in the newborn period?",
     "options": [
-      "Low-flow nasal cannula",
-      "Continuous positive airway pressure (CPAP)",
-      "Synchronized intermittent mandatory ventilation (SIMV)",
-      "High-frequency oscillatory ventilation (HFOV)",
-      "Extracorporeal membrane oxygenation (ECMO)"
+      "Prolonged jaundice",
+      "Large anterior fontanelle",
+      "Macroglossia",
+      "Hyperthermia",
+      "Constipation"
     ],
-    "correct": "Continuous positive airway pressure (CPAP)",
-    "explanation": "For a term infant with moderate meconium aspiration syndrome and increasing oxygen requirements, continuous positive airway pressure (CPAP) is typically the most appropriate initial respiratory support. CPAP helps maintain alveolar recruitment, improves oxygenation, and may prevent the need for intubation and mechanical ventilation. More invasive ventilation strategies would be reserved for worsening respiratory status or failure of CPAP.",
-    "reference": "Journal of Perinatology, 2022; 42(1): 12-19"
+    "correct": "Hyperthermia",
+    "explanation": "Hyperthermia is not associated with congenital hypothyroidism. In fact, hypothermia is a classic finding due to decreased metabolic rate and heat production. Other typical findings include prolonged jaundice, large anterior fontanelle, macroglossia, constipation, hypotonia, lethargy, feeding difficulties, and coarse facial features. However, due to early detection through newborn screening, many infants are now diagnosed and treated before these clinical signs become apparent.",
+    "reference": "New England Journal of Medicine. 2018;379(24):2340-2350"
   },
   {
-    "question": "Which complication is most closely associated with severe meconium aspiration syndrome?",
+    "question": "Which radiographic finding is characteristic of advanced, untreated congenital hypothyroidism?",
     "options": [
-      "Bronchopulmonary dysplasia",
-      "Persistent pulmonary hypertension of the newborn (PPHN)",
-      "Pulmonary interstitial emphysema",
-      "Vocal cord paralysis",
-      "Pulmonary hemorrhage"
+      "Accelerated bone age",
+      "Premature fusion of cranial sutures",
+      "Delayed appearance of ossification centers",
+      "Increased bone density",
+      "Early eruption of primary teeth"
     ],
-    "correct": "Persistent pulmonary hypertension of the newborn (PPHN)",
-    "explanation": "Persistent pulmonary hypertension of the newborn (PPHN) is the most closely associated complication with severe meconium aspiration syndrome, occurring in 15-20% of MAS cases. Meconium causes pulmonary vasoconstriction through several mechanisms, including hypoxia, acidosis, and inflammatory mediators. This leads to right-to-left shunting through the foramen ovale and ductus arteriosus, worsening the hypoxemia and creating a vicious cycle.",
-    "reference": "Seminars in Fetal and Neonatal Medicine, 2021; 26(4): 101256"
+    "correct": "Delayed appearance of ossification centers",
+    "explanation": "Delayed appearance of ossification centers is characteristic of advanced, untreated congenital hypothyroidism. Thyroid hormone is essential for normal bone maturation, and its deficiency leads to delayed skeletal maturation. This can be observed radiographically as delayed appearance of ossification centers, particularly in the knee and foot. Other skeletal findings may include stippled epiphyses and retarded linear growth.",
+    "reference": "Radiographics. 2016;36(7):2010-2025"
   },
   {
-    "question": "Which therapeutic approach has shown the most consistent benefit in randomized controlled trials for the treatment of meconium aspiration syndrome?",
+    "question": "Which maternal condition is most strongly associated with transient congenital hypothyroidism in the newborn?",
     "options": [
-      "Prophylactic antibiotics",
-      "Systemic corticosteroids",
-      "Surfactant replacement therapy",
-      "Bronchodilators",
-      "Therapeutic lung lavage"
+      "Maternal hyperthyroidism",
+      "Maternal hypothyroidism",
+      "Maternal iodine deficiency",
+      "Maternal use of propylthiouracil",
+      "Maternal diabetes mellitus"
     ],
-    "correct": "Surfactant replacement therapy",
-    "explanation": "Surfactant replacement therapy has shown the most consistent benefit in randomized controlled trials for the treatment of meconium aspiration syndrome. Exogenous surfactant helps replace the inactivated endogenous surfactant and improves lung compliance and oxygenation. Meta-analyses have demonstrated that surfactant therapy reduces the need for extracorporeal membrane oxygenation (ECMO) and improves clinical outcomes in infants with MAS.",
-    "reference": "Cochrane Database of Systematic Reviews, 2021; 5(5): CD002054"
+    "correct": "Maternal iodine deficiency",
+    "explanation": "Maternal iodine deficiency is most strongly associated with transient congenital hypothyroidism in the newborn. Iodine is essential for thyroid hormone synthesis, and severe maternal deficiency can lead to fetal and neonatal hypothyroidism. Other causes of transient congenital hypothyroidism include maternal thyrotropin receptor blocking antibodies (TRBAbs), maternal use of antithyroid medications, and exposure to excess iodine (e.g., from antiseptic solutions).",
+    "reference": "Lancet. 2008;372(9645):1251-1262"
   },
   {
-    "question": "What is the approximate incidence of meconium aspiration syndrome among infants born through meconium-stained amniotic fluid in developed countries?",
+    "question": "Which genetic mutation is most commonly associated with thyroid dyshormonogenesis?",
     "options": [
-      "1-3%",
-      "5-10%",
-      "15-20%",
-      "25-30%",
-      "35-40%"
+      "TSHR (thyroid stimulating hormone receptor)",
+      "TPO (thyroid peroxidase)",
+      "NKX2-1 (thyroid transcription factor 1)",
+      "FOXE1 (forkhead box E1)",
+      "PAX8 (paired box 8)"
     ],
-    "correct": "5-10%",
-    "explanation": "The incidence of meconium aspiration syndrome among infants born through meconium-stained amniotic fluid in developed countries is approximately 5-10%. While meconium-stained amniotic fluid occurs in about 8-20% of all deliveries at term, only a fraction of these infants will develop MAS. The incidence has decreased over recent decades due to improved obstetric and neonatal care practices.",
-    "reference": "Clinics in Perinatology, 2023; 50(1): 123-138"
+    "correct": "TPO (thyroid peroxidase)",
+    "explanation": "Mutations in the TPO (thyroid peroxidase) gene are the most common cause of thyroid dyshormonogenesis, accounting for approximately 50% of cases. TPO is essential for iodine organification and thyroid hormone synthesis. Mutations in this gene result in impaired thyroid hormone production despite the presence of a normally located and sized thyroid gland. Other genes associated with dyshormonogenesis include TG (thyroglobulin), DUOX2, DUOXA2, IYD, SLC5A5 (NIS), and SLC26A4 (pendrin).",
+    "reference": "Clinical Endocrinology. 2017;87(5):440-448"
   },
   {
-    "question": "Which of the following interventions has been shown to decrease the incidence of meconium aspiration syndrome?",
+    "question": "What is the most appropriate timing for the first follow-up laboratory assessment after initiating treatment for congenital hypothyroidism?",
     "options": [
-      "Amnioinfusion during labor",
-      "Routine oropharyngeal suctioning at birth",
-      "Prophylactic intubation of all infants born through meconium-stained fluid",
-      "Elective cesarean section for all pregnancies with meconium-stained fluid",
-      "Active management of labor to prevent post-term pregnancy"
+      "1-2 days",
+      "1 week",
+      "2 weeks",
+      "4 weeks",
+      "3 months"
     ],
-    "correct": "Active management of labor to prevent post-term pregnancy",
-    "explanation": "Active management of labor to prevent post-term pregnancy has been shown to decrease the incidence of meconium aspiration syndrome. The incidence of meconium-stained amniotic fluid and subsequent MAS increases significantly in post-term pregnancies. By preventing post-term pregnancies through active management (including induction of labor before 42 weeks), the risk of MAS is reduced. Other listed interventions have either shown no benefit or inconsistent results in high-quality studies.",
-    "reference": "American Journal of Obstetrics and Gynecology, 2021; 224(4): 366.e1-366.e8"
+    "correct": "2 weeks",
+    "explanation": "The first follow-up laboratory assessment should be performed approximately 2 weeks after initiating treatment for congenital hypothyroidism. This timing allows evaluation of the initial response to therapy and provides an opportunity for dose adjustment if needed. The goal is to normalize free T4 levels as quickly as possible, ideally within 2 weeks of starting treatment, while avoiding overtreatment. TSH normalization typically lags behind free T4 normalization.",
+    "reference": "Journal of Clinical Endocrinology & Metabolism. 2020;105(12):e4536-e4563"
   },
   {
-    "question": "What is the most important long-term respiratory outcome associated with severe meconium aspiration syndrome?",
+    "question": "Which of the following is the most accurate statement regarding neurodevelopmental outcomes in children with congenital hypothyroidism?",
     "options": [
-      "Bronchiectasis",
-      "Reactive airway disease/asthma",
-      "Bronchopulmonary dysplasia",
-      "Pulmonary fibrosis",
-      "Chronic pulmonary hypertension"
+      "Most children with congenital hypothyroidism have severe intellectual disability despite early treatment",
+      "Neurodevelopmental outcomes are primarily determined by the etiology of congenital hypothyroidism",
+      "Children with congenital hypothyroidism typically have normal intelligence but specific deficits in motor skills",
+      "Early treatment with adequate doses of levothyroxine leads to normal intellectual outcomes in most cases",
+      "Neurodevelopmental outcomes are unrelated to the timing of treatment initiation"
     ],
-    "correct": "Reactive airway disease/asthma",
-    "explanation": "Reactive airway disease/asthma is the most important long-term respiratory outcome associated with severe meconium aspiration syndrome. Follow-up studies of infants with severe MAS have demonstrated an increased incidence of reactive airway disease, wheezing, and asthma during childhood and adolescence. This is thought to be related to the initial inflammatory damage to the airways and the subsequent airway hyperreactivity that develops in response to the initial insult.",
-    "reference": "Journal of Pediatrics, 2022; 240: 82-89"
+    "correct": "Early treatment with adequate doses of levothyroxine leads to normal intellectual outcomes in most cases",
+    "explanation": "Early treatment with adequate doses of levothyroxine leads to normal intellectual outcomes in most cases of congenital hypothyroidism. The introduction of newborn screening programs has dramatically improved outcomes, with most treated children achieving normal intelligence. However, subtle neurocognitive deficits may persist in some children, particularly those with severe hypothyroidism at diagnosis (very low T4, very high TSH), delayed treatment initiation, or poor treatment compliance. The severity of hypothyroidism at diagnosis and the timing of treatment initiation are the most important determinants of neurodevelopmental outcomes.",
+    "reference": "Pediatrics. 2019;143(5):e20181317"
   }
 ]
