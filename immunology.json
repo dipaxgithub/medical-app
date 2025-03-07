@@ -129,5 +129,137 @@
     "correct": "Concurrent thrombocytopenia and anemia",
     "explanation": "The presence of neutropenia along with abnormalities in other cell lines (thrombocytopenia and anemia) is concerning for bone marrow infiltration or failure, with leukemia being a primary consideration. This pattern, often called pancytopenia, suggests a process affecting all hematopoietic lineages and warrants immediate evaluation with peripheral blood smear and bone marrow examination.",
     "reference": "Archives of Disease in Childhood: 'Investigation and Management of Neutropenia in Children'"
-  }
+  },
+     
+    {     
+        "question": "Which of the following is the most common functional impairment seen in Natural Killer (NK) cells in children with primary immunodeficiency disorders?",     
+        "options": [       
+            "Decreased cytotoxicity",       
+            "Increased cytotoxicity",        
+            "Decreased cell numbers only",        
+            "Increased interferon-gamma production",        
+            "Decreased CD56 expression"     
+        ],     
+        "correct": "Decreased cytotoxicity",     
+        "explanation": "Decreased NK cell cytotoxicity is the most common functional impairment observed in children with primary immunodeficiency disorders affecting NK cells. This functional deficit can occur even when NK cell numbers are normal, and results in impaired ability to kill virus-infected cells and tumor cells.",    
+        "reference": "Orange JS. Natural killer cell deficiency. Journal of Allergy and Clinical Immunology. 2013;132(3):515-525."   
+    },
+    {     
+        "question": "Which genetic disorder is characterized by partial albinism, recurrent infections, and specific NK cell dysfunction?",     
+        "options": [       
+            "X-linked lymphoproliferative syndrome",       
+            "Wiskott-Aldrich syndrome",        
+            "Chédiak-Higashi syndrome",        
+            "Griscelli syndrome type 2",        
+            "WHIM syndrome"     
+        ],     
+        "correct": "Chédiak-Higashi syndrome",     
+        "explanation": "Chédiak-Higashi syndrome (CHS) is an autosomal recessive disorder characterized by partial oculocutaneous albinism, recurrent pyogenic infections, progressive neurologic dysfunction, and the presence of giant lysosomal granules in various cell types. NK cells in CHS patients have impaired cytotoxic function due to defective granule exocytosis, resulting from mutations in the LYST gene.",    
+        "reference": "Kaplan J, De Domenico I, Ward DM. Chediak-Higashi syndrome. Current Opinion in Hematology. 2008;15(1):22-29."   
+    },
+    {     
+        "question": "Which cytokine deficiency is most closely associated with NK cell developmental defects in children?",     
+        "options": [       
+            "IL-2",       
+            "IL-4",        
+            "IL-12",        
+            "IL-15",        
+            "TGF-β"     
+        ],     
+        "correct": "IL-15",     
+        "explanation": "IL-15 is critical for NK cell development, differentiation, and survival. Deficiency in IL-15 or its receptor components results in severe NK cell lymphopenia. IL-15 signals through the IL-15 receptor complex, which shares components with the IL-2 receptor but has unique specificity for NK cell development.",    
+        "reference": "Vély F, Barlogis V, Vallentin B, et al. Evidence of innate lymphoid cell redundancy in humans. Nature Immunology. 2016;17(11):1291-1299."   
+    },
+    {     
+        "question": "Which of the following disorders is associated with specific NK cell deficiency and susceptibility to herpesvirus infections?",     
+        "options": [       
+            "X-linked lymphoproliferative syndrome (XLP)",       
+            "Severe combined immunodeficiency (SCID)",        
+            "Hyper-IgE syndrome",        
+            "Chronic granulomatous disease",        
+            "Common variable immunodeficiency"     
+        ],     
+        "correct": "X-linked lymphoproliferative syndrome (XLP)",     
+        "explanation": "X-linked lymphoproliferative syndrome (XLP) is characterized by extreme susceptibility to Epstein-Barr virus (EBV) infection. It is caused by mutations in the SH2D1A gene (XLP1) or XIAP gene (XLP2). NK cells in XLP patients have impaired cytotoxicity against EBV-infected cells, leading to uncontrolled viral replication and often fatal infectious mononucleosis.",    
+        "reference": "Tangye SG. XLP: Clinical Features and Molecular Etiology due to Mutations in SH2D1A Encoding SAP. Journal of Clinical Immunology. 2014;34(7):772-779."   
+    },
+    {     
+        "question": "Which of the following is a characteristic feature of Familial Hemophagocytic Lymphohistiocytosis (FHL) related to NK cell dysfunction?",     
+        "options": [       
+            "Increased NK cell numbers",       
+            "Impaired cytotoxic granule exocytosis",        
+            "Absence of perforin expression only in T cells",        
+            "Decreased expression of CD16 on NK cells",        
+            "Enhanced NK cell proliferation"     
+        ],     
+        "correct": "Impaired cytotoxic granule exocytosis",     
+        "explanation": "Familial Hemophagocytic Lymphohistiocytosis (FHL) is a group of genetic disorders characterized by impaired cytotoxic granule exocytosis in NK cells and cytotoxic T lymphocytes. This defect results in inability to eliminate infected cells and regulate immune responses, leading to hyperinflammation, cytokine storm, and potentially fatal hemophagocytic syndrome.",    
+        "reference": "Meeths M, Horne A, Sabel M, et al. Incidence and clinical presentation of primary hemophagocytic lymphohistiocytosis in Sweden. Pediatric Blood & Cancer. 2015;62(2):346-352."   
+    },
+    {     
+        "question": "Which gene mutation is most commonly associated with NK cell cytotoxicity defects in Familial Hemophagocytic Lymphohistiocytosis type 2 (FHL2)?",     
+        "options": [       
+            "UNC13D",       
+            "STX11",        
+            "PRF1",        
+            "STXBP2",        
+            "RAB27A"     
+        ],     
+        "correct": "PRF1",     
+        "explanation": "Familial Hemophagocytic Lymphohistiocytosis type 2 (FHL2) is caused by mutations in the PRF1 gene, which encodes perforin. Perforin is a pore-forming protein essential for NK cell and cytotoxic T lymphocyte killing function. Mutations in PRF1 result in absent or decreased perforin expression, leading to severely impaired cytotoxic activity and early-onset, often fatal, hemophagocytic syndrome.",    
+        "reference": "Stepp SE, Dufourcq-Lagelouse R, Le Deist F, et al. Perforin gene defects in familial hemophagocytic lymphohistiocytosis. Science. 1999;286(5446):1957-1959."   
+    },
+    {     
+        "question": "In children with Griscelli syndrome type 2, which cellular defect is responsible for the NK cell dysfunction?",     
+        "options": [       
+            "Defective cytokine production",       
+            "Impaired receptor signaling",        
+            "Defective cytotoxic granule transport",        
+            "Absent NK cell development",        
+            "Enhanced NK cell apoptosis"     
+        ],     
+        "correct": "Defective cytotoxic granule transport",     
+        "explanation": "Griscelli syndrome type 2 (GS2) is caused by mutations in the RAB27A gene, which encodes a small GTPase involved in vesicle trafficking. This mutation results in defective cytotoxic granule transport to the immunological synapse in NK cells and cytotoxic T lymphocytes. Patients present with partial albinism and recurrent episodes of hemophagocytic lymphohistiocytosis.",    
+        "reference": "Ménasché G, Pastural E, Feldmann J, et al. Mutations in RAB27A cause Griscelli syndrome associated with haemophagocytic syndrome. Nature Genetics. 2000;25(2):173-176."   
+    },
+    {     
+        "question": "Which of the following best describes the mechanism of defective NK cell cytotoxicity in Hermansky-Pudlak syndrome type 2?",     
+        "options": [       
+            "Impaired target cell recognition",       
+            "Defective granule polarization",        
+            "Impaired perforin expression",        
+            "Defective cytokine secretion",        
+            "Enhanced inhibitory receptor signaling"     
+        ],     
+        "correct": "Defective granule polarization",     
+        "explanation": "Hermansky-Pudlak syndrome type 2 (HPS2) is caused by mutations in the AP3B1 gene, encoding a subunit of the adaptor protein complex-3 (AP-3). This complex is involved in the biogenesis of lysosome-related organelles, including melanosomes and cytotoxic granules. In NK cells, AP-3 deficiency leads to impaired granule content maturation and defective polarization of lytic granules to the immunological synapse.",    
+        "reference": "Fontana S, Parolini S, Vermi W, et al. Innate immunity defects in Hermansky-Pudlak type 2 syndrome. Blood. 2006;107(12):4857-4864."   
+    },
+    {     
+        "question": "Which condition is characterized by a functional NK cell defect despite normal or increased NK cell numbers in peripheral blood?",     
+        "options": [       
+            "DOCK8 deficiency",       
+            "MCM4 deficiency",        
+            "GATA2 deficiency",        
+            "CARD11 deficiency",        
+            "IL-21R deficiency"     
+        ],     
+        "correct": "DOCK8 deficiency",     
+        "explanation": "DOCK8 deficiency (autosomal recessive hyper-IgE syndrome) is characterized by normal or even increased NK cell numbers in peripheral blood, but with impaired NK cell cytotoxicity and migration. DOCK8 plays a crucial role in immune cell cytoskeletal reorganization, which is essential for NK cell function. Patients present with recurrent viral infections, elevated IgE, eczema, and increased susceptibility to malignancies.",    
+        "reference": "Mizesko MC, Banerjee PP, Monaco-Shawver L, et al. Defective actin accumulation impairs human natural killer cell function in patients with dedicator of cytokinesis 8 deficiency. Journal of Allergy and Clinical Immunology. 2013;131(3):840-848."   
+    },
+    {     
+        "question": "Which of the following cytokines is most effective for enhancing NK cell cytotoxicity in children with functional NK cell deficiencies?",     
+        "options": [       
+            "Interleukin-2 (IL-2)",       
+            "Interleukin-4 (IL-4)",        
+            "Interleukin-10 (IL-10)",        
+            "Transforming Growth Factor-β (TGF-β)",        
+            "Interleukin-35 (IL-35)"     
+        ],     
+        "correct": "Interleukin-2 (IL-2)",     
+        "explanation": "Interleukin-2 (IL-2) is a potent activator of NK cell cytotoxicity and proliferation. IL-2 therapy has been used successfully to enhance NK cell function in several immunodeficiency disorders with functional NK cell defects. IL-2 binds to the high-affinity IL-2 receptor on NK cells, triggering signaling pathways that enhance cytotoxicity, proliferation, and cytokine production.",    
+        "reference": "Klingemann HG. Cellular therapy of cancer with natural killer cells-where do we stand? Cytotherapy. 2013;15(10):1185-1194."   
+    }
+
 ]
