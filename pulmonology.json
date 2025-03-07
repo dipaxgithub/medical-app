@@ -129,5 +129,136 @@
     "correct": "Hypoxemia (SpO2 <90%) despite supplemental oxygen",
     "explanation": "Hypoxemia (SpO2 <90%) that persists despite supplemental oxygen is the strongest predictor of severe pneumonia requiring ICU admission in children. It indicates significant ventilation-perfusion mismatch, extensive disease, or impending respiratory failure. Other concerning signs include altered mental status, respiratory rate >70 breaths/min in infants, and signs of sepsis or shock.",
     "reference": "Williams DJ, et al. Severity of disease and risk of invasive pneumococcal disease among children hospitalized with pneumonia. Pediatrics"
+  },
+  
+  {
+    "question": "Which of the following is the most common cause of bronchiectasis in children in developed countries?",
+    "options": [
+      "Post-infectious bronchiectasis",
+      "Primary ciliary dyskinesia",
+      "Immunodeficiency disorders",
+      "Cystic fibrosis",
+      "Foreign body aspiration"
+    ],
+    "correct": "Cystic fibrosis",
+    "explanation": "Cystic fibrosis remains the most common cause of bronchiectasis in children in developed countries, accounting for approximately 30-50% of cases. The CFTR gene mutation leads to abnormal mucus production and clearance, predisposing to recurrent respiratory infections and subsequent bronchiectasis.",
+    "reference": "Pediatric Respiratory Reviews, 2021; 39: 33-45"
+  },
+  {
+    "question": "Which imaging modality is considered the gold standard for diagnosing bronchiectasis in children?",
+    "options": [
+      "Chest X-ray",
+      "High-resolution CT scan (HRCT)",
+      "MRI",
+      "Ventilation/perfusion scan",
+      "Ultrasound"
+    ],
+    "correct": "High-resolution CT scan (HRCT)",
+    "explanation": "HRCT is the gold standard for diagnosing bronchiectasis in children. It can detect bronchiectasis with high sensitivity and specificity by revealing bronchial dilatation, bronchial wall thickening, lack of bronchial tapering, and air trapping. Chest X-rays have limited sensitivity and may miss early or mild bronchiectasis.",
+    "reference": "European Respiratory Journal, 2023; 61(1): 2200297"
+  },
+  {
+    "question": "Which clinical feature is most suggestive of bronchiectasis in a child with chronic cough?",
+    "options": [
+      "Dry, barking cough",
+      "Wheezing",
+      "Hemoptysis",
+      "Daily wet/productive cough for > 4 weeks",
+      "Nocturnal cough only"
+    ],
+    "correct": "Daily wet/productive cough for > 4 weeks",
+    "explanation": "A chronic wet/productive cough persisting for more than 4 weeks is the most common and characteristic clinical feature of bronchiectasis in children. The presence of a persistent wet cough should prompt further investigation for bronchiectasis, especially if accompanied by recurrent respiratory infections, growth failure, or digital clubbing.",
+    "reference": "Thorax, 2022; 77(8): 831-839"
+  },
+  {
+    "question": "Which pulmonary function test finding is most commonly associated with bronchiectasis in children?",
+    "options": [
+      "Isolated restrictive pattern",
+      "Obstructive pattern with reversibility",
+      "Mixed obstructive and restrictive pattern",
+      "Normal pulmonary function tests",
+      "Increased diffusion capacity"
+    ],
+    "correct": "Mixed obstructive and restrictive pattern",
+    "explanation": "Children with bronchiectasis typically demonstrate a mixed obstructive and restrictive pattern on pulmonary function tests. The obstructive component results from airway inflammation, mucus plugging, and airway remodeling, while the restrictive component may develop from fibrosis and volume loss in affected lung segments. Pulmonary function tests may be normal in early or mild disease.",
+    "reference": "Pediatric Pulmonology, 2020; 55(2): 378-386"
+  },
+  {
+    "question": "In a child with bronchiectasis, which organism is most commonly isolated from respiratory samples?",
+    "options": [
+      "Streptococcus pneumoniae",
+      "Haemophilus influenzae",
+      "Pseudomonas aeruginosa",
+      "Staphylococcus aureus",
+      "Mycoplasma pneumoniae"
+    ],
+    "correct": "Haemophilus influenzae",
+    "explanation": "Haemophilus influenzae (often non-typeable strains) is the most frequently isolated pathogen from respiratory samples in children with non-cystic fibrosis bronchiectasis, found in approximately 30-70% of cases. Other common pathogens include Streptococcus pneumoniae and Moraxella catarrhalis. Pseudomonas aeruginosa is more common in advanced disease or in cystic fibrosis-related bronchiectasis.",
+    "reference": "Archives of Disease in Childhood, 2021; 106(1): 76-82"
+  },
+  {
+    "question": "Which treatment approach has shown the most evidence for improving quality of life and reducing exacerbations in children with bronchiectasis?",
+    "options": [
+      "Long-term prophylactic antibiotics",
+      "Inhaled corticosteroids",
+      "Airway clearance techniques",
+      "Leukotriene receptor antagonists",
+      "Routine bronchodilator therapy"
+    ],
+    "correct": "Airway clearance techniques",
+    "explanation": "Airway clearance techniques have demonstrated the strongest evidence for improving quality of life and reducing exacerbations in children with bronchiectasis. These techniques, including chest physiotherapy, active cycle of breathing, positive expiratory pressure devices, and exercise, help mobilize secretions and enhance mucociliary clearance. They form the cornerstone of bronchiectasis management and should be individualized based on the child's age, capability, and preference.",
+    "reference": "Cochrane Database of Systematic Reviews, 2022; 4: CD013110"
+  },
+  {
+    "question": "Which of the following immunodeficiency disorders is most commonly associated with bronchiectasis in children?",
+    "options": [
+      "Selective IgA deficiency",
+      "Common variable immunodeficiency (CVID)",
+      "Severe combined immunodeficiency (SCID)",
+      "X-linked agammaglobulinemia",
+      "DiGeorge syndrome"
+    ],
+    "correct": "Common variable immunodeficiency (CVID)",
+    "explanation": "Common variable immunodeficiency (CVID) is the immunodeficiency most commonly associated with bronchiectasis in children. CVID is characterized by impaired B-cell differentiation leading to hypogammaglobulinemia and recurrent sinopulmonary infections. Approximately 30-60% of patients with CVID develop bronchiectasis, often in the middle and lower lobes. Early diagnosis and immunoglobulin replacement therapy can reduce the risk of bronchiectasis development.",
+    "reference": "Journal of Clinical Immunology, 2021; 41(3): 594-603"
+  },
+  {
+    "question": "Which lobe of the lung is most commonly affected in children with post-infectious bronchiectasis?",
+    "options": [
+      "Right upper lobe",
+      "Right middle lobe",
+      "Right lower lobe",
+      "Left upper lobe",
+      "Left lower lobe"
+    ],
+    "correct": "Left lower lobe",
+    "explanation": "The left lower lobe is most commonly affected in children with post-infectious bronchiectasis, followed by the right middle lobe and lingula. This distribution pattern differs from cystic fibrosis-related bronchiectasis, which typically shows upper lobe predominance in advanced disease. The predilection for lower lobes in post-infectious bronchiectasis may be related to gravity-dependent clearance mechanisms and regional differences in ventilation.",
+    "reference": "Pediatric Radiology, 2020; 50(7): 945-953"
+  },
+  {
+    "question": "In a child with newly diagnosed bronchiectasis, which of the following investigations is most important to perform?",
+    "options": [
+      "Bronchoscopy with bronchoalveolar lavage",
+      "Sweat chloride test",
+      "Comprehensive immune function assessment",
+      "Ciliary biopsy and electron microscopy",
+      "Serological testing for allergies"
+    ],
+    "correct": "Sweat chloride test",
+    "explanation": "The sweat chloride test is the most important initial investigation in a child with newly diagnosed bronchiectasis, as cystic fibrosis remains the most common identifiable cause of bronchiectasis in children in developed countries. Even in the absence of typical gastrointestinal symptoms, CF should be ruled out before proceeding with more invasive or specialized investigations. Additional testing should include immune function assessment, spirometry, and consideration of primary ciliary dyskinesia evaluation based on clinical context.",
+    "reference": "American Journal of Respiratory and Critical Care Medicine, 2021; 204(6): 671-680"
+  },
+  {
+    "question": "Which of the following findings on HRCT is most specific for bronchiectasis in children?",
+    "options": [
+      "Air trapping",
+      "Peribronchial thickening",
+      "Mosaic attenuation",
+      "Bronchial diameter greater than adjacent pulmonary artery (signet ring sign)",
+      "Ground glass opacities"
+    ],
+    "correct": "Bronchial diameter greater than adjacent pulmonary artery (signet ring sign)",
+    "explanation": "The 'signet ring sign' on HRCT, where the bronchial diameter is greater than the adjacent pulmonary artery (bronchial-arterial ratio >1), is the most specific radiological finding for bronchiectasis in children. Other supportive findings include lack of bronchial tapering toward the periphery, bronchial wall thickening, and visualization of bronchi in the peripheral third of the lung field. While air trapping, peribronchial thickening, and mosaic attenuation may be present in bronchiectasis, they are less specific and can occur in other respiratory conditions.",
+    "reference": "Radiologic Clinics of North America, 2022; 60(1): 93-111"
   }
 ]
