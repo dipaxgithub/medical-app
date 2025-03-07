@@ -128,5 +128,137 @@
     "correct": "Diffuse proliferative glomerulonephritis",
     "explanation": "Diffuse proliferative glomerulonephritis is the characteristic histopathological finding on light microscopy in post-streptococcal glomerulonephritis. This pattern shows hypercellularity due to infiltration of neutrophils and monocytes, as well as proliferation of endothelial and mesangial cells. Immunofluorescence typically reveals granular deposits of IgG and C3 along the glomerular basement membrane in a 'starry sky' pattern. Electron microscopy shows subepithelial 'humps' representing immune complex deposits.",
     "reference": "Nasr SH, Markowitz GS, Stokes MB, Said SM, Valeri AM, D'Agati VD. Acute postinfectious glomerulonephritis in the modern era: experience with 86 adults and review of the literature. Medicine (Baltimore). 2008;87(1):21-32."
+  },
+  
+  {
+    "question": "What is the most common cause of nephrotic syndrome in children?",
+    "options": [
+      "Focal segmental glomerulosclerosis",
+      "Membranous nephropathy",
+      "Minimal change disease",
+      "IgA nephropathy",
+      "Membranoproliferative glomerulonephritis"
+    ],
+    "correct": "Minimal change disease",
+    "explanation": "Minimal change disease (MCD) accounts for approximately 80-90% of nephrotic syndrome cases in children under 10 years of age, making it by far the most common etiology in the pediatric population.",
+    "reference": "Pediatric Nephrology, 2020; 35(3): 501-518"
+  },
+  {
+    "question": "Which microscopic finding is characteristic of minimal change disease on light microscopy?",
+    "options": [
+      "Mesangial hypercellularity",
+      "Basement membrane thickening",
+      "Essentially normal glomerular appearance",
+      "Immune complex deposition",
+      "Crescent formation"
+    ],
+    "correct": "Essentially normal glomerular appearance",
+    "explanation": "On light microscopy, minimal change disease classically shows normal-appearing glomeruli (hence the term 'minimal change'). The pathological changes are primarily at the ultrastructural level and are not visible with light microscopy.",
+    "reference": "Kidney International, 2019; 96(5): 1108-1115"
+  },
+  {
+    "question": "Which ultrastructural finding is diagnostic of minimal change disease on electron microscopy?",
+    "options": [
+      "Mesangial deposits",
+      "Subepithelial deposits",
+      "Foot process effacement",
+      "Subendothelial deposits",
+      "Wire loop lesions"
+    ],
+    "correct": "Foot process effacement",
+    "explanation": "The hallmark ultrastructural finding in minimal change disease is diffuse foot process effacement (or fusion) of the visceral epithelial cells (podocytes) without immune complex deposition, which is visible only on electron microscopy.",
+    "reference": "Clinical Journal of the American Society of Nephrology, 2022; 17(4): 524-534"
+  },
+  {
+    "question": "What is the typical immunofluorescence pattern seen in minimal change disease?",
+    "options": [
+      "Linear IgG deposition",
+      "Granular IgA deposition",
+      "Mesangial IgM deposition",
+      "Negative or nonspecific findings",
+      "Full-house pattern (IgG, IgA, IgM, C3, C1q)"
+    ],
+    "correct": "Negative or nonspecific findings",
+    "explanation": "Immunofluorescence in minimal change disease is typically negative or shows nonspecific findings. Some cases may show trace mesangial IgM or C3, but significant immune deposits are not characteristic of MCD.",
+    "reference": "Nature Reviews Nephrology, 2021; 17(8): 535-551"
+  },
+  {
+    "question": "Which medication is considered first-line therapy for minimal change disease in children?",
+    "options": [
+      "Cyclophosphamide",
+      "Corticosteroids",
+      "Calcineurin inhibitors",
+      "Rituximab",
+      "Mycophenolate mofetil"
+    ],
+    "correct": "Corticosteroids",
+    "explanation": "Corticosteroids (typically oral prednisone or prednisolone) are the first-line therapy for minimal change disease in children, with approximately 80-90% of patients achieving complete remission within 4-8 weeks of treatment.",
+    "reference": "Kidney International, 2021; 100(4): 769-777"
+  },
+  {
+    "question": "What is the duration of initial steroid therapy typically recommended for a first episode of minimal change disease in children?",
+    "options": [
+      "1-2 weeks",
+      "2-4 weeks",
+      "8-12 weeks",
+      "16-24 weeks",
+      "Lifelong"
+    ],
+    "correct": "8-12 weeks",
+    "explanation": "The typical recommended duration for initial steroid therapy in children with minimal change disease is 8-12 weeks total, including daily dosing for 4-6 weeks followed by alternate-day dosing for an additional 4-6 weeks, though protocols may vary between institutions.",
+    "reference": "Kidney Disease: Improving Global Outcomes (KDIGO) Clinical Practice Guideline for Glomerulonephritis, 2021 Update"
+  },
+  {
+    "question": "A child with minimal change disease who initially responds to steroid therapy but relapses when steroids are tapered or discontinued is classified as:",
+    "options": [
+      "Steroid-resistant",
+      "Steroid-dependent",
+      "Frequently relapsing",
+      "Treatment-refractory",
+      "Partially responsive"
+    ],
+    "correct": "Steroid-dependent",
+    "explanation": "Steroid-dependent minimal change disease is defined as relapse occurring during steroid tapering or within 2 weeks of steroid discontinuation. This pattern occurs in approximately 40-50% of children with minimal change disease.",
+    "reference": "Pediatric Nephrology, 2022; 37(8): 1789-1804"
+  },
+  {
+    "question": "Which of the following is considered a second-line therapy for steroid-dependent or frequently relapsing minimal change disease in children?",
+    "options": [
+      "Increasing steroid dose",
+      "Calcineurin inhibitors (cyclosporine or tacrolimus)",
+      "Intravenous methylprednisolone",
+      "Diuretics",
+      "Angiotensin-converting enzyme inhibitors"
+    ],
+    "correct": "Calcineurin inhibitors (cyclosporine or tacrolimus)",
+    "explanation": "Calcineurin inhibitors (cyclosporine or tacrolimus) are commonly used as second-line steroid-sparing agents in children with steroid-dependent or frequently relapsing minimal change disease, with efficacy rates of 70-80% for inducing and maintaining remission.",
+    "reference": "Clinical Journal of the American Society of Nephrology, 2023; 18(2): 256-265"
+  },
+  {
+    "question": "Which age group is most commonly affected by minimal change disease?",
+    "options": [
+      "Infants (<1 year)",
+      "Toddlers (1-3 years)",
+      "Preschool children (3-5 years)",
+      "School-age children (6-12 years)",
+      "Adolescents (13-18 years)"
+    ],
+    "correct": "School-age children (6-12 years)",
+    "explanation": "Minimal change disease most commonly affects school-age children, with the peak incidence between 6-12 years of age. The condition is less common in infants under 1 year and adolescents over 12 years of age.",
+    "reference": "Journal of the American Society of Nephrology, 2020; 31(9): 2083-2095"
+  },
+  {
+    "question": "Which complication is most commonly associated with minimal change disease in children?",
+    "options": [
+      "Chronic kidney disease",
+      "Hypertension",
+      "Infections",
+      "Growth failure",
+      "End-stage renal disease"
+    ],
+    "correct": "Infections",
+    "explanation": "Infections are the most common complication in children with minimal change disease, occurring due to the loss of immunoglobulins (especially IgG) in the urine, combined with immunosuppressive effects of treatment. Common infections include peritonitis, pneumonia, and cellulitis, often caused by encapsulated organisms.",
+    "reference": "Pediatric Nephrology, 2021; 36(5): 1187-1196"
   }
+
 ]
