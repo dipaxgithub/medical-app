@@ -1,0 +1,132 @@
+[
+  {
+    "question": "What is the normal timing for functional closure of the ductus arteriosus in a term neonate?",
+    "options": [
+      "Within 12 hours of birth",
+      "Within 24-48 hours of birth",
+      "Within 7-10 days of birth",
+      "Within 2-3 weeks of birth",
+      "Within 1-2 months of birth"
+    ],
+    "correct": "Within 24-48 hours of birth",
+    "explanation": "In term neonates, functional closure of the ductus arteriosus typically occurs within 24-48 hours after birth, primarily due to increased arterial oxygen tension and decreased circulating prostaglandins. Anatomical closure follows over the next 2-3 weeks. Delayed closure or persistent patency constitutes a PDA.",
+    "reference": "Rudolph AM. The changes in the circulation after birth: their importance in congenital heart disease. Circulation. 2019;139(4):619-631."
+  },
+  {
+    "question": "Which medication is considered first-line pharmacological treatment for PDA closure in premature infants?",
+    "options": [
+      "Furosemide",
+      "Indomethacin",
+      "Sildenafil",
+      "Dopamine",
+      "Spironolactone"
+    ],
+    "correct": "Indomethacin",
+    "explanation": "Indomethacin, a prostaglandin synthesis inhibitor, is considered a first-line pharmacological agent for PDA closure in premature infants. It works by inhibiting cyclooxygenase enzymes, reducing prostaglandin E2 production which promotes ductal constriction. Ibuprofen is an alternative agent with similar efficacy but potentially fewer renal side effects.",
+    "reference": "Benitz WE; Committee on Fetus and Newborn, American Academy of Pediatrics. Patent Ductus Arteriosus in Preterm Infants. Pediatrics. 2016;137(1):e20153730."
+  },
+  {
+    "question": "Which of the following is the most common clinical presentation of a large PDA in a 6-month-old infant?",
+    "options": [
+      "Asymptomatic heart murmur",
+      "Failure to thrive with recurrent respiratory infections",
+      "Cyanosis at rest",
+      "Hypertensive crisis",
+      "Sudden cardiac arrest"
+    ],
+    "correct": "Failure to thrive with recurrent respiratory infections",
+    "explanation": "A large PDA in a 6-month-old typically presents with failure to thrive, poor feeding, increased work of breathing, and recurrent respiratory infections due to pulmonary overcirculation. The increased pulmonary blood flow and left heart volume overload lead to symptoms of congestive heart failure, which impact growth and increase susceptibility to respiratory infections.",
+    "reference": "Schneider DJ, Moore JW. Patent ductus arteriosus. Circulation. 2006;114(17):1873-1882."
+  },
+  {
+    "question": "Which auscultatory finding is most characteristic of a moderate-sized PDA?",
+    "options": [
+      "Holosystolic murmur at the lower left sternal border",
+      "Mid-diastolic rumble at the apex",
+      "Continuous 'machinery' murmur best heard at the left infraclavicular area",
+      "Ejection click followed by a systolic murmur",
+      "Split S2 with fixed splitting"
+    ],
+    "correct": "Continuous 'machinery' murmur best heard at the left infraclavicular area",
+    "explanation": "A moderate-sized PDA classically produces a continuous 'machinery' murmur that persists throughout systole and diastole, heard best in the left infraclavicular area or upper left sternal border. This characteristic sound results from the continuous flow of blood from the aorta to the pulmonary artery throughout the cardiac cycle due to the persistent pressure gradient.",
+    "reference": "Park MK. Pediatric Cardiology for Practitioners. 6th ed. Philadelphia, PA: Elsevier; 2014:174-176."
+  },
+  {
+    "question": "Which population has the highest incidence of PDA?",
+    "options": [
+      "Term infants with no risk factors",
+      "Infants with maternal diabetes",
+      "Premature infants born at less than 28 weeks gestation",
+      "Children with Down syndrome",
+      "Adolescents with Marfan syndrome"
+    ],
+    "correct": "Premature infants born at less than 28 weeks gestation",
+    "explanation": "The incidence of PDA is inversely related to gestational age, with extremely premature infants (<28 weeks) having the highest rates, approaching 70-80%. This is due to developmental immaturity of the ductal tissue and decreased responsiveness to oxygen-induced constriction, combined with increased sensitivity to circulating prostaglandins that maintain ductal patency.",
+    "reference": "Clyman RI. Mechanisms regulating the ductus arteriosus. Biology of the Neonate. 2006;89(4):330-335."
+  },
+  {
+    "question": "What is the most common echocardiographic method used to determine the hemodynamic significance of a PDA?",
+    "options": [
+      "Measurement of ductal diameter",
+      "Left atrial to aortic root ratio (LA:Ao)",
+      "Tricuspid regurgitation velocity",
+      "Right ventricular systolic pressure",
+      "Pulmonary valve peak velocity"
+    ],
+    "correct": "Left atrial to aortic root ratio (LA:Ao)",
+    "explanation": "The left atrial to aortic root ratio (LA:Ao) is a widely used echocardiographic parameter to assess the hemodynamic significance of a PDA. A ratio >1.4 typically indicates a hemodynamically significant shunt causing left atrial enlargement due to increased pulmonary venous return. Other parameters include ductal diameter, direction and pattern of ductal flow, and presence of diastolic flow reversal in the descending aorta.",
+    "reference": "Sehgal A, McNamara PJ. The ductus arteriosus: a refined approach to diagnosis and management. Seminars in Perinatology. 2012;36(2):105-113."
+  },
+  {
+    "question": "Which congenital syndrome is most strongly associated with persistent patency of the ductus arteriosus?",
+    "options": [
+      "Down syndrome",
+      "Turner syndrome",
+      "DiGeorge syndrome",
+      "Rubella syndrome",
+      "Williams syndrome"
+    ],
+    "correct": "Rubella syndrome",
+    "explanation": "Congenital rubella syndrome has the strongest association with PDA, with an incidence of approximately 60% in affected infants. Maternal rubella infection during early pregnancy leads to inflammatory damage of developing fetal cardiovascular structures, particularly affecting the ductus arteriosus and causing abnormal ductal tissue that fails to close after birth.",
+    "reference": "Khurana R, Puneet K, Rao S. Patent ductus arteriosus in congenital syndromes. Journal of the Practice of Cardiovascular Sciences. 2018;4(2):122-127."
+  },
+  {
+    "question": "What is the main long-term complication of an untreated, large PDA in a child who survives into adulthood?",
+    "options": [
+      "Eisenmenger syndrome",
+      "Infective endocarditis",
+      "Aortic dissection",
+      "Complete heart block",
+      "Pulmonary valve stenosis"
+    ],
+    "correct": "Eisenmenger syndrome",
+    "explanation": "An untreated large PDA eventually leads to Eisenmenger syndrome, characterized by pulmonary vascular obstructive disease and reversal of shunt flow (right-to-left) causing differential cyanosis (cyanosis of lower extremities with normal upper body oxygenation). The chronic left-to-right shunt causes progressive pulmonary hypertension, which eventually exceeds systemic pressure, reversing the shunt direction and leading to irreversible pulmonary vascular changes.",
+    "reference": "Galiè N, Beghetti M, Gatzoulis MA, et al. Bosentan therapy in patients with Eisenmenger syndrome: a multicenter, double-blind, randomized, placebo-controlled study. Circulation. 2006;114(1):48-54."
+  },
+  {
+    "question": "Which technique is currently preferred for transcatheter PDA closure in infants weighing >6 kg with suitable anatomy?",
+    "options": [
+      "Gianturco coils",
+      "Rashkind double umbrella device",
+      "Amplatzer Duct Occluder device",
+      "Nit-Occlud coil system",
+      "Balloon angioplasty"
+    ],
+    "correct": "Amplatzer Duct Occluder device",
+    "explanation": "The Amplatzer Duct Occluder (ADO) device is generally preferred for transcatheter PDA closure in infants >6 kg with suitable anatomy due to its high success rate, low incidence of residual shunting, and ease of deployment. The device consists of a nitinol mesh with a larger aortic retention disk and a smaller pulmonary end, specifically designed to conform to the conical shape of most PDAs. Coil devices are typically reserved for smaller PDAs.",
+    "reference": "Feltes TF, Bacha E, Beekman RH, et al. Indications for cardiac catheterization and intervention in pediatric cardiac disease: a scientific statement from the American Heart Association. Circulation. 2011;123(22):2607-2652."
+  },
+  {
+    "question": "In a premature infant with a hemodynamically significant PDA, which of the following would NOT be an indication for intervention?",
+    "options": [
+      "Ventilator dependence with inability to wean",
+      "Congestive heart failure unresponsive to medical management",
+      "Pulmonary hemorrhage",
+      "Oliguria and worsening renal function",
+      "Incidental finding of moderate PDA without symptoms"
+    ],
+    "correct": "Incidental finding of moderate PDA without symptoms",
+    "explanation": "An incidental finding of a moderate PDA without symptoms (asymptomatic PDA) would not be an indication for intervention in a premature infant. Current evidence supports a more conservative, symptom-based approach to PDA management. Intervention is indicated when there are clinical sequelae attributable to the PDA, such as ventilator dependence, congestive heart failure, pulmonary hemorrhage, or compromised end-organ perfusion. Asymptomatic PDAs often close spontaneously and unnecessary treatment carries risks of interventional complications.",
+    "reference": "Sung SI, Chang YS, Chun JY, et al. Mandatory closure versus nonintervention for patent ductus arteriosus in very preterm infants. Journal of Pediatrics. 2016;177:66-71."
+  }
+]
