@@ -128,5 +128,138 @@
     "correct": "Incidental finding of moderate PDA without symptoms",
     "explanation": "An incidental finding of a moderate PDA without symptoms (asymptomatic PDA) would not be an indication for intervention in a premature infant. Current evidence supports a more conservative, symptom-based approach to PDA management. Intervention is indicated when there are clinical sequelae attributable to the PDA, such as ventilator dependence, congestive heart failure, pulmonary hemorrhage, or compromised end-organ perfusion. Asymptomatic PDAs often close spontaneously and unnecessary treatment carries risks of interventional complications.",
     "reference": "Sung SI, Chang YS, Chun JY, et al. Mandatory closure versus nonintervention for patent ductus arteriosus in very preterm infants. Journal of Pediatrics. 2016;177:66-71."
+  },
+
+  {
+    "question": "Which is the most common type of ventricular septal defect (VSD) in children?",
+    "options": [
+      "Muscular VSD",
+      "Inlet VSD",
+      "Outlet VSD",
+      "Perimembranous VSD",
+      "Supracristal VSD"
+    ],
+    "correct": "Perimembranous VSD",
+    "explanation": "Perimembranous VSDs account for approximately 70-80% of all ventricular septal defects in children. They are located in the membranous septum, adjacent to the tricuspid valve, and often extend into the muscular septum.",
+    "reference": "Park MK. Pediatric Cardiology for Practitioners. 6th ed. Philadelphia, PA: Elsevier; 2014."
+  },
+  {
+    "question": "What is the most common clinical manifestation of a large VSD in infants?",
+    "options": [
+      "Cyanosis",
+      "Failure to thrive",
+      "Heart murmur only",
+      "Recurrent respiratory infections",
+      "Clubbing of fingers"
+    ],
+    "correct": "Failure to thrive",
+    "explanation": "Large VSDs with significant left-to-right shunts lead to pulmonary overcirculation and heart failure. This typically manifests as tachypnea, feeding difficulties, diaphoresis with feeding, and failure to thrive in infants. These symptoms usually develop after 4-6 weeks of age as pulmonary vascular resistance falls.",
+    "reference": "Allen HD, Driscoll DJ, Shaddy RE, Feltes TF. Moss and Adams' Heart Disease in Infants, Children, and Adolescents: Including the Fetus and Young Adult. 9th ed. Philadelphia, PA: Wolters Kluwer; 2016."
+  },
+  {
+    "question": "Which auscultatory finding is most characteristic of a small, restrictive VSD?",
+    "options": [
+      "Continuous machinery murmur",
+      "Holosystolic murmur at the left lower sternal border",
+      "Mid-diastolic rumble at the apex",
+      "Ejection click followed by systolic murmur",
+      "Late systolic murmur with midsystolic click"
+    ],
+    "correct": "Holosystolic murmur at the left lower sternal border",
+    "explanation": "A small, restrictive VSD typically produces a high-pitched, harsh holosystolic (pansystolic) murmur that is best heard at the left lower sternal border. The murmur is caused by blood shunting from the left ventricle to the right ventricle throughout systole due to the pressure gradient between the two chambers.",
+    "reference": "Lai WW, Mertens LL, Cohen MS, Geva T. Echocardiography in Pediatric and Congenital Heart Disease: From Fetus to Adult. 2nd ed. Wiley-Blackwell; 2016."
+  },
+  {
+    "question": "What is the Eisenmenger syndrome in relation to VSD?",
+    "options": [
+      "Spontaneous closure of a VSD",
+      "Development of aortic regurgitation with a VSD",
+      "Pulmonary hypertension with right-to-left shunt",
+      "Infective endocarditis complicating a VSD",
+      "Prolapse of the right coronary cusp"
+    ],
+    "correct": "Pulmonary hypertension with right-to-left shunt",
+    "explanation": "Eisenmenger syndrome represents the end-stage of untreated large VSDs, where chronic left-to-right shunting leads to irreversible pulmonary vascular disease and pulmonary hypertension. As pulmonary resistance exceeds systemic resistance, shunt reversal occurs (right-to-left), resulting in cyanosis, exercise intolerance, and multi-organ dysfunction.",
+    "reference": "Gatzoulis MA, Webb GD, Daubeney PEF. Diagnosis and Management of Adult Congenital Heart Disease. 3rd ed. Philadelphia, PA: Elsevier; 2018."
+  },
+  {
+    "question": "At what age do most small VSDs (< 3mm) spontaneously close?",
+    "options": [
+      "Before birth",
+      "During the first month of life",
+      "By 1 year of age",
+      "Between 1-5 years of age",
+      "After 10 years of age"
+    ],
+    "correct": "By 1 year of age",
+    "explanation": "Approximately 30-50% of small VSDs (< 3mm) close spontaneously, with most closures occurring during the first year of life. The likelihood of spontaneous closure decreases significantly after the first year, though some may still close during early childhood up to age 5.",
+    "reference": "Hoffman JI, Kaplan S. The incidence of congenital heart disease. Journal of the American College of Cardiology. 2002;39(12):1890-1900."
+  },
+  {
+    "question": "Which echocardiographic measurement is most important in determining the hemodynamic significance of a VSD?",
+    "options": [
+      "Size of the defect",
+      "Location of the defect",
+      "Left atrial enlargement",
+      "Presence of tricuspid regurgitation",
+      "Direction and velocity of blood flow across the defect"
+    ],
+    "correct": "Direction and velocity of blood flow across the defect",
+    "explanation": "While size matters, the hemodynamic significance of a VSD is best determined by assessing the direction and velocity of blood flow across the defect using color and spectral Doppler echocardiography. A high-velocity left-to-right shunt indicates a restrictive defect with preserved right ventricular pressure, while lower velocities may indicate pulmonary hypertension and significant shunting.",
+    "reference": "Eidem BW, Cetta F, O'Leary PW. Echocardiography in Pediatric and Adult Congenital Heart Disease. 2nd ed. Philadelphia, PA: Wolters Kluwer; 2015."
+  },
+  {
+    "question": "Which complication is most commonly associated with perimembranous VSDs?",
+    "options": [
+      "Tricuspid valve regurgitation",
+      "Development of subaortic stenosis",
+      "Aortic valve prolapse with regurgitation",
+      "Complete heart block",
+      "Pulmonary stenosis"
+    ],
+    "correct": "Aortic valve prolapse with regurgitation",
+    "explanation": "Perimembranous VSDs, particularly those that extend into the outlet septum, are associated with aortic valve prolapse. The lack of support for the aortic valve (usually the right coronary cusp) can lead to prolapse into the defect and progressive aortic regurgitation. This occurs in approximately 5-10% of patients with perimembranous VSDs.",
+    "reference": "Anderson RH, Baker EJ, Penny D, Redington AN, Rigby ML, Wernovsky G. Paediatric Cardiology. 3rd ed. Philadelphia, PA: Churchill Livingstone; 2010."
+  },
+  {
+    "question": "What is the primary indication for surgical closure of a VSD in an asymptomatic child?",
+    "options": [
+      "Any VSD regardless of size",
+      "Prevention of infective endocarditis",
+      "Qp:Qs ratio > 1.5:1 with left heart volume overload",
+      "Presence of a heart murmur causing anxiety in parents",
+      "Small muscular VSD detected on routine examination"
+    ],
+    "correct": "Qp:Qs ratio > 1.5:1 with left heart volume overload",
+    "explanation": "In asymptomatic children, the primary indication for VSD closure is evidence of significant left-to-right shunting (pulmonary to systemic flow ratio > 1.5:1) with resultant left heart volume overload. This prevents the development of pulmonary vascular disease, heart failure, and other long-term complications even before symptoms develop.",
+    "reference": "Feltes TF, Bacha E, Beekman RH, et al. Indications for cardiac catheterization and intervention in pediatric cardiac disease: a scientific statement from the American Heart Association. Circulation. 2011;123(22):2607-2652."
+  },
+  {
+    "question": "Which type of VSD is most likely to close spontaneously?",
+    "options": [
+      "Perimembranous VSD",
+      "Inlet VSD",
+      "Muscular VSD",
+      "Doubly committed subarterial VSD",
+      "Malalignment VSD associated with Tetralogy of Fallot"
+    ],
+    "correct": "Muscular VSD",
+    "explanation": "Muscular VSDs have the highest rate of spontaneous closure, with up to 80% closing over time. This is due to the natural growth and hypertrophy of the surrounding muscular tissue that can effectively seal the defect. Perimembranous VSDs have a lower spontaneous closure rate (30-40%), while inlet and subarterial VSDs rarely close spontaneously.",
+    "reference": "Penny DJ, Vick GW. Ventricular septal defect. Lancet. 2011;377(9771):1103-1112."
+  },
+  {
+    "question": "What is the risk of developing infective endocarditis in a patient with an unrepaired small VSD?",
+    "options": [
+      "No increased risk compared to general population",
+      "Approximately 0.1% per year",
+      "Approximately 1-2% per year",
+      "Approximately 5-10% per year",
+      "Greater than 20% per year"
+    ],
+    "correct": "Approximately 0.1% per year",
+    "explanation": "Patients with unrepaired VSDs have an estimated risk of infective endocarditis of approximately 0.1% per year (or about 1.4-2.0 cases per 1,000 patient-years). While this represents a significantly increased risk compared to the general population, the absolute risk remains low, particularly for small defects. This risk is one factor considered in management decisions but is not alone an indication for closure.",
+    "reference": "Habib G, Lancellotti P, Antunes MJ, et al. 2015 ESC Guidelines for the management of infective endocarditis. European Heart Journal. 2015;36(44):3075-3128."
   }
 ]
+
+
