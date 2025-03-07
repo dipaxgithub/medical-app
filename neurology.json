@@ -129,5 +129,137 @@
     "correct": "Immediate empiric antibiotics after obtaining blood and CSF cultures",
     "explanation": "In a neonate with fever, irritability, and bulging fontanelle, bacterial meningitis must be presumed until proven otherwise. The standard of care is to obtain blood and CSF cultures (if not contraindicated) and immediately initiate empiric antibiotics without waiting for results. Delaying antibiotics in neonatal meningitis significantly increases mortality and morbidity. The bulging fontanelle suggests increased intracranial pressure, making prompt intervention critical.",
     "reference": "Pediatric Infectious Disease Journal, 2024; 43(1): 42-51"
+  },
+  
+  {
+    "question": "Which virus is the most common cause of sporadic encephalitis in children in developed countries?",
+    "options": [
+      "Varicella-zoster virus",
+      "Cytomegalovirus",
+      "Epstein-Barr virus",
+      "Herpes simplex virus",
+      "Enterovirus"
+    ],
+    "correct": "Herpes simplex virus",
+    "explanation": "Herpes simplex virus (HSV), particularly HSV-1, is the most common identified cause of sporadic viral encephalitis in children in developed countries. HSV encephalitis accounts for approximately 10-20% of all viral encephalitis cases and is associated with high morbidity and mortality if not treated promptly.",
+    "reference": "Tunkel AR, et al. Practice guidelines for the management of encephalitis. Clinical Infectious Diseases. 2008;47(3):303-327."
+  },
+  {
+    "question": "Which clinical feature is most specific for autoimmune encephalitis in children?",
+    "options": [
+      "Fever",
+      "Headache",
+      "New-onset seizures",
+      "Psychiatric symptoms",
+      "Movement disorders"
+    ],
+    "correct": "Movement disorders",
+    "explanation": "While all listed symptoms can occur in autoimmune encephalitis, movement disorders (particularly chorea, dystonia, and stereotypies) are considered more specific for autoimmune etiologies, especially anti-NMDA receptor encephalitis, which is the most common form of autoimmune encephalitis in children. Psychiatric symptoms are also common but less specific.",
+    "reference": "Armangue T, et al. Pediatric anti-N-methyl-D-aspartate receptor encephalitis—clinical analysis and novel findings in a series of 20 patients. Journal of Pediatrics. 2013;162(4):850-856."
+  },
+  {
+    "question": "What is the most appropriate initial neuroimaging study in a child with suspected encephalitis?",
+    "options": [
+      "CT scan without contrast",
+      "CT scan with contrast",
+      "MRI with and without contrast",
+      "PET scan",
+      "Cerebral angiography"
+    ],
+    "correct": "MRI with and without contrast",
+    "explanation": "MRI with and without contrast is the preferred neuroimaging modality for evaluating encephalitis in children. It provides superior visualization of brain tissue, can detect subtle abnormalities, and helps distinguish between infectious and autoimmune etiologies. Diffusion-weighted imaging is particularly useful for detecting early changes in herpes simplex encephalitis.",
+    "reference": "Venkatesan A, et al. Case definitions, diagnostic algorithms, and priorities in encephalitis: consensus statement of the international encephalitis consortium. Clinical Infectious Diseases. 2013;57(8):1114-1128."
+  },
+  {
+    "question": "Which of the following is the most sensitive test for the diagnosis of HSV encephalitis?",
+    "options": [
+      "Brain biopsy",
+      "CSF culture",
+      "CSF HSV PCR",
+      "Serum HSV antibodies",
+      "Tzanck smear"
+    ],
+    "correct": "CSF HSV PCR",
+    "explanation": "CSF HSV PCR has become the gold standard for diagnosis of HSV encephalitis, with sensitivity of 95-98% and specificity >95%. It has largely replaced brain biopsy as the diagnostic test of choice. However, if performed very early in the disease course (within the first 24-48 hours), the PCR may sometimes be falsely negative.",
+    "reference": "Kimberlin DW. Herpes simplex virus infections of the central nervous system. Seminars in Pediatric Infectious Diseases. 2003;14(2):83-89."
+  },
+  {
+    "question": "What is the recommended first-line treatment for suspected herpes simplex encephalitis in children?",
+    "options": [
+      "Oral acyclovir",
+      "Intravenous acyclovir",
+      "Oral valacyclovir",
+      "Intravenous ganciclovir",
+      "Intravenous foscarnet"
+    ],
+    "correct": "Intravenous acyclovir",
+    "explanation": "Intravenous acyclovir at a dose of 20 mg/kg/dose three times daily (60 mg/kg/day) is the recommended first-line treatment for suspected HSV encephalitis in children. Treatment should be initiated empirically as soon as HSV encephalitis is suspected, without waiting for confirmatory test results, as delays in treatment are associated with poorer outcomes.",
+    "reference": "Tunkel AR, et al. IDSA Guidelines for the Management of Encephalitis. Clinical Infectious Diseases. 2008;47(3):303-327."
+  },
+  {
+    "question": "Which of the following CSF findings is most characteristic of viral encephalitis?",
+    "options": [
+      "Normal glucose, normal protein, no cells",
+      "Low glucose, high protein, neutrophilic pleocytosis",
+      "Normal glucose, high protein, lymphocytic pleocytosis",
+      "Low glucose, high protein, lymphocytic pleocytosis",
+      "Normal glucose, normal protein, eosinophilic pleocytosis"
+    ],
+    "correct": "Normal glucose, high protein, lymphocytic pleocytosis",
+    "explanation": "The classic CSF profile in viral encephalitis includes normal glucose levels, mildly to moderately elevated protein, and a mild to moderate lymphocytic pleocytosis (typically 10-100 cells/mm³). However, early in the disease course, neutrophils may predominate, and in immunocompromised patients, the cellular response may be blunted.",
+    "reference": "Rotbart HA. Viral meningitis and the aseptic meningitis syndrome. In: Scheld WM, Whitley RJ, Durack DT, eds. Infections of the Central Nervous System. 2nd ed. Philadelphia: Lippincott-Raven; 1997:23-46."
+  },
+  {
+    "question": "Which anti-neuronal antibody is most commonly associated with pediatric autoimmune encephalitis?",
+    "options": [
+      "Anti-NMDA receptor",
+      "Anti-LGI1",
+      "Anti-CASPR2",
+      "Anti-AMPA receptor",
+      "Anti-GABA-B receptor"
+    ],
+    "correct": "Anti-NMDA receptor",
+    "explanation": "Anti-N-methyl-D-aspartate (NMDA) receptor encephalitis is the most common form of autoimmune encephalitis in children, accounting for approximately 40% of cases. It is characterized by a multistage illness with psychiatric symptoms, speech dysfunction, seizures, movement disorders, autonomic instability, and decreased level of consciousness.",
+    "reference": "Titulaer MJ, et al. Treatment and prognostic factors for long-term outcome in patients with anti-NMDA receptor encephalitis: an observational cohort study. The Lancet Neurology. 2013;12(2):157-165."
+  },
+  {
+    "question": "A 4-year-old child presents with acute encephalitis during a summer outbreak of enterovirus infections. Which of the following is the most likely causative agent?",
+    "options": [
+      "Echovirus",
+      "Coxsackievirus",
+      "Enterovirus A71",
+      "Poliovirus",
+      "Rhinovirus"
+    ],
+    "correct": "Enterovirus A71",
+    "explanation": "Enterovirus A71 (EV-A71) is a neurotropic virus that has caused large outbreaks of hand, foot, and mouth disease complicated by severe neurological manifestations, including encephalitis, particularly in the Asia-Pacific region. It has a predilection for the brainstem and can cause rhombencephalitis, which may lead to cardiopulmonary failure in severe cases.",
+    "reference": "Ooi MH, et al. Clinical features, diagnosis, and management of enterovirus 71. The Lancet Neurology. 2010;9(11):1097-1105."
+  },
+  {
+    "question": "Which of the following is an established risk factor for poor long-term neurological outcome in pediatric encephalitis?",
+    "options": [
+      "Age <2 years",
+      "Presence of fever >39°C",
+      "Normal initial EEG",
+      "Glasgow Coma Scale score <8 at presentation",
+      "Absence of CSF pleocytosis"
+    ],
+    "correct": "Glasgow Coma Scale score <8 at presentation",
+    "explanation": "A Glasgow Coma Scale score <8 at presentation, indicating severe obtundation or coma, is consistently associated with poor long-term neurological outcomes in children with encephalitis. Other risk factors include delayed initiation of appropriate therapy, status epilepticus, and specific etiologies such as HSV encephalitis.",
+    "reference": "Fowler A, et al. Childhood encephalitis in Sweden: etiology, clinical presentation and outcome. European Journal of Paediatric Neurology. 2008;12(6):484-490."
+  },
+  {
+    "question": "What is the most appropriate first-line immunotherapy for suspected autoimmune encephalitis in children?",
+    "options": [
+      "Oral prednisone only",
+      "Intravenous methylprednisolone",
+      "Intravenous immunoglobulin (IVIG)",
+      "Plasmapheresis",
+      "Rituximab"
+    ],
+    "correct": "Intravenous methylprednisolone",
+    "explanation": "First-line immunotherapy for pediatric autoimmune encephalitis typically consists of high-dose intravenous methylprednisolone (typically 30 mg/kg/day, maximum 1000 mg/day for 3-5 days), often followed by or combined with intravenous immunoglobulin (IVIG). In practice, many centers use both therapies concurrently. Plasmapheresis and rituximab are generally considered second-line therapies.",
+    "reference": "Nosadini M, et al. Immune therapy in autoimmune encephalitis: a systematic review. Expert Review of Neurotherapeutics. 2015;15(12):1391-1419."
   }
+
 ]
