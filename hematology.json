@@ -129,5 +129,137 @@
     "correct": "7-10 days",
     "explanation": "The expected timeline for hemoglobin response after initiating appropriate iron therapy is 7-10 days. This delay occurs because it takes time for iron to be incorporated into new red blood cells. Reticulocytosis (increased production of immature RBCs) begins within 3-5 days of starting iron therapy, followed by a measurable increase in hemoglobin levels by 7-10 days. Failure to observe this response timeline should prompt evaluation for other causes of anemia, poor adherence, or inadequate dosing.",
     "reference": "New England Journal of Medicine. 2020;383(11):1032-1044"
+  },
+  
+  {
+     "question": "Which vitamin deficiency is most commonly associated with megaloblastic anemia in children?",
+     "options": [
+        "Vitamin A",
+        "Vitamin K",
+        "Vitamin C",
+        "Vitamin B12",
+        "Vitamin E"
+     ],
+     "correct": "Vitamin B12",
+     "explanation": "Vitamin B12 (cobalamin) deficiency is one of the most common causes of megaloblastic anemia in children. B12 is essential for DNA synthesis, and its deficiency leads to impaired nuclear maturation while cytoplasmic development continues normally, resulting in the characteristic megaloblastic changes.",
+     "reference": "Kliegman RM, et al. Nelson Textbook of Pediatrics, 21st Edition, 2020, Chapter 464"
+  },
+  {
+     "question": "Which laboratory finding is characteristic of megaloblastic anemia in children?",
+     "options": [
+        "Microcytic, hypochromic red blood cells",
+        "Normocytic, normochromic red blood cells",
+        "Macrocytic red blood cells with hypersegmented neutrophils",
+        "Spherocytic red blood cells",
+        "Target cells"
+     ],
+     "correct": "Macrocytic red blood cells with hypersegmented neutrophils",
+     "explanation": "Megaloblastic anemia is characterized by macrocytic red blood cells (elevated MCV) and hypersegmented neutrophils (neutrophils with 5 or more nuclear lobes). These findings reflect the impaired DNA synthesis that affects rapidly dividing cells in the bone marrow.",
+     "reference": "Lanzkowsky P, et al. Lanzkowsky's Manual of Pediatric Hematology and Oncology, 6th Edition, 2016, Chapter 8"
+  },
+  {
+     "question": "Which of the following is the most common cause of folate deficiency in infants?",
+     "options": [
+        "Inadequate dietary intake",
+        "Malabsorption syndromes",
+        "Increased requirements during growth spurts",
+        "Goat's milk consumption",
+        "Medications"
+     ],
+     "correct": "Goat's milk consumption",
+     "explanation": "Goat's milk is naturally low in folate (containing approximately one-fifth the amount found in cow's milk). Infants fed exclusively or predominantly with goat's milk without supplementation are at high risk for developing folate deficiency megaloblastic anemia.",
+     "reference": "Orkin SH, et al. Nathan and Oski's Hematology and Oncology of Infancy and Childhood, 8th Edition, 2015, Chapter 10"
+  },
+  {
+     "question": "Which neurological manifestation is associated with vitamin B12 deficiency but NOT with folate deficiency?",
+     "options": [
+        "Lethargy",
+        "Hypotonia",
+        "Irritability",
+        "Peripheral neuropathy",
+        "Seizures"
+     ],
+     "correct": "Peripheral neuropathy",
+     "explanation": "Vitamin B12 deficiency can cause neurological manifestations including peripheral neuropathy, subacute combined degeneration of the spinal cord, and developmental regression in children. These neurological complications do not occur with isolated folate deficiency and result from impaired myelin formation due to B12's role in fatty acid metabolism.",
+     "reference": "Green R, et al. Blood, 2017;129(21):2603-2611"
+  },
+  {
+     "question": "Which genetic disorder is associated with selective intestinal malabsorption of vitamin B12?",
+     "options": [
+        "Gaucher disease",
+        "Imerslund-Gräsbeck syndrome",
+        "Niemann-Pick disease",
+        "Abetalipoproteinemia",
+        "Lesch-Nyhan syndrome"
+     ],
+     "correct": "Imerslund-Gräsbeck syndrome",
+     "explanation": "Imerslund-Gräsbeck syndrome (IGS) is an autosomal recessive disorder characterized by selective intestinal malabsorption of vitamin B12 due to mutations in either the cubilin (CUBN) or amnionless (AMN) genes. These proteins form the cubam receptor complex essential for intestinal absorption of vitamin B12-intrinsic factor complexes.",
+     "reference": "Grasbeck R. Scandinavian Journal of Clinical and Laboratory Investigation, 2006;66(5):407-416"
+  },
+  {
+     "question": "A 9-month-old exclusively breastfed infant presents with failure to thrive, developmental regression, and megaloblastic anemia. The mother follows a strict vegan diet. What is the most likely diagnosis?",
+     "options": [
+        "Iron deficiency anemia",
+        "Vitamin B12 deficiency",
+        "Folate deficiency",
+        "Copper deficiency",
+        "Transcobalamin II deficiency"
+     ],
+     "correct": "Vitamin B12 deficiency",
+     "explanation": "Exclusively breastfed infants of mothers following strict vegan diets without supplementation are at high risk for vitamin B12 deficiency. Breast milk from B12-deficient mothers contains inadequate amounts of the vitamin. Clinical features typically appear after 4-6 months when the infant's liver stores of B12 are depleted, presenting with failure to thrive, developmental regression, and megaloblastic anemia.",
+     "reference": "Healton EB, et al. Medicine (Baltimore), 1991;70(4):229-245"
+  },
+  {
+     "question": "Which medication is most commonly associated with folate deficiency and megaloblastic anemia in children?",
+     "options": [
+        "Ampicillin",
+        "Phenytoin",
+        "Albuterol",
+        "Prednisone",
+        "Omeprazole"
+     ],
+     "correct": "Phenytoin",
+     "explanation": "Phenytoin (Dilantin) is an anticonvulsant that inhibits folate absorption from the intestine and interferes with folate metabolism. Long-term use can lead to folate deficiency and megaloblastic anemia, particularly in children on high doses or with poor nutritional status.",
+     "reference": "Linnebank M, et al. Annals of Neurology, 2011;69(2):352-359"
+  },
+  {
+     "question": "Which of the following tests is most specific for diagnosing vitamin B12 deficiency in children?",
+     "options": [
+        "Complete blood count",
+        "Serum B12 level",
+        "Serum folate level",
+        "Methylmalonic acid level",
+        "Homocysteine level"
+     ],
+     "correct": "Methylmalonic acid level",
+     "explanation": "Methylmalonic acid (MMA) level is the most specific test for diagnosing vitamin B12 deficiency. MMA accumulates in B12 deficiency because B12 is a cofactor for methylmalonyl-CoA mutase. Unlike serum B12 levels which can be falsely normal in some cases, elevated MMA is highly specific for tissue B12 deficiency and is not affected by folate status.",
+     "reference": "Devalia V, et al. British Journal of Haematology, 2014;166(4):496-513"
+  },
+  {
+     "question": "What is the recommended initial treatment for a child with severe symptomatic vitamin B12 deficiency?",
+     "options": [
+        "Oral vitamin B12 supplements only",
+        "Intramuscular vitamin B12 injections",
+        "Blood transfusion followed by oral supplements",
+        "Oral folate and B12 combination therapy",
+        "Intravenous vitamin B12 administration"
+     ],
+     "correct": "Intramuscular vitamin B12 injections",
+     "explanation": "For children with severe symptomatic vitamin B12 deficiency, the recommended initial treatment is intramuscular vitamin B12 injections. The typical regimen is 1000 μg daily for 1 week, followed by weekly injections for 1 month, and then monthly injections until the underlying cause is addressed. Intramuscular administration bypasses intestinal absorption issues and rapidly replenishes body stores.",
+     "reference": "Stabler SP. New England Journal of Medicine, 2013;368(2):149-160"
+  },
+  {
+     "question": "Which finding on peripheral blood smear is pathognomonic for megaloblastic anemia?",
+     "options": [
+        "Howell-Jolly bodies",
+        "Heinz bodies",
+        "Hypersegmented neutrophils",
+        "Döhle bodies",
+        "Auer rods"
+     ],
+     "correct": "Hypersegmented neutrophils",
+     "explanation": "Hypersegmented neutrophils (neutrophils with 5 or more nuclear lobes) are considered pathognomonic for megaloblastic anemia. This finding reflects impaired DNA synthesis affecting nuclear maturation and is often present before the development of macrocytosis. It is a sensitive indicator of megaloblastic changes due to either vitamin B12 or folate deficiency.",
+     "reference": "Green R. Blood, 2012;119(12):2844-2845"
   }
+
 ]
