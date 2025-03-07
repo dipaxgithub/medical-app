@@ -1,0 +1,133 @@
+
+[
+  {
+    "question": "What is the most common presenting symptom of GERD in infants?",
+    "options": [
+      "Failure to thrive",
+      "Chronic cough",
+      "Regurgitation",
+      "Dysphagia",
+      "Abdominal pain"
+    ],
+    "correct": "Regurgitation",
+    "explanation": "Regurgitation is the most common presenting symptom of GERD in infants, with approximately 70-85% of infants exhibiting regurgitation during the first 2 months of life. This physiologic reflux typically resolves by 12-14 months of age in most infants and is a normal developmental phenomenon.",
+    "reference": "Pediatric Gastroenterology, Hepatology & Nutrition. 2020;23(1):1-13"
+  },
+  {
+    "question": "Which of the following is the gold standard for diagnosing GERD in children?",
+    "options": [
+      "Upper GI series",
+      "pH monitoring",
+      "Endoscopy with biopsy",
+      "Impedance monitoring",
+      "Combined multichannel intraluminal impedance and pH monitoring (MII-pH)"
+    ],
+    "correct": "Combined multichannel intraluminal impedance and pH monitoring (MII-pH)",
+    "explanation": "Combined multichannel intraluminal impedance and pH monitoring (MII-pH) is considered the gold standard for GERD diagnosis in children as it can detect both acid and non-acid reflux events, as well as their relationship to symptoms. This is particularly important in children who may have significant non-acid reflux that would be missed by pH monitoring alone.",
+    "reference": "Journal of Pediatric Gastroenterology and Nutrition. 2018;66(3):516-554"
+  },
+  {
+    "question": "Which extraesophageal manifestation is most commonly associated with GERD in children?",
+    "options": [
+      "Dental erosions",
+      "Recurrent pneumonia",
+      "Chronic sinusitis",
+      "Asthma",
+      "Otitis media"
+    ],
+    "correct": "Asthma",
+    "explanation": "Asthma is the most common extraesophageal manifestation of GERD in children. There is a bidirectional relationship between GERD and asthma: GERD can exacerbate asthma symptoms through microaspiration and vagally mediated reflexes, while asthma medications and increased negative intrathoracic pressure during asthma episodes can worsen GERD. Approximately 50-80% of children with asthma have concomitant GERD.",
+    "reference": "American Journal of Respiratory and Critical Care Medicine. 2019;199(6):693-701"
+  },
+  {
+    "question": "Which of the following medications is NOT recommended as first-line therapy for GERD in infants?",
+    "options": [
+      "Proton pump inhibitors",
+      "H2 receptor antagonists",
+      "Prokinetic agents",
+      "Antacids",
+      "All are recommended"
+    ],
+    "correct": "Proton pump inhibitors",
+    "explanation": "Proton pump inhibitors (PPIs) are not recommended as first-line therapy for GERD in infants. Multiple randomized controlled trials have failed to demonstrate efficacy of PPIs for treating symptoms attributed to GERD in infants, and they carry risks of adverse effects including increased respiratory and GI infections, nutrient malabsorption, and alteration of the gut microbiome. Conservative approaches (feeding modifications, positioning) should be tried first.",
+    "reference": "Pediatrics. 2018;142(5):e20181739"
+  },
+  {
+    "question": "What is the recommended initial management for uncomplicated GERD in infants?",
+    "options": [
+      "Immediate prescription of proton pump inhibitors",
+      "Thickened feeds and positioning therapy",
+      "Surgical fundoplication",
+      "Elimination diet for mother (for breastfed infants)",
+      "Prokinetic agents"
+    ],
+    "correct": "Thickened feeds and positioning therapy",
+    "explanation": "For uncomplicated GERD in infants, the recommended initial management consists of conservative approaches including thickened feeds and positioning therapy (elevating the head of the bed, avoiding prolonged supine positioning particularly after feeds). These interventions have been shown to reduce the frequency and volume of regurgitation without pharmacologic side effects.",
+    "reference": "NASPGHAN and ESPGHAN Guidelines for Pediatric Gastroesophageal Reflux Clinical Practice. Journal of Pediatric Gastroenterology and Nutrition. 2018;66(3):516-554"
+  },
+  {
+    "question": "Which complication of GERD is characterized by replacement of normal esophageal squamous epithelium with specialized intestinal columnar epithelium?",
+    "options": [
+      "Esophagitis",
+      "Esophageal stricture",
+      "Barrett's esophagus",
+      "Sandifer syndrome",
+      "Esophageal adenocarcinoma"
+    ],
+    "correct": "Barrett's esophagus",
+    "explanation": "Barrett's esophagus is characterized by the replacement of normal esophageal squamous epithelium with specialized intestinal columnar epithelium (intestinal metaplasia) as a result of chronic GERD. While relatively rare in children compared to adults, it is a significant concern as it is a precursor to esophageal adenocarcinoma. Barrett's esophagus is diagnosed by endoscopy with biopsy showing intestinal metaplasia.",
+    "reference": "American Journal of Gastroenterology. 2022;117(4):559-587"
+  },
+  {
+    "question": "A 15-month-old child presents with recurrent regurgitation, irritability during feeding, and arching of the back. Which of the following is most likely to exacerbate GERD symptoms in this patient?",
+    "options": [
+      "Sleeping in prone position",
+      "Consumption of dairy products",
+      "Thickened formula",
+      "Exposure to cow's milk protein",
+      "Small, frequent feedings"
+    ],
+    "correct": "Exposure to cow's milk protein",
+    "explanation": "Cow's milk protein exposure is most likely to exacerbate GERD symptoms in this scenario. Cow's milk protein allergy (CMPA) and GERD frequently coexist in infants and young children, with up to 40-56% of infants with GERD having CMPA. The clinical manifestations of CMPA can mimic or worsen GERD symptoms, including regurgitation, irritability, and Sandifer-like posturing (arching of the back). A 2-4 week trial of extensively hydrolyzed or amino acid-based formula (or maternal elimination diet for breastfed infants) is often recommended for diagnostic and therapeutic purposes.",
+    "reference": "Nutrients. 2021;13(3):762"
+  },
+  {
+    "question": "Which neurological condition is most commonly associated with severe GERD in children?",
+    "options": [
+      "Attention deficit hyperactivity disorder",
+      "Autism spectrum disorder",
+      "Cerebral palsy",
+      "Epilepsy",
+      "Down syndrome"
+    ],
+    "correct": "Cerebral palsy",
+    "explanation": "Cerebral palsy is the neurological condition most commonly associated with severe GERD in children. The prevalence of GERD in children with cerebral palsy ranges from 50-75%. Contributing factors include impaired esophageal motility, delayed gastric emptying, seizure medications that may affect lower esophageal sphincter pressure, scoliosis, prolonged supine positioning, and increased intra-abdominal pressure due to spasticity. These children often require more aggressive management including consideration of surgical intervention (fundoplication).",
+    "reference": "Developmental Medicine & Child Neurology. 2017;59(12):1258-1263"
+  },
+  {
+    "question": "What is the most common indication for anti-reflux surgery (fundoplication) in pediatric patients with GERD?",
+    "options": [
+      "Failure to respond to medical therapy",
+      "Recurrent aspiration pneumonia",
+      "Barrett's esophagus",
+      "Sandifer syndrome",
+      "Persistent emesis"
+    ],
+    "correct": "Failure to respond to medical therapy",
+    "explanation": "Failure to respond to optimal medical therapy is the most common indication for anti-reflux surgery (fundoplication) in pediatric patients with GERD. Other indications include life-threatening events (such as recurrent aspiration pneumonia or apparent life-threatening events), dependence on long-term medical therapy with significant side effects, and complications of GERD such as severe esophagitis, stricture, or Barrett's esophagus. The decision for surgical management should be made carefully after thorough diagnostic evaluation and consideration of risks and benefits.",
+    "reference": "Journal of Laparoendoscopic & Advanced Surgical Techniques. 2021;31(5):553-557"
+  },
+  {
+    "question": "Which of the following dietary recommendations would be LEAST appropriate for an 8-year-old with symptomatic GERD?",
+    "options": [
+      "Avoiding caffeine",
+      "Avoiding chocolate",
+      "Limiting fatty foods",
+      "Strict elimination of all acidic foods",
+      "Smaller, more frequent meals"
+    ],
+    "correct": "Strict elimination of all acidic foods",
+    "explanation": "Strict elimination of all acidic foods would be the least appropriate dietary recommendation for an 8-year-old with symptomatic GERD. While some acidic foods may exacerbate symptoms in certain patients, a blanket elimination of all acidic foods is overly restrictive, unnecessary, and could lead to nutritional deficiencies in growing children. Current pediatric GERD management guidelines recommend individualized dietary modifications based on symptom triggers rather than extensive dietary restrictions. Foods that commonly trigger symptoms include caffeine, chocolate, spicy foods, and high-fat meals, but elimination should be targeted to the specific triggers identified for each patient.",
+    "reference": "Journal of Pediatric Gastroenterology and Nutrition. 2018;66(3):516-554"
+  }
+]
