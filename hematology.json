@@ -1,0 +1,133 @@
+
+[
+  {
+    "question": "Which of the following is the most common cause of iron deficiency anemia in infants aged 6-24 months?",
+    "options": [
+      "Decreased iron absorption",
+      "Blood loss",
+      "Inadequate dietary iron intake",
+      "Chronic inflammation",
+      "Hemolysis"
+    ],
+    "correct": "Inadequate dietary iron intake",
+    "explanation": "The most common cause of iron deficiency anemia in infants aged 6-24 months is inadequate dietary iron intake. This typically occurs during the transition from iron-rich breast milk or formula to cow's milk and solid foods that may be low in iron. The rapid growth during this period increases iron requirements, making infants particularly vulnerable to iron deficiency when dietary sources are insufficient.",
+    "reference": "Pediatrics in Review. 2019;40(2):75-89"
+  },
+  {
+    "question": "Which of the following laboratory findings is MOST specific for iron deficiency anemia in children?",
+    "options": [
+      "Decreased hemoglobin",
+      "Decreased MCV",
+      "Decreased ferritin",
+      "Increased RDW",
+      "Increased TIBC"
+    ],
+    "correct": "Decreased ferritin",
+    "explanation": "While multiple laboratory parameters are altered in iron deficiency anemia, serum ferritin is the most specific marker as it directly reflects iron stores. Ferritin decreases early in iron deficiency, even before changes in hemoglobin, MCV, or RBC morphology occur. Hemoglobin and MCV can be decreased in other types of anemia, while RDW and TIBC are less specific indicators.",
+    "reference": "American Academy of Pediatrics. Pediatric Nutrition, 8th ed. 2020"
+  },
+  {
+    "question": "A 14-month-old exclusively drinks cow's milk (32 oz daily) and eats few solid foods. Which mechanism BEST explains this child's risk for iron deficiency anemia?",
+    "options": [
+      "Cow's milk protein-induced enteropathy",
+      "Excessive calcium inhibiting iron absorption",
+      "Occult blood loss from cow's milk protein allergy",
+      "Inadequate iron content in cow's milk",
+      "Increased iron requirements for growth"
+    ],
+    "correct": "Inadequate iron content in cow's milk",
+    "explanation": "Cow's milk is a poor source of iron (0.5 mg/L) compared to breast milk (which has higher bioavailability) or iron-fortified formula (12 mg/L). When cow's milk becomes the predominant nutritional source without adequate iron-rich complementary foods, infants develop iron deficiency. Additionally, excessive cow's milk consumption can displace iron-rich foods from the diet, further compromising iron status.",
+    "reference": "JAMA Pediatrics. 2016;170(10):968-975"
+  },
+  {
+    "question": "Which neurodevelopmental effect has been MOST consistently associated with iron deficiency anemia in infants?",
+    "options": [
+      "Autism spectrum disorder",
+      "ADHD",
+      "Language delay",
+      "Impaired cognitive function",
+      "Motor delays"
+    ],
+    "correct": "Impaired cognitive function",
+    "explanation": "Impaired cognitive function has been most consistently associated with iron deficiency anemia in infants. Multiple longitudinal studies have demonstrated that iron deficiency during critical periods of brain development can lead to long-term negative effects on cognitive function, even after iron repletion. This occurs because iron is essential for neurotransmitter synthesis, myelination, and energy metabolism in the developing brain.",
+    "reference": "Developmental Medicine & Child Neurology. 2017;59(5):447-454"
+  },
+  {
+    "question": "What is the recommended oral iron dosage for treatment of iron deficiency anemia in children?",
+    "options": [
+      "1-2 mg/kg/day of elemental iron",
+      "3-4 mg/kg/day of elemental iron",
+      "4-6 mg/kg/day of elemental iron",
+      "6-8 mg/kg/day of elemental iron",
+      "8-10 mg/kg/day of elemental iron"
+    ],
+    "correct": "4-6 mg/kg/day of elemental iron",
+    "explanation": "The recommended therapeutic dose of oral elemental iron for iron deficiency anemia in children is 4-6 mg/kg/day, divided into 1-3 doses. This dosage has been shown to effectively replenish iron stores while minimizing gastrointestinal side effects. Treatment should be continued for 3 months after hemoglobin normalization to fully replenish iron stores.",
+    "reference": "British Journal of Haematology. 2021;193(2):283-296"
+  },
+  {
+    "question": "Which finding on peripheral blood smear is MOST characteristic of iron deficiency anemia?",
+    "options": [
+      "Basophilic stippling",
+      "Hypersegmented neutrophils",
+      "Microcytic, hypochromic red cells",
+      "Target cells",
+      "Spherocytes"
+    ],
+    "correct": "Microcytic, hypochromic red cells",
+    "explanation": "Microcytic (small) and hypochromic (pale) red blood cells are the hallmark morphological findings in iron deficiency anemia. These changes occur because inadequate iron availability leads to reduced hemoglobin synthesis, resulting in smaller red cells with decreased hemoglobin content. As iron deficiency progresses, anisocytosis (variable red cell size) and poikilocytosis (abnormally shaped red cells) may also be observed.",
+    "reference": "Pediatric Clinics of North America. 2020;67(1):101-113"
+  },
+  {
+    "question": "A 15-month-old with iron deficiency anemia has been prescribed oral iron supplements. Which of the following beverages should MOST be avoided within 1 hour of iron administration?",
+    "options": [
+      "Apple juice",
+      "Orange juice",
+      "Cow's milk",
+      "Water",
+      "Clear broth"
+    ],
+    "correct": "Cow's milk",
+    "explanation": "Cow's milk should be avoided within 1 hour of iron administration as the calcium in milk significantly inhibits iron absorption. Calcium competes with iron for absorption pathways in the intestinal mucosa. Conversely, vitamin C-containing beverages like orange juice can enhance iron absorption by converting ferric to ferrous iron, which is more readily absorbed.",
+    "reference": "AAP. Bright Futures Nutrition, 4th ed. 2022"
+  },
+  {
+    "question": "Which of the following is the MOST appropriate initial screening test for iron deficiency in a healthy 12-month-old child?",
+    "options": [
+      "Serum ferritin",
+      "Serum iron",
+      "Hemoglobin electrophoresis",
+      "Hemoglobin concentration",
+      "Transferrin saturation"
+    ],
+    "correct": "Hemoglobin concentration",
+    "explanation": "Hemoglobin concentration is the most appropriate initial screening test for iron deficiency in healthy 12-month-old children, as recommended by the American Academy of Pediatrics. Universal screening with hemoglobin at 12 months identifies children with anemia who may require further evaluation. While not specific for iron deficiency, it serves as a practical first-line screening tool in primary care settings.",
+    "reference": "Pediatrics. 2022;149(1):e2021056036"
+  },
+  {
+    "question": "Which of the following co-morbidities is MOST likely to exacerbate iron deficiency anemia in children?",
+    "options": [
+      "Asthma",
+      "Eczema",
+      "Obesity",
+      "Celiac disease",
+      "Type 1 diabetes"
+    ],
+    "correct": "Celiac disease",
+    "explanation": "Celiac disease is most likely to exacerbate iron deficiency anemia in children due to impaired intestinal absorption of iron caused by villous atrophy in the proximal small intestine. Iron absorption primarily occurs in the duodenum and jejunum, areas commonly affected in celiac disease. Children with unexplained iron deficiency anemia should be screened for celiac disease, especially if other risk factors or symptoms are present.",
+    "reference": "Journal of Pediatric Gastroenterology and Nutrition. 2020;70(5):563-573"
+  },
+  {
+    "question": "What is the expected timeline for hemoglobin response after initiating appropriate iron therapy in a child with iron deficiency anemia?",
+    "options": [
+      "24-48 hours",
+      "3-5 days",
+      "7-10 days",
+      "2-4 weeks",
+      "6-8 weeks"
+    ],
+    "correct": "7-10 days",
+    "explanation": "The expected timeline for hemoglobin response after initiating appropriate iron therapy is 7-10 days. This delay occurs because it takes time for iron to be incorporated into new red blood cells. Reticulocytosis (increased production of immature RBCs) begins within 3-5 days of starting iron therapy, followed by a measurable increase in hemoglobin levels by 7-10 days. Failure to observe this response timeline should prompt evaluation for other causes of anemia, poor adherence, or inadequate dosing.",
+    "reference": "New England Journal of Medicine. 2020;383(11):1032-1044"
+  }
+]
