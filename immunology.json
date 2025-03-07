@@ -1,0 +1,133 @@
+
+[
+  {
+    "question": "What is the most common definition of neutropenia in children?",
+    "options": [
+      "Absolute neutrophil count < 1000/μL",
+      "Absolute neutrophil count < 1500/μL",
+      "Absolute neutrophil count < 500/μL",
+      "Absolute neutrophil count < 2000/μL",
+      "Absolute neutrophil count < 100/μL"
+    ],
+    "correct": "Absolute neutrophil count < 1500/μL",
+    "explanation": "The most widely accepted definition of neutropenia in children is an absolute neutrophil count (ANC) less than 1500/μL. However, it's important to note that normal neutrophil counts vary by age and ethnicity. For example, individuals of African or Middle Eastern descent may have lower baseline neutrophil counts.",
+    "reference": "Nathan and Oski's Hematology and Oncology of Infancy and Childhood, 8th edition"
+  },
+  {
+    "question": "Which of the following is the most common cause of neutropenia in children?",
+    "options": [
+      "Kostmann syndrome",
+      "Drug-induced neutropenia",
+      "Viral infections",
+      "Cyclic neutropenia",
+      "Autoimmune neutropenia"
+    ],
+    "correct": "Viral infections",
+    "explanation": "Viral infections are the most common cause of neutropenia in the pediatric population. Common viral pathogens include influenza, Epstein-Barr virus, cytomegalovirus, and parvovirus B19. These infections typically cause a transient decrease in neutrophil count that resolves as the infection clears.",
+    "reference": "Pediatric Clinics of North America: 'Neutropenia in Pediatric Practice'"
+  },
+  {
+    "question": "Which of the following is the most common cause of chronic benign neutropenia in young children?",
+    "options": [
+      "Cyclic neutropenia",
+      "Kostmann syndrome",
+      "Autoimmune neutropenia of infancy",
+      "Shwachman-Diamond syndrome",
+      "Drug-induced neutropenia"
+    ],
+    "correct": "Autoimmune neutropenia of infancy",
+    "explanation": "Autoimmune neutropenia of infancy is the most common cause of chronic neutropenia in children under 5 years of age. It is characterized by the presence of anti-neutrophil antibodies, typically has a benign course with few serious infections, and often spontaneously resolves within 6-24 months.",
+    "reference": "Blood: 'How I Manage Children with Neutropenia'"
+  },
+  {
+    "question": "What is the typical pattern of neutrophil counts in cyclic neutropenia?",
+    "options": [
+      "Consistently low neutrophil counts",
+      "Regular oscillations with 21-day periodicity",
+      "Gradual decline over months",
+      "Random fluctuations between normal and low",
+      "Low counts only during infections"
+    ],
+    "correct": "Regular oscillations with 21-day periodicity",
+    "explanation": "Cyclic neutropenia is characterized by regular oscillations in neutrophil counts that typically occur every 21 days (range 14-35 days). During nadirs, the ANC often drops below 200/μL for 3-5 days, followed by recovery to normal levels. Diagnosis requires serial CBCs (2-3 times weekly for 6 weeks) to document this pattern.",
+    "reference": "New England Journal of Medicine: 'ELANE Mutations in Cyclic and Severe Congenital Neutropenia'"
+  },
+  {
+    "question": "Which genetic mutation is most commonly associated with severe congenital neutropenia?",
+    "options": [
+      "WASP gene",
+      "ELANE gene",
+      "SBDS gene",
+      "WAS gene",
+      "GATA2 gene"
+    ],
+    "correct": "ELANE gene",
+    "explanation": "Mutations in the ELANE gene (formerly known as ELA2), which encodes neutrophil elastase, are the most common genetic cause of severe congenital neutropenia, accounting for approximately 50-60% of cases. These mutations lead to misfolded neutrophil elastase which triggers the unfolded protein response and causes apoptosis of neutrophil precursors.",
+    "reference": "Blood: 'Mutations in the Gene for Neutrophil Elastase in Congenital and Cyclic Neutropenia'"
+  },
+  {
+    "question": "What is the primary risk factor for serious bacterial infections in children with neutropenia?",
+    "options": [
+      "Duration of neutropenia",
+      "Absolute neutrophil count",
+      "Presence of fever",
+      "Underlying cause of neutropenia",
+      "Patient age"
+    ],
+    "correct": "Absolute neutrophil count",
+    "explanation": "The absolute neutrophil count (ANC) is the primary determinant of infection risk in neutropenic patients. The risk of serious bacterial infection increases significantly when the ANC falls below 500/μL, with the highest risk occurring at counts below 200/μL. Duration of neutropenia is also important, but ANC level is the most critical factor.",
+    "reference": "Journal of Pediatric Hematology/Oncology: 'Risk Factors for Serious Bacterial Infections in Febrile Neutropenic Pediatric Patients'"
+  },
+  {
+    "question": "Which of the following is NOT a feature of Shwachman-Diamond syndrome?",
+    "options": [
+      "Neutropenia",
+      "Exocrine pancreatic insufficiency",
+      "Skeletal abnormalities",
+      "Cognitive impairment",
+      "Increased risk of myelodysplastic syndrome"
+    ],
+    "correct": "Cognitive impairment",
+    "explanation": "Shwachman-Diamond syndrome is characterized by neutropenia, exocrine pancreatic insufficiency, skeletal abnormalities (metaphyseal dysostosis), and an increased risk of myelodysplastic syndrome and acute myeloid leukemia. Cognitive impairment is not a typical feature of this disorder, which distinguishes it from some other inherited bone marrow failure syndromes.",
+    "reference": "Pediatric Blood & Cancer: 'Shwachman-Diamond Syndrome: A Review of the Clinical Presentation, Molecular Pathogenesis, Diagnosis, and Treatment'"
+  },
+  {
+    "question": "What is the first-line treatment for severe chronic neutropenia?",
+    "options": [
+      "Stem cell transplantation",
+      "Corticosteroids",
+      "Intravenous immunoglobulin",
+      "Granulocyte colony-stimulating factor (G-CSF)",
+      "Prophylactic antibiotics"
+    ],
+    "correct": "Granulocyte colony-stimulating factor (G-CSF)",
+    "explanation": "Granulocyte colony-stimulating factor (G-CSF, filgrastim) is the first-line treatment for severe chronic neutropenia, including congenital, cyclic, and idiopathic forms. G-CSF stimulates neutrophil production and maturation, effectively increasing the neutrophil count in most patients. Over 90% of patients with severe congenital neutropenia respond to G-CSF with increased neutrophil counts and reduced infection frequency.",
+    "reference": "Blood: 'Long-term G-CSF Therapy in Severe Congenital Neutropenia: Experience of the Severe Chronic Neutropenia International Registry'"
+  },
+  {
+    "question": "Which of the following malignancies are patients with severe congenital neutropenia at increased risk of developing?",
+    "options": [
+      "Acute lymphoblastic leukemia",
+      "Hodgkin lymphoma",
+      "Wilms tumor",
+      "Myelodysplastic syndrome and acute myeloid leukemia",
+      "Neuroblastoma"
+    ],
+    "correct": "Myelodysplastic syndrome and acute myeloid leukemia",
+    "explanation": "Patients with severe congenital neutropenia have an increased risk of developing myelodysplastic syndrome (MDS) and acute myeloid leukemia (AML). The cumulative incidence of MDS/AML in these patients is approximately 15-25% after 15 years. This risk appears to be related to the underlying genetic defect rather than G-CSF therapy, although higher doses of G-CSF may be associated with increased risk.",
+    "reference": "New England Journal of Medicine: 'Mutations in the G-CSF Receptor Gene in Patients with Severe Congenital Neutropenia and Acute Myeloid Leukemia'"
+  },
+  {
+    "question": "Which of the following findings would be most concerning for a diagnosis of leukemia in a child with neutropenia?",
+    "options": [
+      "History of recurrent viral infections",
+      "Presence of anti-neutrophil antibodies",
+      "Concurrent thrombocytopenia and anemia",
+      "Mild splenomegaly",
+      "Periodic oscillations in neutrophil count"
+    ],
+    "correct": "Concurrent thrombocytopenia and anemia",
+    "explanation": "The presence of neutropenia along with abnormalities in other cell lines (thrombocytopenia and anemia) is concerning for bone marrow infiltration or failure, with leukemia being a primary consideration. This pattern, often called pancytopenia, suggests a process affecting all hematopoietic lineages and warrants immediate evaluation with peripheral blood smear and bone marrow examination.",
+    "reference": "Archives of Disease in Childhood: 'Investigation and Management of Neutropenia in Children'"
+  }
+]
