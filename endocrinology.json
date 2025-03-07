@@ -128,5 +128,137 @@
     "correct": "Early treatment with adequate doses of levothyroxine leads to normal intellectual outcomes in most cases",
     "explanation": "Early treatment with adequate doses of levothyroxine leads to normal intellectual outcomes in most cases of congenital hypothyroidism. The introduction of newborn screening programs has dramatically improved outcomes, with most treated children achieving normal intelligence. However, subtle neurocognitive deficits may persist in some children, particularly those with severe hypothyroidism at diagnosis (very low T4, very high TSH), delayed treatment initiation, or poor treatment compliance. The severity of hypothyroidism at diagnosis and the timing of treatment initiation are the most important determinants of neurodevelopmental outcomes.",
     "reference": "Pediatrics. 2019;143(5):e20181317"
+  },
+  
+  {
+    "question": "What is the most common cause of primary adrenal insufficiency in children?",
+    "options": [
+      "Congenital adrenal hyperplasia",
+      "Autoimmune adrenalitis",
+      "Adrenal hemorrhage",
+      "Tuberculosis",
+      "Metastatic disease"
+    ],
+    "correct": "Autoimmune adrenalitis",
+    "explanation": "Autoimmune adrenalitis is the most common cause of primary adrenal insufficiency (Addison's disease) in children in developed countries, accounting for approximately 80% of cases. It may occur in isolation or as part of autoimmune polyglandular syndromes.",
+    "reference": "Perry R, Kecha O, Paquette J, Huot C, Van Vliet G, Deal C. Primary adrenal insufficiency in children: twenty years experience at the Sainte-Justine Hospital, Montreal. J Clin Endocrinol Metab. 2005;90(6):3243-3250."
+  },
+  {
+    "question": "Which electrolyte abnormality is most characteristic of Addison's disease in children?",
+    "options": [
+      "Hyperkalemia",
+      "Hyponatremia",
+      "Hypercalcemia",
+      "Hyperphosphatemia",
+      "Hypermagnesemia"
+    ],
+    "correct": "Hyponatremia",
+    "explanation": "Hyponatremia is the most common and characteristic electrolyte abnormality in Addison's disease, occurring in approximately 90% of affected children. It results from both sodium wasting due to aldosterone deficiency and increased ADH secretion due to volume depletion.",
+    "reference": "Hsieh S, White PC. Presentation of primary adrenal insufficiency in childhood. J Clin Endocrinol Metab. 2011;96(6):E925-E928."
+  },
+  {
+    "question": "Which of the following is the gold standard diagnostic test for Addison's disease in children?",
+    "options": [
+      "Random serum cortisol",
+      "8 AM serum cortisol",
+      "Standard ACTH stimulation test",
+      "Insulin tolerance test",
+      "Dexamethasone suppression test"
+    ],
+    "correct": "Standard ACTH stimulation test",
+    "explanation": "The standard ACTH stimulation test (250 μg of cosyntropin) is the gold standard for diagnosing primary adrenal insufficiency. A peak cortisol response below 18 μg/dL (500 nmol/L) at 30 or 60 minutes after ACTH administration confirms adrenal insufficiency.",
+    "reference": "Bornstein SR, Allolio B, Arlt W, et al. Diagnosis and treatment of primary adrenal insufficiency: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab. 2016;101(2):364-389."
+  },
+  {
+    "question": "Which autoantibody is most specific for autoimmune Addison's disease?",
+    "options": [
+      "Anti-insulin antibodies",
+      "Anti-thyroid peroxidase antibodies",
+      "Anti-21-hydroxylase antibodies",
+      "Anti-tissue transglutaminase antibodies",
+      "Anti-intrinsic factor antibodies"
+    ],
+    "correct": "Anti-21-hydroxylase antibodies",
+    "explanation": "Anti-21-hydroxylase (21-OH) antibodies are highly specific for autoimmune Addison's disease and are present in over 90% of patients with recent-onset disease. These antibodies target the steroidogenic enzyme 21-hydroxylase, which is critical for both cortisol and aldosterone synthesis.",
+    "reference": "Betterle C, Morlin L. Autoimmune Addison's disease. Endocr Dev. 2011;20:161-172."
+  },
+  {
+    "question": "Which medication is the preferred glucocorticoid for chronic replacement therapy in children with Addison's disease?",
+    "options": [
+      "Prednisone",
+      "Dexamethasone",
+      "Hydrocortisone",
+      "Methylprednisolone",
+      "Fludrocortisone"
+    ],
+    "correct": "Hydrocortisone",
+    "explanation": "Hydrocortisone is the preferred glucocorticoid for maintenance therapy in children with Addison's disease because it most closely mimics physiological cortisol secretion and has a short half-life. This allows for multiple daily dosing that better approximates the natural circadian rhythm of cortisol.",
+    "reference": "Speiser PW, Azziz R, Baskin LS, et al. Congenital adrenal hyperplasia due to steroid 21-hydroxylase deficiency: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab. 2018;103(11):4043-4088."
+  },
+  {
+    "question": "What is the recommended initial management for a child presenting with acute adrenal crisis?",
+    "options": [
+      "Oral hydrocortisone",
+      "Intramuscular hydrocortisone",
+      "Intravenous hydrocortisone with fluid resuscitation",
+      "Intravenous fludrocortisone",
+      "Oral fludrocortisone with fluid restriction"
+    ],
+    "correct": "Intravenous hydrocortisone with fluid resuscitation",
+    "explanation": "The initial management of acute adrenal crisis requires prompt administration of intravenous hydrocortisone (50-100 mg/m² as a bolus) followed by continuous infusion or repeated boluses, along with rapid isotonic fluid resuscitation to correct hypovolemia and electrolyte abnormalities.",
+    "reference": "Miller BS, Spencer SP, Geffner ME, et al. Emergency management of adrenal insufficiency in children: advocating for treatment options in outpatient and field settings. J Investig Med. 2020;68(1):16-25."
+  },
+  {
+    "question": "In addition to glucocorticoid replacement, which other hormone replacement is typically required in children with primary adrenal insufficiency?",
+    "options": [
+      "Testosterone",
+      "Growth hormone",
+      "Thyroxine",
+      "Mineralocorticoid",
+      "Insulin"
+    ],
+    "correct": "Mineralocorticoid",
+    "explanation": "Children with primary adrenal insufficiency typically require mineralocorticoid replacement with fludrocortisone in addition to glucocorticoid therapy. Mineralocorticoid replacement is essential for maintaining sodium balance, intravascular volume, and blood pressure.",
+    "reference": "Husebye ES, Allolio B, Arlt W, et al. Consensus statement on the diagnosis, treatment and follow-up of patients with primary adrenal insufficiency. J Intern Med. 2014;275(2):104-115."
+  },
+  {
+    "question": "Which genetic condition is characterized by adrenal insufficiency, hypoparathyroidism, and chronic mucocutaneous candidiasis?",
+    "options": [
+      "Congenital adrenal hyperplasia",
+      "X-linked adrenoleukodystrophy",
+      "Autoimmune Polyglandular Syndrome type 1",
+      "Kearns-Sayre syndrome",
+      "Triple A syndrome"
+    ],
+    "correct": "Autoimmune Polyglandular Syndrome type 1",
+    "explanation": "Autoimmune Polyglandular Syndrome type 1 (APS-1), also known as APECED, is caused by mutations in the AIRE gene and is characterized by the classic triad of chronic mucocutaneous candidiasis, hypoparathyroidism, and adrenal insufficiency, although additional autoimmune manifestations often occur.",
+    "reference": "Ferre EMN, Rose SR, Rosenzweig SD, et al. Redefined clinical features and diagnostic criteria in autoimmune polyendocrinopathy-candidiasis-ectodermal dystrophy. JCI Insight. 2016;1(13):e88782."
+  },
+  {
+    "question": "What is the most common symptom of chronic primary adrenal insufficiency in children?",
+    "options": [
+      "Salt craving",
+      "Fatigue",
+      "Hyperpigmentation",
+      "Weight loss",
+      "Abdominal pain"
+    ],
+    "correct": "Fatigue",
+    "explanation": "Fatigue is the most common and earliest symptom of chronic primary adrenal insufficiency in children, present in over 90% of cases. The insidious onset and nonspecific nature of this symptom often contribute to delayed diagnosis.",
+    "reference": "Kahaly GJ, Frommer L. Polyglandular autoimmune syndromes. J Endocrinol Invest. 2018;41(1):91-98."
+  },
+  {
+    "question": "What is the typical dosing regimen for hydrocortisone replacement in children with Addison's disease?",
+    "options": [
+      "Once daily in the morning",
+      "Twice daily with larger dose in the morning",
+      "Three times daily with largest dose in the evening",
+      "Continuous subcutaneous infusion",
+      "Once daily in the evening"
+    ],
+    "correct": "Three times daily with largest dose in the morning",
+    "explanation": "The typical hydrocortisone replacement regimen in children with Addison's disease is three times daily (with approximately 50% of the daily dose given in the morning, 25% at noon, and 25% in the early evening) to mimic the natural circadian rhythm of cortisol secretion.",
+    "reference": "Rushworth RL, Torpy DJ, Falhammar H. Adrenal Crisis. N Engl J Med. 2019;381(9):852-861."
   }
+
 ]
