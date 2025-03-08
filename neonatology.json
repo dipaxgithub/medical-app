@@ -390,5 +390,137 @@
     "correct": "Trial of pyridoxine",
     "explanation": "In a term neonate with drug-resistant seizures and normal neuroimaging, a therapeutic trial of pyridoxine should be performed to evaluate for pyridoxine-dependent epilepsy. This rare but treatable metabolic cause of neonatal seizures can be diagnosed by observing clinical and EEG response to intravenous pyridoxine administration. Untreated pyridoxine-dependent epilepsy leads to severe developmental consequences, making early diagnosis critical. The diagnostic evaluation should also include other vitamin-responsive epilepsies (e.g., pyridoxal 5'-phosphate, folinic acid, biotin), but pyridoxine trial is often the first step due to its safety, availability, and the devastating consequences of missed diagnosis.",
     "reference": "Gospe SM Jr. Pyridoxine-dependent epilepsy and pyridoxine phosphate oxidase deficiency: unique clinical symptoms and non-specific EEG characteristics. Developmental Medicine and Child Neurology. 2010;52(7):602-603."
+  },
+  
+  {
+    "question": "Which of the following is the primary cause of Respiratory Distress Syndrome (RDS) in premature infants?",
+    "options": [
+      "Bacterial pneumonia",
+      "Meconium aspiration",
+      "Surfactant deficiency",
+      "Transient tachypnea",
+      "Congenital diaphragmatic hernia"
+    ],
+    "correct": "Surfactant deficiency",
+    "explanation": "RDS in premature infants is primarily caused by a deficiency of pulmonary surfactant, which is a complex mixture of phospholipids and proteins produced by type II alveolar cells. Surfactant reduces surface tension in the alveoli, preventing collapse at end-expiration. In premature infants, the lungs may not have developed adequate surfactant production capability, leading to atelectasis, increased work of breathing, and hypoxemia.",
+    "reference": "Sweet DG, Carnielli V, Greisen G, et al. European Consensus Guidelines on the Management of Respiratory Distress Syndrome - 2019 Update. Neonatology. 2019;115(4):432-450."
+  },
+  {
+    "question": "What is the most common radiographic finding in neonatal Respiratory Distress Syndrome?",
+    "options": [
+      "Hyperinflation with flattened diaphragms",
+      "Diffuse reticulogranular pattern with air bronchograms",
+      "Lobar consolidation",
+      "Pleural effusions",
+      "Pneumothorax"
+    ],
+    "correct": "Diffuse reticulogranular pattern with air bronchograms",
+    "explanation": "The classic radiographic appearance of neonatal RDS is a diffuse reticulogranular (ground-glass) pattern throughout both lung fields with air bronchograms. This pattern reflects widespread microatelectasis with relative sparing of the air-filled bronchi, creating the air bronchogram effect. The lungs often appear underinflated with decreased lung volumes.",
+    "reference": "Liszewski MC, Lee EY. Neonatal Lung Disorders: Pattern Recognition Approach to Diagnosis. AJR Am J Roentgenol. 2018;210(5):964-975."
+  },
+  {
+    "question": "At which gestational age does the risk of Respiratory Distress Syndrome significantly decrease due to adequate surfactant production?",
+    "options": [
+      "28 weeks",
+      "32 weeks",
+      "34 weeks",
+      "36 weeks",
+      "38 weeks"
+    ],
+    "correct": "34 weeks",
+    "explanation": "The risk of RDS significantly decreases after 34 weeks of gestation, which corresponds to the gestational age when sufficient surfactant production typically develops. Before this time, there is a higher risk of surfactant deficiency, with the risk being inversely proportional to gestational age. Nearly all infants born before 28 weeks gestation will develop RDS if not treated with antenatal steroids or postnatal surfactant.",
+    "reference": "Reuter S, Moser C, Baack M. Respiratory distress in the newborn. Pediatr Rev. 2014;35(10):417-429."
+  },
+  {
+    "question": "Which antenatal intervention has been proven to reduce the incidence and severity of Respiratory Distress Syndrome in premature infants?",
+    "options": [
+      "Maternal antibiotics",
+      "Maternal magnesium sulfate",
+      "Maternal corticosteroids",
+      "Maternal tocolytics",
+      "Amnioinfusion"
+    ],
+    "correct": "Maternal corticosteroids",
+    "explanation": "Antenatal corticosteroids (betamethasone or dexamethasone) administered to women at risk of preterm delivery accelerate fetal lung maturity by stimulating surfactant production and structural maturation of the lungs. A complete course of antenatal corticosteroids (two doses 24 hours apart) given 24 hours to 7 days before delivery can reduce the risk of RDS by approximately 50%, as well as decrease the severity of RDS when it does occur.",
+    "reference": "Committee on Obstetric Practice. Committee Opinion No. 713: Antenatal Corticosteroid Therapy for Fetal Maturation. Obstet Gynecol. 2017;130(2):e102-e109."
+  },
+  {
+    "question": "Which of the following clinical signs is NOT typically seen in a neonate with Respiratory Distress Syndrome?",
+    "options": [
+      "Tachypnea",
+      "Nasal flaring",
+      "Grunting",
+      "Stridor",
+      "Intercostal retractions"
+    ],
+    "correct": "Stridor",
+    "explanation": "Stridor, which is a high-pitched monophonic inspiratory sound caused by upper airway obstruction, is not typically associated with RDS. RDS is characterized by tachypnea, nasal flaring, grunting (an expiratory sound due to closure of the glottis to maintain positive end-expiratory pressure), and intercostal/subcostal retractions due to increased work of breathing from decreased lung compliance.",
+    "reference": "Edwards MO, Kotecha SJ, Kotecha S. Respiratory distress of the term newborn infant. Paediatr Respir Rev. 2013;14(1):29-37."
+  },
+  {
+    "question": "Which phospholipid component is the most abundant and essential for the surface tension-lowering property of pulmonary surfactant?",
+    "options": [
+      "Phosphatidylserine",
+      "Phosphatidylcholine",
+      "Phosphatidylethanolamine",
+      "Phosphatidylinositol",
+      "Sphingomyelin"
+    ],
+    "correct": "Phosphatidylcholine",
+    "explanation": "Phosphatidylcholine (PC), particularly dipalmitoylphosphatidylcholine (DPPC), is the most abundant phospholipid component of pulmonary surfactant (approximately 70-80% of total phospholipids). DPPC is primarily responsible for the surface tension-lowering properties of surfactant at the air-liquid interface in the alveoli, preventing alveolar collapse during expiration.",
+    "reference": "Whitsett JA, Wert SE, Weaver TE. Alveolar surfactant homeostasis and the pathogenesis of pulmonary disease. Annu Rev Med. 2010;61:105-119."
+  },
+  {
+    "question": "Which of the following is NOT a component of exogenous surfactant preparations used to treat Respiratory Distress Syndrome?",
+    "options": [
+      "Phospholipids",
+      "Surfactant protein B",
+      "Surfactant protein C",
+      "Surfactant protein A",
+      "Neutral lipids"
+    ],
+    "correct": "Surfactant protein A",
+    "explanation": "Commercial exogenous surfactant preparations used to treat RDS typically contain phospholipids, neutral lipids, and the hydrophobic surfactant proteins B and C, but they lack surfactant protein A (SP-A). SP-A is a hydrophilic protein that plays a role in host defense and surfactant homeostasis but is not essential for the surface tension-lowering properties of surfactant. Current extraction methods and purification processes for animal-derived surfactants do not preserve SP-A, and synthetic surfactants do not include it.",
+    "reference": "Chakraborty M, Kotecha S. Pulmonary surfactant in newborn infants and children. Breathe. 2013;9(6):476-488."
+  },
+  {
+    "question": "Which complication of Respiratory Distress Syndrome is associated with increased pulmonary vascular resistance and right-to-left shunting?",
+    "options": [
+      "Bronchopulmonary dysplasia",
+      "Pulmonary interstitial emphysema",
+      "Persistent pulmonary hypertension",
+      "Pneumothorax",
+      "Patent ductus arteriosus"
+    ],
+    "correct": "Persistent pulmonary hypertension",
+    "explanation": "Persistent pulmonary hypertension of the newborn (PPHN) is a complication that can occur in infants with RDS. The hypoxemia and acidosis from RDS can lead to pulmonary vasoconstriction, increasing pulmonary vascular resistance. This results in right-to-left shunting through the patent foramen ovale and/or patent ductus arteriosus, worsening the hypoxemia and creating a vicious cycle. PPHN can significantly complicate the management of RDS and lead to poorer outcomes.",
+    "reference": "Lakshminrusimha S, Keszler M. Persistent Pulmonary Hypertension of the Newborn. Neoreviews. 2015;16(12):e680-e692."
+  },
+  {
+    "question": "Which method is considered the gold standard for assessing fetal lung maturity before elective delivery?",
+    "options": [
+      "Maternal estrogen levels",
+      "Fetal breathing movements on ultrasound",
+      "Lecithin/sphingomyelin (L/S) ratio in amniotic fluid",
+      "Biophysical profile",
+      "Fetal heart rate variability"
+    ],
+    "correct": "Lecithin/sphingomyelin (L/S) ratio in amniotic fluid",
+    "explanation": "The lecithin/sphingomyelin (L/S) ratio in amniotic fluid is considered the gold standard test for fetal lung maturity. Lecithin (phosphatidylcholine) is a major component of surfactant, while sphingomyelin serves as a reference since its concentration remains relatively constant. An L/S ratio greater than 2:1 generally indicates pulmonary maturity and a low risk of RDS. Additional tests that may be used include presence of phosphatidylglycerol and lamellar body counts.",
+    "reference": "ACOG Practice Bulletin No. 230: Fetal Growth Restriction and Assessment of Fetal Well-Being. Obstet Gynecol. 2021;137(6):e16-e28."
+  },
+  {
+    "question": "What is the recommended initial oxygen concentration for premature infants with Respiratory Distress Syndrome during resuscitation?",
+    "options": [
+      "100% oxygen",
+      "60-80% oxygen",
+      "40-60% oxygen",
+      "21-30% oxygen",
+      "Room air (21% oxygen) only"
+    ],
+    "correct": "21-30% oxygen",
+    "explanation": "Current neonatal resuscitation guidelines recommend initiating resuscitation of premature infants with a lower oxygen concentration (21-30%) rather than 100% oxygen, with subsequent titration based on pre-ductal oxygen saturation targets. This approach aims to minimize oxidative stress and potential oxygen toxicity while ensuring adequate oxygenation. Studies have shown that high oxygen concentrations during resuscitation may be associated with increased mortality and morbidity, including bronchopulmonary dysplasia and retinopathy of prematurity.",
+    "reference": "Wyckoff MH, Aziz K, Escobedo MB, et al. Part 13: Neonatal Resuscitation: 2015 American Heart Association Guidelines Update for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care. Circulation. 2015;132(18 Suppl 2):S543-S560."
   }
+
 ]
