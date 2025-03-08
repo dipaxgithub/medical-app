@@ -128,5 +128,137 @@
     "correct": "Reactive airway disease/asthma",
     "explanation": "Reactive airway disease/asthma is the most important long-term respiratory outcome associated with severe meconium aspiration syndrome. Follow-up studies of infants with severe MAS have demonstrated an increased incidence of reactive airway disease, wheezing, and asthma during childhood and adolescence. This is thought to be related to the initial inflammatory damage to the airways and the subsequent airway hyperreactivity that develops in response to the initial insult.",
     "reference": "Journal of Pediatrics, 2022; 240: 82-89"
+  },
+  
+  {
+    "question": "At what total serum bilirubin level should phototherapy typically be initiated for a term infant (≥38 weeks) with no risk factors at 48 hours of life?",
+    "options": [
+      "≥5 mg/dL (85 μmol/L)",
+      "≥10 mg/dL (171 μmol/L)",
+      "≥15 mg/dL (257 μmol/L)",
+      "≥20 mg/dL (342 μmol/L)",
+      "≥25 mg/dL (428 μmol/L)"
+    ],
+    "correct": "≥15 mg/dL (257 μmol/L)",
+    "explanation": "According to the American Academy of Pediatrics guidelines, phototherapy initiation thresholds are based on age in hours, gestational age, and risk factors. For a healthy term infant (≥38 weeks) at 48 hours of life with no risk factors, phototherapy is typically recommended when total serum bilirubin reaches or exceeds 15 mg/dL (257 μmol/L).",
+    "reference": "American Academy of Pediatrics Subcommittee on Hyperbilirubinemia. Management of hyperbilirubinemia in the newborn infant 35 or more weeks of gestation. Pediatrics. 2004;114(1):297-316."
+  },
+  {
+    "question": "Which of the following is the most common cause of pathological jaundice in the first 24 hours of life?",
+    "options": [
+      "Physiological jaundice",
+      "ABO incompatibility",
+      "Breast milk jaundice",
+      "Hypothyroidism",
+      "Crigler-Najjar syndrome"
+    ],
+    "correct": "ABO incompatibility",
+    "explanation": "Jaundice appearing within the first 24 hours of life is always pathological. Among pathological causes, ABO incompatibility (particularly type O mother with type A or B infant) is the most common cause of early hemolytic jaundice in the first 24 hours. Physiological jaundice typically appears after 24 hours, breast milk jaundice after 3-5 days, while hypothyroidism and Crigler-Najjar syndrome are much rarer causes.",
+    "reference": "Maisels MJ, et al. Hyperbilirubinemia in the Newborn Infant ≥35 Weeks' Gestation: An Update With Clarifications. Pediatrics. 2009;124(4):1193-1198."
+  },
+  {
+    "question": "Which of the following laboratory findings is most consistent with hemolytic disease in a jaundiced neonate?",
+    "options": [
+      "Elevated direct bilirubin",
+      "Normal reticulocyte count",
+      "Positive Coombs test",
+      "Normal hemoglobin level",
+      "Elevated liver enzymes"
+    ],
+    "correct": "Positive Coombs test",
+    "explanation": "A positive direct Coombs test (direct antiglobulin test) indicates antibodies attached to red blood cells, which is highly suggestive of immune-mediated hemolysis as seen in blood group incompatibilities like ABO or Rh incompatibility. This finding, along with anemia, elevated reticulocyte count, and predominantly indirect hyperbilirubinemia, is characteristic of hemolytic disease of the newborn.",
+    "reference": "Kaplan M, Wong RJ, Sibley E, Stevenson DK. Neonatal Jaundice and Liver Disease. In: Martin RJ, Fanaroff AA, Walsh MC, eds. Fanaroff and Martin's Neonatal-Perinatal Medicine. 11th ed. Philadelphia, PA: Elsevier; 2020:1788-1856."
+  },
+  {
+    "question": "A term neonate develops jaundice at 2 days of life with total serum bilirubin of 12 mg/dL. The direct (conjugated) bilirubin is 0.4 mg/dL. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Biliary atresia",
+      "Physiological jaundice",
+      "Neonatal hepatitis",
+      "Galactosemia",
+      "Tyrosinemia"
+    ],
+    "correct": "Physiological jaundice",
+    "explanation": "This scenario describes physiological jaundice, which is characterized by onset after 24 hours of life, predominantly indirect (unconjugated) hyperbilirubinemia (direct fraction <20% of total), and mild-moderate elevation of bilirubin. The values given (total bilirubin 12 mg/dL with direct fraction of 0.4 mg/dL at day 2) are consistent with physiological jaundice in a term infant. Biliary atresia, neonatal hepatitis, galactosemia, and tyrosinemia would all present with significant direct hyperbilirubinemia.",
+    "reference": "Maisels MJ. Neonatal jaundice. Pediatrics in Review. 2006;27(12):443-454."
+  },
+  {
+    "question": "Which of the following bilirubin fractions is most likely to cause kernicterus?",
+    "options": [
+      "Direct bilirubin bound to albumin",
+      "Indirect bilirubin bound to albumin",
+      "Direct bilirubin unbound to albumin",
+      "Indirect bilirubin unbound to albumin",
+      "Delta bilirubin"
+    ],
+    "correct": "Indirect bilirubin unbound to albumin",
+    "explanation": "Free (unbound) indirect bilirubin is lipid-soluble and can cross the blood-brain barrier, particularly when the bilirubin-binding capacity of albumin is exceeded or when substances that displace bilirubin from albumin are present. This unbound indirect bilirubin can then enter the brain and cause neurotoxicity, leading to kernicterus. Direct (conjugated) bilirubin is water-soluble and does not cross the blood-brain barrier, thus not causing kernicterus.",
+    "reference": "Watchko JF, Tiribelli C. Bilirubin-induced neurologic damage—mechanisms and management approaches. New England Journal of Medicine. 2013;369(21):2021-2030."
+  },
+  {
+    "question": "Which of the following is NOT a risk factor for severe hyperbilirubinemia in neonates?",
+    "options": [
+      "Prematurity",
+      "Exclusive breastfeeding",
+      "Cephalohematoma",
+      "Female gender",
+      "East Asian ethnicity"
+    ],
+    "correct": "Female gender",
+    "explanation": "Male gender, not female, is a risk factor for severe hyperbilirubinemia. Other established risk factors include prematurity, exclusive breastfeeding, cephalohematoma or significant bruising (which increase bilirubin load), and East Asian ethnicity. Males tend to have higher peak bilirubin levels than females, though the exact mechanism is not fully understood.",
+    "reference": "American Academy of Pediatrics Subcommittee on Hyperbilirubinemia. Management of hyperbilirubinemia in the newborn infant 35 or more weeks of gestation. Pediatrics. 2004;114(1):297-316."
+  },
+  {
+    "question": "Which enzyme is deficient in Crigler-Najjar syndrome type I?",
+    "options": [
+      "Glucose-6-phosphate dehydrogenase",
+      "Uridine diphosphate glucuronosyltransferase (UGT1A1)",
+      "Pyruvate kinase",
+      "Hepatic alpha-1-antitrypsin",
+      "Galactose-1-phosphate uridyltransferase"
+    ],
+    "correct": "Uridine diphosphate glucuronosyltransferase (UGT1A1)",
+    "explanation": "Crigler-Najjar syndrome type I is characterized by complete absence of uridine diphosphate glucuronosyltransferase (UGT1A1) enzyme activity, which is essential for conjugation of bilirubin. This results in severe unconjugated hyperbilirubinemia from birth that is refractory to phenobarbital treatment and often requires phototherapy, exchange transfusion, and eventually liver transplantation to prevent kernicterus.",
+    "reference": "Bosma PJ. Inherited disorders of bilirubin metabolism. Journal of Hepatology. 2003;38(1):107-117."
+  },
+  {
+    "question": "A 3-day-old term neonate has a total serum bilirubin of 18 mg/dL. What is the most appropriate next step in management?",
+    "options": [
+      "Observe and repeat bilirubin in 24 hours",
+      "Start phototherapy",
+      "Perform exchange transfusion",
+      "Administer intravenous immunoglobulin (IVIG)",
+      "Discontinue breastfeeding"
+    ],
+    "correct": "Start phototherapy",
+    "explanation": "For a 3-day-old (72-hour) term infant with total serum bilirubin of 18 mg/dL, phototherapy is indicated according to the American Academy of Pediatrics guidelines. This level is above the phototherapy threshold but below the exchange transfusion threshold for a term infant at 72 hours. Observation alone would be inadequate, while exchange transfusion would be reserved for higher bilirubin levels or signs of bilirubin encephalopathy. IVIG is indicated primarily for isoimmune hemolytic disease, and discontinuing breastfeeding is rarely necessary.",
+    "reference": "American Academy of Pediatrics Subcommittee on Hyperbilirubinemia. Management of hyperbilirubinemia in the newborn infant 35 or more weeks of gestation. Pediatrics. 2004;114(1):297-316."
+  },
+  {
+    "question": "Which of the following is a characteristic of breast milk jaundice?",
+    "options": [
+      "Onset within first 24 hours of life",
+      "Associated with direct hyperbilirubinemia",
+      "Peak bilirubin levels typically occur in first week and resolve by second week",
+      "May persist for 3-12 weeks with gradual resolution",
+      "Always requires temporary cessation of breastfeeding"
+    ],
+    "correct": "May persist for 3-12 weeks with gradual resolution",
+    "explanation": "Breast milk jaundice typically presents after 3-5 days of life, peaks by 7-15 days, and may persist for 3-12 weeks with gradual resolution while continuing breastfeeding. This is distinct from breastfeeding jaundice, which is related to inadequate milk intake. Breast milk jaundice is characterized by unconjugated hyperbilirubinemia and is thought to be caused by factors in breast milk that inhibit bilirubin conjugation or enhance intestinal bilirubin absorption. It rarely requires cessation of breastfeeding unless bilirubin levels approach the exchange transfusion threshold.",
+    "reference": "Preer GL, Philipp BL. Understanding and managing breast milk jaundice. Archives of Disease in Childhood - Fetal and Neonatal Edition. 2011;96(6):F461-F466."
+  },
+  {
+    "question": "Which of the following best characterizes direct (conjugated) hyperbilirubinemia in neonates?",
+    "options": [
+      "Direct bilirubin >1 mg/dL when total bilirubin is <5 mg/dL",
+      "Direct bilirubin >10% of total bilirubin when total bilirubin is >5 mg/dL",
+      "Direct bilirubin >20% of total bilirubin regardless of total level",
+      "Direct bilirubin >2 mg/dL regardless of total bilirubin",
+      "Direct bilirubin >30% of total when total bilirubin is >10 mg/dL"
+    ],
+    "correct": "Direct bilirubin >20% of total bilirubin regardless of total level",
+    "explanation": "Direct (conjugated) hyperbilirubinemia in neonates is defined as a direct bilirubin fraction greater than 20% of the total bilirubin, regardless of the total bilirubin level. Some definitions also use an absolute direct bilirubin value >1-2 mg/dL. This finding is always pathological and warrants prompt evaluation for biliary atresia, neonatal hepatitis, metabolic disorders, TORCH infections, and other causes of neonatal cholestasis.",
+    "reference": "Fawaz R, Baumann U, Ekong U, et al. Guideline for the Evaluation of Cholestatic Jaundice in Infants: Joint Recommendations of the North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition and the European Society for Pediatric Gastroenterology, Hepatology, and Nutrition. Journal of Pediatric Gastroenterology and Nutrition. 2017;64(1):154-168."
   }
+
 ]
