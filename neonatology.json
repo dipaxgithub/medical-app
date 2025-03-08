@@ -259,6 +259,136 @@
     "correct": "Direct bilirubin >20% of total bilirubin regardless of total level",
     "explanation": "Direct (conjugated) hyperbilirubinemia in neonates is defined as a direct bilirubin fraction greater than 20% of the total bilirubin, regardless of the total bilirubin level. Some definitions also use an absolute direct bilirubin value >1-2 mg/dL. This finding is always pathological and warrants prompt evaluation for biliary atresia, neonatal hepatitis, metabolic disorders, TORCH infections, and other causes of neonatal cholestasis.",
     "reference": "Fawaz R, Baumann U, Ekong U, et al. Guideline for the Evaluation of Cholestatic Jaundice in Infants: Joint Recommendations of the North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition and the European Society for Pediatric Gastroenterology, Hepatology, and Nutrition. Journal of Pediatric Gastroenterology and Nutrition. 2017;64(1):154-168."
+  },
+  
+  {
+    "question": "What is the most common etiology of neonatal seizures?",
+    "options": [
+      "Intraventricular hemorrhage",
+      "Hypoxic-ischemic encephalopathy",
+      "Inborn errors of metabolism",
+      "Cerebral malformations",
+      "Meningitis"
+    ],
+    "correct": "Hypoxic-ischemic encephalopathy",
+    "explanation": "Hypoxic-ischemic encephalopathy (HIE) is the most common cause of neonatal seizures, accounting for approximately 50-60% of cases. HIE typically results from perinatal asphyxia and manifests with seizures within the first 24-48 hours of life. Other causes include intracranial hemorrhage, metabolic disturbances (hypoglycemia, hypocalcemia), infections, cerebral malformations, and genetic disorders, but these occur less frequently than HIE.",
+    "reference": "Glass HC, Shellhaas RA, Wusthoff CJ, et al. Contemporary Profile of Seizures in Neonates: A Prospective Cohort Study. Journal of Pediatrics. 2016;174:98-103."
+  },
+  {
+    "question": "Which clinical seizure type is most common in neonates?",
+    "options": [
+      "Generalized tonic-clonic seizures",
+      "Absence seizures",
+      "Subtle seizures",
+      "Myoclonic seizures",
+      "Complex partial seizures"
+    ],
+    "correct": "Subtle seizures",
+    "explanation": "Subtle seizures are the most common clinical seizure type in neonates, accounting for approximately 50-70% of all neonatal seizures. These may present as oral-buccal-lingual movements, ocular signs (sustained eye opening with ocular fixation or deviation), limb movements (pedaling, swimming), or autonomic phenomena. Generalized tonic-clonic seizures are rare in neonates due to incomplete myelination and synaptogenesis. The immature brain is unable to sustain the organized, synchronous electrical discharges necessary for generalized seizures.",
+    "reference": "Volpe JJ. Neonatal seizures. In: Volpe JJ, ed. Neurology of the Newborn. 6th ed. Philadelphia, PA: Elsevier; 2018:275-321."
+  },
+  {
+    "question": "A term neonate develops seizures at 8 hours of life. Initial serum glucose is 38 mg/dL (2.1 mmol/L). After glucose administration, seizures continue. Which electrolyte abnormality should be evaluated next?",
+    "options": [
+      "Hypernatremia",
+      "Hypocalcemia",
+      "Hyperkalemia",
+      "Hypomagnesemia",
+      "Hyperphosphatemia"
+    ],
+    "correct": "Hypocalcemia",
+    "explanation": "Early-onset neonatal seizures (within the first 24-48 hours of life) that persist after correcting hypoglycemia should prompt evaluation for hypocalcemia, which is a common treatable cause of neonatal seizures. Early-onset hypocalcemia is often associated with prematurity, maternal diabetes, perinatal asphyxia, and maternal hyperparathyroidism. Hypomagnesemia often coexists with hypocalcemia and may need to be corrected for calcium levels to normalize. The other electrolyte disturbances listed (hypernatremia, hyperkalemia, hyperphosphatemia) are less commonly associated with neonatal seizures.",
+    "reference": "Scher MS. Neonatal seizures and brain damage. Pediatric Neurology. 2003;29(5):381-390."
+  },
+  {
+    "question": "Which EEG finding is most characteristic of neonatal seizures?",
+    "options": [
+      "3 Hz spike-and-wave discharges",
+      "Hypsarrhythmia",
+      "Rhythmic delta activity",
+      "Focal rhythmic discharges with evolution in frequency and morphology",
+      "Periodic lateralized epileptiform discharges"
+    ],
+    "correct": "Focal rhythmic discharges with evolution in frequency and morphology",
+    "explanation": "Neonatal seizures typically appear on EEG as focal rhythmic discharges that evolve in frequency, amplitude, and morphology, usually lasting at least 10 seconds. The other patterns are characteristic of different conditions: 3 Hz spike-and-wave discharges are seen in childhood absence epilepsy, hypsarrhythmia in infantile spasms, rhythmic delta activity may be seen in encephalopathies but is not specific for seizures, and periodic lateralized epileptiform discharges are seen in acute destructive cerebral lesions, primarily in adults.",
+    "reference": "Shellhaas RA, Chang T, Tsuchida T, et al. The American Clinical Neurophysiology Society's Guideline on Continuous Electroencephalography Monitoring in Neonates. Journal of Clinical Neurophysiology. 2011;28(6):611-617."
+  },
+  {
+    "question": "What percentage of clinical events suspected to be neonatal seizures have electrographic correlation on EEG?",
+    "options": [
+      "More than 90%",
+      "70-80%",
+      "50-60%",
+      "20-30%",
+      "Less than 10%"
+    ],
+    "correct": "20-30%",
+    "explanation": "Only about 20-30% of clinical events suspected to be seizures in neonates have electrographic correlation on EEG. The majority of clinically-suspected seizures represent non-epileptic movements or behaviors. This electro-clinical dissociation highlights the importance of EEG monitoring in the accurate diagnosis of neonatal seizures. Misdiagnosis can lead to unnecessary antiseizure medication exposure with potential adverse effects on the developing brain.",
+    "reference": "Murray DM, Boylan GB, Ali I, Ryan CA, Murphy BP, Connolly S. Defining the gap between electrographic seizure burden, clinical expression and staff recognition of neonatal seizures. Archives of Disease in Childhood - Fetal and Neonatal Edition. 2008;93(3):F187-F191."
+  },
+  {
+    "question": "Which of the following is the first-line antiseizure medication recommended for neonatal seizures?",
+    "options": [
+      "Phenytoin",
+      "Lorazepam",
+      "Levetiracetam",
+      "Phenobarbital",
+      "Carbamazepine"
+    ],
+    "correct": "Phenobarbital",
+    "explanation": "Phenobarbital remains the first-line antiseizure medication for neonatal seizures despite its modest efficacy (effective in approximately 50% of cases) and concerns about neurodevelopmental effects. It is preferred because of extensive clinical experience, established safety profile, and ability to load rapidly. Recent evidence suggests levetiracetam may be an effective alternative with potentially fewer adverse neurodevelopmental effects, but phenobarbital remains the most widely used first-line agent according to current guidelines and practice parameters.",
+    "reference": "World Health Organization. Guidelines on Neonatal Seizures. Geneva: WHO Press; 2011."
+  },
+  {
+    "question": "A term neonate presents with seizures on day 2 of life. Laboratory studies show ammonia of 350 μmol/L (normal <100). Which inborn error of metabolism is most likely?",
+    "options": [
+      "Maple syrup urine disease",
+      "Galactosemia",
+      "Urea cycle defect",
+      "Nonketotic hyperglycinemia",
+      "Pyridoxine dependency"
+    ],
+    "correct": "Urea cycle defect",
+    "explanation": "Significantly elevated ammonia levels (>200 μmol/L) in a neonate with seizures strongly suggest a urea cycle defect, most commonly ornithine transcarbamylase deficiency. Urea cycle defects typically present after protein feeding with hyperammonemia, lethargy progressing to coma, and seizures. The other conditions may present with neonatal seizures but have different biochemical profiles: maple syrup urine disease (elevated branched-chain amino acids), galactosemia (elevated galactose metabolites with liver dysfunction), nonketotic hyperglycinemia (elevated glycine in CSF and plasma), and pyridoxine dependency (normal ammonia with response to pyridoxine).",
+    "reference": "Häberle J, Boddaert N, Burlina A, et al. Suggested guidelines for the diagnosis and management of urea cycle disorders. Orphanet Journal of Rare Diseases. 2012;7:32."
+  },
+  {
+    "question": "Which of the following best predicts poor neurodevelopmental outcome in neonates with seizures?",
+    "options": [
+      "Seizure duration >5 minutes",
+      "Seizure onset within 24 hours of birth",
+      "Requirement for two antiseizure medications",
+      "Status epilepticus",
+      "Underlying etiology"
+    ],
+    "correct": "Underlying etiology",
+    "explanation": "The underlying etiology of neonatal seizures is the strongest predictor of long-term neurodevelopmental outcome, much more so than seizure characteristics themselves. Certain etiologies such as severe hypoxic-ischemic encephalopathy, cerebral malformations, and some genetic disorders carry a particularly poor prognosis. While seizure characteristics like duration, timing of onset, treatment response, and status epilepticus may influence outcomes, they are less powerful predictors than the underlying cause. This underscores the importance of thorough diagnostic evaluation to identify the etiology of neonatal seizures.",
+    "reference": "Glass HC, Shellhaas RA, Tsuchida TN, et al. Seizures in Preterm Neonates: A Multicenter Observational Cohort Study. Pediatric Neurology. 2017;72:19-24."
+  },
+  {
+    "question": "Which neonatal seizure type has the strongest association with pyridoxine dependency?",
+    "options": [
+      "Focal clonic seizures",
+      "Tonic seizures",
+      "Myoclonic seizures",
+      "Subtle seizures",
+      "Infantile spasms"
+    ],
+    "correct": "Myoclonic seizures",
+    "explanation": "Myoclonic seizures in neonates are strongly associated with pyridoxine dependency, though other seizure types can also occur. Pyridoxine-dependent epilepsy classically presents with refractory myoclonic or mixed seizures in the neonatal period that are resistant to conventional antiseizure medications but respond dramatically to pyridoxine administration. The condition is caused by mutations in the ALDH7A1 gene encoding antiquitin, resulting in accumulation of α-aminoadipic semialdehyde and inactivation of pyridoxal 5'-phosphate, the active form of vitamin B6.",
+    "reference": "Stockler S, Plecko B, Gospe SM Jr, et al. Pyridoxine dependent epilepsy and antiquitin deficiency: clinical and molecular characteristics and recommendations for diagnosis, treatment and follow-up. Molecular Genetics and Metabolism. 2011;104(1-2):48-60."
+  },
+  {
+    "question": "A neonate born at 40 weeks gestation has persistent seizures despite treatment with phenobarbital and levetiracetam. MRI brain is normal. Which of the following diagnostic tests should be performed next?",
+    "options": [
+      "Lumbar puncture for CSF glucose",
+      "Trial of pyridoxine",
+      "Whole exome sequencing",
+      "TORCH serology",
+      "Electroencephalogram"
+    ],
+    "correct": "Trial of pyridoxine",
+    "explanation": "In a term neonate with drug-resistant seizures and normal neuroimaging, a therapeutic trial of pyridoxine should be performed to evaluate for pyridoxine-dependent epilepsy. This rare but treatable metabolic cause of neonatal seizures can be diagnosed by observing clinical and EEG response to intravenous pyridoxine administration. Untreated pyridoxine-dependent epilepsy leads to severe developmental consequences, making early diagnosis critical. The diagnostic evaluation should also include other vitamin-responsive epilepsies (e.g., pyridoxal 5'-phosphate, folinic acid, biotin), but pyridoxine trial is often the first step due to its safety, availability, and the devastating consequences of missed diagnosis.",
+    "reference": "Gospe SM Jr. Pyridoxine-dependent epilepsy and pyridoxine phosphate oxidase deficiency: unique clinical symptoms and non-specific EEG characteristics. Developmental Medicine and Child Neurology. 2010;52(7):602-603."
   }
-
 ]
