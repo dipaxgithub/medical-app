@@ -259,6 +259,128 @@
     "correct": "Infections",
     "explanation": "Infections are the most common complication in children with minimal change disease, occurring due to the loss of immunoglobulins (especially IgG) in the urine, combined with immunosuppressive effects of treatment. Common infections include peritonitis, pneumonia, and cellulitis, often caused by encapsulated organisms.",
     "reference": "Pediatric Nephrology, 2021; 36(5): 1187-1196"
+  },
+  
+  {
+    "question": "Which type of renal tubular acidosis (RTA) is characterized by impaired H+ secretion in the distal tubule?",
+    "options": [
+      "Type 1 RTA",
+      "Type 2 RTA",
+      "Type 3 RTA",
+      "Type 4 RTA",
+      "Hyperkalemic RTA"
+    ],
+    "correct": "Type 1 RTA",
+    "explanation": "Type 1 RTA (distal RTA) is characterized by impaired hydrogen ion secretion in the distal tubule, resulting in inability to acidify urine below pH 5.5 despite systemic acidosis. This leads to metabolic acidosis with hypokalemia and is often associated with nephrocalcinosis in children."
+  },
+  {
+    "question": "What is the most common clinical presentation of Type 2 (proximal) RTA in children?",
+    "options": [
+      "Nephrocalcinosis",
+      "Failure to thrive",
+      "Hypertension",
+      "Polyuria",
+      "Renal insufficiency"
+    ],
+    "correct": "Failure to thrive",
+    "explanation": "The most common presentation of Type 2 (proximal) RTA in children is failure to thrive due to chronic metabolic acidosis. Other features include rickets, osteomalacia, and growth retardation. Unlike Type 1 RTA, nephrocalcinosis is uncommon in Type 2 RTA."
+  },
+  {
+    "question": "Which electrolyte abnormality is most characteristic of Type 4 RTA in pediatric patients?",
+    "options": [
+      "Hypokalemia",
+      "Hypocalcemia",
+      "Hyperkalemia",
+      "Hyponatremia",
+      "Hypernatremia"
+    ],
+    "correct": "Hyperkalemia",
+    "explanation": "Type 4 RTA is characterized by hyperkalemia and mild metabolic acidosis due to aldosterone deficiency or resistance. This contrasts with Types 1 and 2 RTA, which typically present with hypokalemia. In children, Type 4 RTA may be associated with obstructive uropathy or congenital adrenal hyperplasia."
+  },
+  {
+    "question": "Which medication is most appropriate for the long-term management of Type 1 (distal) RTA in children?",
+    "options": [
+      "Furosemide",
+      "Hydrochlorothiazide",
+      "Potassium citrate",
+      "Sodium bicarbonate",
+      "Potassium-sparing diuretics"
+    ],
+    "correct": "Potassium citrate",
+    "explanation": "Potassium citrate is the preferred alkali therapy for Type 1 (distal) RTA in children as it provides both alkali supplementation to correct acidosis and potassium to address hypokalemia. Additionally, citrate inhibits calcium crystal formation, helping prevent nephrocalcinosis and nephrolithiasis, which are common complications in Type 1 RTA."
+  },
+  {
+    "question": "Which of the following conditions can be associated with Type 1 (distal) RTA in the pediatric population?",
+    "options": [
+      "Williams syndrome",
+      "Prader-Willi syndrome",
+      "Angelman syndrome",
+      "Autoimmune disorders",
+      "Down syndrome"
+    ],
+    "correct": "Autoimmune disorders",
+    "explanation": "Autoimmune disorders can be associated with Type 1 (distal) RTA in children. The autoimmune process can affect H+-ATPase function in the distal tubule. Other causes of Type 1 RTA include genetic mutations in the ATP6V1B1, ATP6V0A4, and SLC4A1 genes."
+  },
+  {
+    "question": "What diagnostic finding is characteristic of Type 1 (distal) RTA?",
+    "options": [
+      "Ability to acidify urine to pH <5.5 during acidosis",
+      "Inability to acidify urine to pH <5.5 despite systemic acidosis",
+      "Fractional excretion of bicarbonate >15%",
+      "Negative urine anion gap",
+      "Hyperkalemia with normal anion gap acidosis"
+    ],
+    "correct": "Inability to acidify urine to pH <5.5 despite systemic acidosis",
+    "explanation": "The hallmark of Type 1 (distal) RTA is the inability to acidify urine below pH 5.5 despite the presence of systemic acidosis. This occurs due to impaired H+ secretion in the distal tubule, leading to an inappropriately alkaline urine in the face of metabolic acidosis."
+  },
+  {
+    "question": "Which of the following is a common feature of Fanconi syndrome associated with Type 2 (proximal) RTA in children?",
+    "options": [
+      "Isolated bicarbonate wasting",
+      "Hyperkalemia",
+      "Multiple proximal tubular defects including glucosuria and phosphaturia",
+      "Medullary nephrocalcinosis",
+      "Urinary pH consistently <5.5"
+    ],
+    "correct": "Multiple proximal tubular defects including glucosuria and phosphaturia",
+    "explanation": "Fanconi syndrome is characterized by generalized proximal tubular dysfunction leading to multiple defects including bicarbonate wasting (Type 2 RTA), phosphaturia, glucosuria, aminoaciduria, and uricosuria. This syndrome can be caused by genetic disorders (cystinosis, Wilson's disease), medications, and heavy metal poisoning in children."
+  },
+  {
+    "question": "What radiological finding is most commonly associated with untreated Type 1 RTA in children?",
+    "options": [
+      "Renal cysts",
+      "Medullary sponge kidney",
+      "Nephrocalcinosis",
+      "Renal hypoplasia",
+      "Horseshoe kidney"
+    ],
+    "correct": "Nephrocalcinosis",
+    "explanation": "Nephrocalcinosis (calcium deposition in the renal parenchyma) is a common radiological finding in untreated Type 1 (distal) RTA in children. It results from chronic hypercalciuria, hypocitraturia, and alkaline urine, which promote calcium phosphate precipitation in the kidneys. Early treatment with alkali therapy can prevent or stabilize nephrocalcinosis."
+  },
+  {
+    "question": "Which laboratory finding best distinguishes Type 4 RTA from other forms of RTA in pediatric patients?",
+    "options": [
+      "Low urine pH",
+      "Elevated urine calcium/creatinine ratio",
+      "Hyperkalemia with normal anion gap acidosis",
+      "Positive urine anion gap",
+      "Elevated serum bicarbonate"
+    ],
+    "correct": "Hyperkalemia with normal anion gap acidosis",
+    "explanation": "The combination of hyperkalemia with normal anion gap metabolic acidosis is the hallmark laboratory finding that distinguishes Type 4 RTA from other forms of RTA. Types 1 and 2 RTA typically present with hypokalemia, while Type 4 RTA presents with hyperkalemia due to aldosterone deficiency or resistance, which impairs both H+ secretion and K+ excretion."
+  },
+  {
+    "question": "Which metabolic complication is most commonly seen in children with untreated Type 1 (distal) RTA?",
+    "options": [
+      "Hypophosphatemia",
+      "Hyperphosphatemia",
+      "Hypokalemia",
+      "Hyperkalemia",
+      "Hypercalcemia"
+    ],
+    "correct": "Hypokalemia",
+    "explanation": "Hypokalemia is a common metabolic complication in children with untreated Type 1 (distal) RTA. It occurs due to increased urinary potassium losses that accompany the enhanced sodium reabsorption in the distal tubule (secondary to impaired H+ secretion). Chronic hypokalemia can lead to muscle weakness, cardiac arrhythmias, and growth impairment."
   }
+
 
 ]
