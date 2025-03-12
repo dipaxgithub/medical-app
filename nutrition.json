@@ -259,6 +259,139 @@
     "correct": "Autism spectrum disorder",
     "explanation": "In developed countries, scurvy in children is most commonly associated with autism spectrum disorder (ASD). Children with ASD frequently exhibit food selectivity or severely restricted eating patterns, often limiting their diets to foods lacking vitamin C. Multiple case series have documented this association, highlighting the importance of nutritional monitoring in children with ASD.",
     "reference": "Kitcharoensakkul M, Schulz CG, Kassel R, et al. Scurvy revealed by difficulty walking: three cases in young children. Journal of Clinical Rheumatology. 2014;20(4):224-228."
+  },
+
+  
+  {
+    "question": "Which of the following is the primary biochemical abnormality in nutritional rickets?",
+    "options": [
+      "Elevated serum calcium",
+      "Decreased serum phosphorus",
+      "Decreased alkaline phosphatase",
+      "Elevated 25-hydroxyvitamin D",
+      "Decreased parathyroid hormone"
+    ],
+    "correct": "Decreased serum phosphorus",
+    "explanation": "The primary biochemical abnormality in nutritional rickets is hypophosphatemia (decreased serum phosphorus). This occurs because vitamin D deficiency leads to decreased intestinal absorption of calcium, triggering secondary hyperparathyroidism. The increased parathyroid hormone promotes phosphaturia, resulting in low serum phosphorus levels. Additionally, there is typically low or low-normal calcium, elevated alkaline phosphatase, and low 25-hydroxyvitamin D levels.",
+    "reference": "Global Consensus Recommendations on Prevention and Management of Nutritional Rickets. Journal of Clinical Endocrinology & Metabolism. 2016;101(2):394-415."
+  },
+  {
+    "question": "What is the most common radiographic finding in active rickets?",
+    "options": [
+      "Decreased bone density",
+      "Cortical thinning",
+      "Cupping and fraying of metaphyses",
+      "Compression fractures",
+      "Periosteal reaction"
+    ],
+    "correct": "Cupping and fraying of metaphyses",
+    "explanation": "The most characteristic radiographic finding in active rickets is cupping and fraying of the metaphyses, particularly evident at the wrists, knees, and ankles. This occurs due to the disorganized and inadequate mineralization of the growth plate cartilage. Other radiographic findings include widening of the growth plates, delayed appearance of ossification centers, and generalized osteopenia.",
+    "reference": "Shore RM, Chesney RW. Rickets: Part II. Pediatric Radiology. 2013;43(2):152-172."
+  },
+  {
+    "question": "Which of the following clinical features is LEAST likely to be seen in a 2-year-old child with vitamin D deficiency rickets?",
+    "options": [
+      "Bowlegs (genu varum)",
+      "Rachitic rosary",
+      "Craniotabes",
+      "Frontal bossing",
+      "Knock-knees (genu valgum)"
+    ],
+    "correct": "Knock-knees (genu valgum)",
+    "explanation": "Knock-knees (genu valgum) is the least likely finding in a 2-year-old with rickets. Young children with rickets typically present with bowlegs (genu varum) rather than knock-knees. Knock-knees may develop in older children with rickets. Other common findings include rachitic rosary (enlargement of the costochondral junctions), craniotabes (softening of the skull), frontal bossing, delayed fontanelle closure, and Harrison's groove (horizontal depression along the lower chest).",
+    "reference": "Munns CF, Shaw N, Kiely M, et al. Global Consensus Recommendations on Prevention and Management of Nutritional Rickets. Journal of Clinical Endocrinology & Metabolism. 2016;101(2):394-415."
+  },
+  {
+    "question": "What is the recommended daily vitamin D intake for infants from birth to 12 months according to the American Academy of Pediatrics?",
+    "options": [
+      "200 IU",
+      "400 IU",
+      "600 IU",
+      "800 IU",
+      "1000 IU"
+    ],
+    "correct": "400 IU",
+    "explanation": "The American Academy of Pediatrics recommends a daily intake of 400 IU of vitamin D for all infants beginning in the first few days of life until 12 months of age. This recommendation applies to both exclusively and partially breastfed infants, as well as formula-fed infants who do not consume at least 1 liter of vitamin D-fortified formula daily.",
+    "reference": "Wagner CL, Greer FR; American Academy of Pediatrics Section on Breastfeeding; American Academy of Pediatrics Committee on Nutrition. Prevention of rickets and vitamin D deficiency in infants, children, and adolescents. Pediatrics. 2008;122(5):1142-1152. Updated and reaffirmed in 2022."
+  },
+  {
+    "question": "Which population group has the highest risk of developing vitamin D deficiency rickets in the United States?",
+    "options": [
+      "White infants living in northern states",
+      "Hispanic children in southern states",
+      "Exclusively breastfed infants with dark skin pigmentation",
+      "Formula-fed infants with limited sun exposure",
+      "Children with cystic fibrosis"
+    ],
+    "correct": "Exclusively breastfed infants with dark skin pigmentation",
+    "explanation": "Exclusively breastfed infants with dark skin pigmentation are at highest risk for developing vitamin D deficiency rickets. Human breast milk contains insufficient amounts of vitamin D to prevent rickets (approximately 25 IU/L), and darker skin pigmentation reduces vitamin D synthesis in the skin upon sun exposure. Other risk factors include maternal vitamin D deficiency, limited sunlight exposure, cultural practices involving body covering, and certain medical conditions that affect vitamin D metabolism.",
+    "reference": "Weisberg P, Scanlon KS, Li R, Cogswell ME. Nutritional rickets among children in the United States: review of cases reported between 1986 and 2003. American Journal of Clinical Nutrition. 2004;80(6):1697S-1705S."
+  },
+  {
+    "question": "A 9-month-old exclusively breastfed infant presents with irritability, poor feeding, and a seizure. Laboratory studies reveal hypocalcemia, elevated alkaline phosphatase, and low 25-hydroxyvitamin D levels. What is the most appropriate initial management?",
+    "options": [
+      "Oral vitamin D 400 IU daily",
+      "Oral vitamin D 2000 IU daily for 3 months",
+      "Intravenous calcium gluconate followed by oral calcium and vitamin D supplementation",
+      "Intramuscular vitamin D 600,000 IU single dose",
+      "Oral calcium only"
+    ],
+    "correct": "Intravenous calcium gluconate followed by oral calcium and vitamin D supplementation",
+    "explanation": "For an infant with vitamin D deficiency presenting with hypocalcemic seizures, the most appropriate initial management is intravenous calcium gluconate (to rapidly correct severe hypocalcemia and control seizures), followed by oral calcium and vitamin D supplementation. After stabilization, treatment of nutritional rickets requires both vitamin D (typically 2000-4000 IU daily for at least 3 months) and adequate calcium intake to achieve normal serum calcium levels, normalize PTH, and heal the rachitic skeletal abnormalities.",
+    "reference": "Munns CF, Shaw N, Kiely M, et al. Global Consensus Recommendations on Prevention and Management of Nutritional Rickets. Journal of Clinical Endocrinology & Metabolism. 2016;101(2):394-415."
+  },
+  {
+    "question": "Which of the following conditions can cause vitamin D-resistant rickets?",
+    "options": [
+      "Celiac disease",
+      "Biliary atresia",
+      "X-linked hypophosphatemic rickets",
+      "Malnutrition",
+      "Prematurity"
+    ],
+    "correct": "X-linked hypophosphatemic rickets",
+    "explanation": "X-linked hypophosphatemic rickets is a form of vitamin D-resistant rickets caused by mutations in the PHEX gene, resulting in increased levels of fibroblast growth factor 23 (FGF23). This leads to decreased renal phosphate reabsorption and impaired activation of vitamin D, resulting in hypophosphatemia and rickets that doesn't respond to standard vitamin D supplementation. Treatment typically requires phosphate supplements and calcitriol. Celiac disease, biliary atresia, malnutrition, and prematurity can all cause vitamin D deficiency but would typically respond to vitamin D supplementation.",
+    "reference": "Carpenter TO, Imel EA, Holm IA, Jan de Beur SM, Insogna KL. A clinician's guide to X-linked hypophosphatemia. Journal of Bone and Mineral Research. 2011;26(7):1381-1388."
+  },
+  {
+    "question": "What is the gold standard laboratory test for assessing vitamin D status?",
+    "options": [
+      "Serum 1,25-dihydroxyvitamin D",
+      "Serum 25-hydroxyvitamin D",
+      "Serum parathyroid hormone",
+      "Serum alkaline phosphatase",
+      "Urinary calcium/creatinine ratio"
+    ],
+    "correct": "Serum 25-hydroxyvitamin D",
+    "explanation": "Serum 25-hydroxyvitamin D is considered the gold standard laboratory test for assessing vitamin D status as it reflects both dietary intake and cutaneous production of vitamin D. It has a relatively long half-life (2-3 weeks) and is the major circulating form of vitamin D. In contrast, 1,25-dihydroxyvitamin D (the active metabolite) has a short half-life (4-6 hours), is tightly regulated, and may be normal or even elevated in vitamin D deficiency due to secondary hyperparathyroidism.",
+    "reference": "Holick MF, Binkley NC, Bischoff-Ferrari HA, et al. Evaluation, treatment, and prevention of vitamin D deficiency: an Endocrine Society clinical practice guideline. Journal of Clinical Endocrinology & Metabolism. 2011;96(7):1911-1930."
+  },
+  {
+    "question": "Which of the following is the most common cause of rickets worldwide?",
+    "options": [
+      "Calcium deficiency",
+      "Vitamin D deficiency",
+      "Combined calcium and vitamin D deficiency",
+      "Phosphorus deficiency",
+      "Genetic disorders of vitamin D metabolism"
+    ],
+    "correct": "Combined calcium and vitamin D deficiency",
+    "explanation": "The most common cause of rickets worldwide is combined calcium and vitamin D deficiency. In many developing countries, especially in Africa and parts of Asia, dietary calcium deficiency often coexists with vitamin D deficiency. Inadequate calcium intake, even with adequate vitamin D levels, can lead to nutritional rickets. Studies have shown that in such populations, treatment outcomes are best when both calcium and vitamin D are supplemented.",
+    "reference": "Pettifor JM. Nutritional rickets: deficiency of vitamin D, calcium, or both? American Journal of Clinical Nutrition. 2004;80(6):1725S-1729S."
+  },
+  {
+    "question": "A 2-year-old child presents with bowed legs, widened wrists, and delayed walking. Laboratory results show normal calcium, low phosphorus, elevated alkaline phosphatase, and normal 25-hydroxyvitamin D levels. What is the most likely diagnosis?",
+    "options": [
+      "Nutritional rickets",
+      "Hypophosphatemic rickets",
+      "Renal osteodystrophy",
+      "Vitamin D-dependent rickets type 1",
+      "Metaphyseal chondrodysplasia"
+    ],
+    "correct": "Hypophosphatemic rickets",
+    "explanation": "The clinical presentation with bowed legs, widened wrists, and delayed walking suggests rickets. The laboratory findings of normal calcium, low phosphorus, elevated alkaline phosphatase, but normal 25-hydroxyvitamin D levels are characteristic of hypophosphatemic rickets, commonly due to X-linked hypophosphatemic rickets (XLH). In nutritional rickets, 25-hydroxyvitamin D levels would be low. Vitamin D-dependent rickets type 1 would show low or normal phosphorus but with hypocalcemia. Renal osteodystrophy typically shows more complex electrolyte abnormalities including hyperphosphatemia. Metaphyseal chondrodysplasia is a skeletal dysplasia without the characteristic biochemical abnormalities.",
+    "reference": "Carpenter TO, Imel EA, Holm IA, Jan de Beur SM, Insogna KL. A clinician's guide to X-linked hypophosphatemia. Journal of Bone and Mineral Research. 2011;26(7):1381-1388."
   }
+
 
 ]
