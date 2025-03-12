@@ -1,528 +1,264 @@
 [
-{
-"question": "What is the most common ocular manifestation of vitamin A deficiency in children?",
-"options": [
-"Corneal scarring",
-"Conjunctival xerosis",
-"Night blindness (nyctalopia)",
-"Bitot's spots",
-"Keratomalacia"
-],
-"correct": "Night blindness (nyctalopia)",
-"explanation": "Night blindness (nyctalopia) is typically the earliest and most common ocular manifestation of vitamin A
-deficiency. It occurs due to impaired rhodopsin synthesis in the retina, affecting the rod photoreceptors responsible
-for vision in low light conditions. This symptom often precedes other ocular manifestations and can be reversed with
-vitamin A supplementation.",
-"reference": "World Health Organization. Global prevalence of vitamin A deficiency in populations at risk 1995-2005. WHO
-Global Database on Vitamin A Deficiency."
-},
-{
-"question": "Which of the following is the WHO-recommended dose of vitamin A for treatment of severe vitamin A
-deficiency in children 6-11 months of age?",
-"options": [
-"50,000 IU",
-"100,000 IU",
-"200,000 IU",
-"400,000 IU",
-"600,000 IU"
-],
-"correct": "100,000 IU",
-"explanation": "The WHO recommends 100,000 IU of vitamin A for treatment of severe vitamin A deficiency in children 6-11
-months of age. This is administered as a single oral dose on day 1, followed by a second dose on day 2, and a third dose
-at least 2 weeks later. Children under 6 months receive 50,000 IU, while children 12 months and older receive 200,000 IU
-following the same schedule.",
-"reference": "WHO. Guideline: Vitamin A supplementation in infants and children 6–59 months of age. Geneva, World Health
-Organization, 2011."
-},
-{
-"question": "Which of the following is NOT a risk factor for vitamin A deficiency in children?",
-"options": [
-"Measles infection",
-"Exclusive breastfeeding for 6 months",
-"Severe protein-energy malnutrition",
-"Persistent diarrhea",
-"Maternal vitamin A deficiency"
-],
-"correct": "Exclusive breastfeeding for 6 months",
-"explanation": "Exclusive breastfeeding for 6 months is protective against vitamin A deficiency, not a risk factor.
-Human milk contains adequate vitamin A for infants up to 6 months of age when the mother is well-nourished. Other listed
-options are established risk factors: measles depletes vitamin A stores, malnutrition impairs absorption and storage,
-persistent diarrhea increases loss, and maternal deficiency leads to low vitamin A content in breast milk.",
-"reference": "Bailey RL, West KP Jr, Black RE. The epidemiology of global micronutrient deficiencies. Ann Nutr Metab.
-2015;66(suppl 2):22-33."
-},
-{
-"question": "Which pathological finding is characteristic of keratomalacia in severe vitamin A deficiency?",
-"options": [
-"Hyperkeratinization of conjunctival epithelium",
-"Corneal stromal infiltrates",
-"Corneal ulceration and colliquative necrosis",
-"Corneal edema with stromal thickening",
-"Increased goblet cell density"
-],
-"correct": "Corneal ulceration and colliquative necrosis",
-"explanation": "Keratomalacia, the most severe ocular manifestation of vitamin A deficiency, is characterized by corneal
-ulceration and colliquative necrosis (liquefactive necrosis) of the cornea. This occurs due to severe keratinization of
-the corneal epithelium, loss of corneal structural integrity, and subsequent bacterial invasion. Without urgent
-treatment, this condition can rapidly progress to corneal perforation, anterior staphyloma, and permanent blindness.",
-"reference": "Sommer A. Vitamin A deficiency and clinical disease: An historical overview. J Nutr.
-2008;138(10):1835-1839."
-},
-{
-"question": "What is the mechanism by which vitamin A deficiency increases susceptibility to infections in children?",
-"options": [
-"Reduced neutrophil production",
-"Impaired antibody response",
-"Compromised epithelial barriers and decreased immune function",
-"Diminished complement activation",
-"Decreased macrophage phagocytosis only"
-],
-"correct": "Compromised epithelial barriers and decreased immune function",
-"explanation": "Vitamin A deficiency compromises the integrity of epithelial barriers throughout the body (respiratory,
-gastrointestinal, urinary tract) and impairs immune function through multiple mechanisms. It reduces the production of
-secretory IgA, impairs T-cell mediated immunity, decreases natural killer cell activity, and affects cytokine
-production. The loss of epithelial barrier function combined with impaired immune response significantly increases
-susceptibility to infections, particularly respiratory and diarrheal diseases.",
-"reference": "Stephensen CB. Vitamin A, infection, and immune function. Annu Rev Nutr. 2001;21:167-192."
-},
-{
-"question": "Which of the following is a classic sign of vitamin A deficiency affecting the conjunctiva?",
-"options": [
-"Follicular hypertrophy",
-"Bitot's spots",
-"Subconjunctival hemorrhage",
-"Chemosis",
-"Papillary reaction"
-],
-"correct": "Bitot's spots",
-"explanation": "Bitot's spots are classic signs of vitamin A deficiency affecting the conjunctiva. They appear as foamy,
-triangular, grayish-white, slightly elevated lesions on the temporal conjunctiva, typically bilateral. These spots
-consist of keratinized epithelial debris and saprophytic bacteria (particularly Corynebacterium xerosis). Bitot's spots
-are pathognomonic for vitamin A deficiency when accompanied by conjunctival xerosis, though in severe chronic
-deficiency, they may persist even after vitamin A supplementation.",
-"reference": "Sommer A. Vitamin A deficiency and its consequences: a field guide to detection and control. World Health
-Organization, 1995."
-},
-{
-"question": "In which age group is vitamin A deficiency most prevalent globally?",
-"options": [
-"Neonates (0-28 days)",
-"Young infants (1-5 months)",
-"Preschool children (6-59 months)",
-"School-age children (6-12 years)",
-"Adolescents (13-19 years)"
-],
-"correct": "Preschool children (6-59 months)",
-"explanation": "Vitamin A deficiency is most prevalent in preschool children aged 6-59 months globally. This age group
-is particularly vulnerable due to increased physiological requirements during rapid growth, potentially inadequate
-complementary feeding practices after exclusive breastfeeding ends, higher exposure to infections that deplete vitamin A
-stores, and limited dietary diversity in many resource-limited settings. WHO estimates that approximately 190 million
-preschool children worldwide are affected by vitamin A deficiency.",
-"reference": "Stevens GA, Bennett JE, Hennocq Q, et al. Trends and mortality effects of vitamin A deficiency in children
-in 138 low-income and middle-income countries between 1991 and 2013: a pooled analysis of population-based surveys.
-Lancet Glob Health. 2015;3(9):e528-e536."
-},
-{
-"question": "Which histological change is characteristic of vitamin A deficiency in the respiratory epithelium?",
-"options": [
-"Increased mucus production",
-"Squamous metaplasia replacing ciliated epithelium",
-"Hyperplasia of goblet cells",
-"Infiltration of eosinophils",
-"Basement membrane thickening"
-],
-"correct": "Squamous metaplasia replacing ciliated epithelium",
-"explanation": "Vitamin A deficiency causes squamous metaplasia of the respiratory epithelium, where normal ciliated
-columnar epithelium is replaced by stratified squamous epithelium. This metaplastic change impairs mucociliary
-clearance, reducing the respiratory tract's ability to remove pathogens and particulates. The loss of ciliated cells and
-goblet cells (which produce protective mucus) compromises the mechanical barrier function of the respiratory tract,
-contributing to increased susceptibility to respiratory infections in vitamin A deficient children.",
-"reference": "Wolbach SB, Howe PR. Tissue changes following deprivation of fat-soluble A vitamin. J Exp Med.
-1925;42(6):753-777."
-},
-{
-"question": "Which intervention has been shown to reduce all-cause mortality in children aged 6-59 months by
-approximately 24% in vitamin A deficient populations?",
-"options": [
-"Weekly low-dose vitamin A supplementation",
-"Biannual high-dose vitamin A supplementation",
-"Daily multivitamin supplementation",
-"Monthly moderate-dose vitamin A supplementation",
-"Fortification of staple foods with vitamin A"
-],
-"correct": "Biannual high-dose vitamin A supplementation",
-"explanation": "Biannual high-dose vitamin A supplementation (200,000 IU for children 12-59 months, 100,000 IU for
-infants 6-11 months) has been shown to reduce all-cause mortality in children aged 6-59 months by approximately 24% in
-vitamin A deficient populations. This evidence from multiple randomized controlled trials and meta-analyses led to the
-WHO recommendation for universal vitamin A supplementation in this age group in settings where vitamin A deficiency is a
-public health problem. The intervention is considered one of the most cost-effective child survival strategies.",
-"reference": "Imdad A, Mayo-Wilson E, Herzer K, Bhutta ZA. Vitamin A supplementation for preventing morbidity and
-mortality in children from six months to five years of age. Cochrane Database Syst Rev. 2017;3:CD008524."
-},
-{
-"question": "Which biochemical test is considered the gold standard for assessing vitamin A status in children?",
-"options": [
-"Retinol-binding protein (RBP) levels",
-"Serum retinol concentration",
-"Relative dose response (RDR) test",
-"Modified relative dose response (MRDR) test",
-"Serum retinyl esters measurement"
-],
-"correct": "Relative dose response (RDR) test",
-"explanation": "The relative dose response (RDR) test is considered the gold standard for assessing vitamin A status in
-children. It measures the percentage change in serum retinol concentration before and after administration of a small
-dose of vitamin A. The test reflects liver vitamin A reserves more accurately than static measures like serum retinol.
-An RDR value >20% indicates depleted liver stores. While more precise than serum retinol measurement, the RDR test
-requires two blood samples and is more complex to perform, making it less practical for large-scale assessments.",
-"reference": "Tanumihardjo SA. Vitamin A: biomarkers of nutrition for development. Am J Clin Nutr.
-2011;94(2):658S-665S."
-},
-
-{
-"question": "What is the most common presenting symptom of scurvy in children?",
-"options": [
-"Dental caries",
-"Petechial hemorrhages",
-"Bone pain and refusal to walk",
-"Hyperkeratotic folliculitis",
-"Gingivitis"
-],
-"correct": "Bone pain and refusal to walk",
-"explanation": "Children with scurvy most commonly present with musculoskeletal manifestations including painful
-extremities, particularly bone pain near joints, and pseudoparalysis (refusal to walk or move limbs) due to
-subperiosteal hemorrhages and bone pain. This is often the earliest clinical manifestation in pediatric populations.",
-"reference": "Agarwal A, Shaharyar A, Kumar A, et al. Scurvy in pediatric age group - A disease often forgotten? Journal
-of Clinical Orthopaedics and Trauma. 2015;6(2):101-107."
-},
-{
-"question": "Which radiographic finding is characteristic of scurvy in children?",
-"options": [
-"Osteophyte formation",
-"Pelkan spurs (dense metaphyseal lines)",
-"Osteolytic lesions",
-"Periosteal thickening",
-"Fracture of the femoral neck"
-],
-"correct": "Pelkan spurs (dense metaphyseal lines)",
-"explanation": "Pelkan spurs are characteristic radiographic findings in scurvy, representing thin, dense white lines at
-the metaphyses due to provisional calcification at the growth plate. Other classic radiographic findings include
-Wimberger's sign (metaphyseal white line), the scurvy line (zone of increased density at the metaphysis), and a
-Frankel's line (zone of rarefaction beneath the provisional zone of calcification).",
-"reference": "Gulko E, Collins LK, Murphy RC, et al. MRI findings in pediatric patients with scurvy. Skeletal Radiology.
-2015;44(2):291-297."
-},
-{
-"question": "What is the minimum daily requirement of vitamin C for children aged 1-3 years to prevent scurvy?",
-"options": [
-"5 mg/day",
-"10 mg/day",
-"15 mg/day",
-"30 mg/day",
-"60 mg/day"
-],
-"correct": "15 mg/day",
-"explanation": "According to the recommended dietary allowances (RDAs), children aged 1-3 years require 15 mg/day of
-vitamin C to prevent deficiency states like scurvy. While this amount prevents deficiency, the RDA for optimal health in
-this age group is actually higher at 15-25 mg/day.",
-"reference": "Institute of Medicine. Dietary Reference Intakes for Vitamin C, Vitamin E, Selenium, and Carotenoids. The
-National Academies Press; 2000."
-},
-{
-"question": "Which of the following groups of children is MOST at risk for developing scurvy in modern clinical
-practice?",
-"options": [
-"Children with inflammatory bowel disease",
-"Children with food allergies on restricted diets",
-"Children with autism spectrum disorders and food selectivity",
-"Children with celiac disease",
-"Children with type 1 diabetes mellitus"
-],
-"correct": "Children with autism spectrum disorders and food selectivity",
-"explanation": "In modern clinical practice, scurvy is most commonly seen in children with autism spectrum disorders who
-exhibit extreme food selectivity or aversions. These children often restrict their diets to very few, usually processed
-foods that are deficient in vitamin C. This restricted dietary pattern can persist for years, leading to clinical
-vitamin C deficiency.",
-"reference": "Ma NS, Thompson C, Weston S. Brief Report: Scurvy as a Manifestation of Food Selectivity in Children with
-Autism. Journal of Autism and Developmental Disorders. 2016;46(4):1464-1470."
-},
-{
-"question": "What is the most appropriate initial dose of vitamin C for treating a child with confirmed scurvy?",
-"options": [
-"25 mg/day for 2 weeks",
-"100 mg/day for 1 week then 50 mg/day for 1-2 months",
-"200-300 mg/day for 1 month",
-"500 mg/day for 2 weeks",
-"1000 mg/day for 3 days"
-],
-"correct": "100 mg/day for 1 week then 50 mg/day for 1-2 months",
-"explanation": "The recommended treatment regimen for scurvy in children involves 100 mg/day of vitamin C for 1 week,
-followed by 50 mg/day for 1-2 months to replenish body stores. Clinical improvement can be seen within days of starting
-supplementation, with musculoskeletal symptoms often improving within 48-72 hours.",
-"reference": "Weinstein M, Babyn P, Zlotkin S. An orange a day keeps the doctor away: scurvy in the year 2000.
-Pediatrics. 2001;108(3):E55."
-},
-{
-"question": "Which of the following is NOT a dermatological manifestation of scurvy in children?",
-"options": [
-"Perifollicular hemorrhages",
-"Hyperkeratotic papules",
-"Corkscrew hair",
-"Purpura",
-"Erythema nodosum"
-],
-"correct": "Erythema nodosum",
-"explanation": "Erythema nodosum is not associated with scurvy. Classic dermatological findings in scurvy include
-perifollicular hemorrhages, hyperkeratotic papules (which may coalesce to form ecchymoses), corkscrew or swan-neck hairs
-due to defective collagen synthesis, and purpura. Scorbutic skin has a classic 'goose-flesh' appearance due to the
-perifollicular hyperkeratotic papules.",
-"reference": "Olmedo JM, Yiannias JA, Windgassen EB, Gornet MK. Scurvy: a disease almost forgotten. International
-Journal of Dermatology. 2006;45(8):909-913."
-},
-{
-"question": "What is the pathophysiologic mechanism responsible for bleeding manifestations in scurvy?",
-"options": [
-"Vitamin K deficiency leading to decreased coagulation factors",
-"Impaired collagen synthesis leading to capillary fragility",
-"Thrombocytopenia due to bone marrow suppression",
-"Defective platelet adhesion",
-"Increased fibrinolysis"
-],
-"correct": "Impaired collagen synthesis leading to capillary fragility",
-"explanation": "Vitamin C is essential for collagen synthesis, serving as a cofactor for prolyl and lysyl hydroxylases
-that stabilize the collagen triple helix. In scurvy, defective collagen synthesis leads to capillary fragility and
-increased vascular permeability, resulting in hemorrhagic manifestations such as petechiae, ecchymoses, subperiosteal
-hemorrhages, and gingival bleeding.",
-"reference": "Léger D. Scurvy: reemergence of nutritional deficiencies. Canadian Family Physician.
-2008;54(10):1403-1406."
-},
-{
-"question": "Which of the following oral manifestations is most characteristic of scurvy in a child?",
-"options": [
-"Dental caries",
-"Enamel hypoplasia",
-"Swollen, spongy gums that bleed easily",
-"Geographic tongue",
-"Leukoplakia"
-],
-"correct": "Swollen, spongy gums that bleed easily",
-"explanation": "Swollen, spongy, friable gums that bleed easily (scorbutic gingivitis) are hallmark features of scurvy.
-Due to collagen defects, the gingival tissue becomes edematous, purplish, and prone to bleeding with minimal trauma.
-This finding is typically seen only in children who have erupted teeth, as the gingival changes occur around the
-dentition.",
-"reference": "Popovich D, McAlhany A, Adewumi AO, Barnes MM. Scurvy: forgotten but definitely not gone. Journal of
-Pediatric Health Care. 2009;23(6):405-415."
-},
-{
-"question": "Which laboratory test is most specific for diagnosing scurvy?",
-"options": [
-"Low serum vitamin C level (&lt;11 μmol/L)",
-"Elevated alkaline phosphatase",
-"Leukopenia",
-"Anemia",
-"Prolonged bleeding time"
-],
-"correct": "Low serum vitamin C level (&lt;11 μmol/L)",
-"explanation": "A serum vitamin C level below 11 μmol/L (0.2 mg/dL) is diagnostic of scurvy. While other laboratory
-findings such as anemia, leukopenia, thrombocytopenia, increased ESR, and elevated alkaline phosphatase may be present,
-they are not specific for scurvy. The diagnosis is confirmed by the combination of clinical features, radiographic
-findings, low serum vitamin C levels, and rapid response to vitamin C supplementation.",
-"reference": "Fain O. Musculoskeletal manifestations of scurvy. Joint Bone Spine. 2005;72(2):124-128."
-},
-{
-"question": "What is the most common psychiatric comorbidity associated with pediatric scurvy in developed countries?",
-"options": [
-"Depression",
-"Generalized anxiety disorder",
-"Autism spectrum disorder",
-"Obsessive-compulsive disorder",
-"Attention deficit hyperactivity disorder"
-],
-"correct": "Autism spectrum disorder",
-"explanation": "In developed countries, scurvy in children is most commonly associated with autism spectrum disorder
-(ASD). Children with ASD frequently exhibit food selectivity or severely restricted eating patterns, often limiting
-their diets to foods lacking vitamin C. Multiple case series have documented this association, highlighting the
-importance of nutritional monitoring in children with ASD.",
-"reference": "Kitcharoensakkul M, Schulz CG, Kassel R, et al. Scurvy revealed by difficulty walking: three cases in
-young children. Journal of Clinical Rheumatology. 2014;20(4):224-228."
-},
-
-{
-"question": "Which radiographic finding is most characteristic of rickets?",
-"options": [
-"Osteosclerosis",
-"Pathological fractures",
-"Cupping and fraying of metaphyses",
-"Periosteal reaction",
-"Bone-within-bone appearance"
-],
-"correct": "Cupping and fraying of metaphyses",
-"explanation": "The classic radiographic finding in rickets is cupping, fraying, and widening of the metaphyses,
-particularly in the distal radius, ulna, and femur. This occurs due to the accumulation of unmineralized osteoid at the
-growth plates. Other findings may include widened epiphyseal plates and delayed appearance of ossification centers.",
-"reference": "Thacher TD, Fischer PR, Pettifor JM. The effect of nutritional rickets on bone mineral density. J Clin
-Endocrinol Metab. 2014;99(12):4174-4180"
-},
-
-{
-"question": "Which biochemical marker is typically elevated in active vitamin D deficiency rickets?",
-"options": [
-"Serum calcium",
-"Serum phosphorus",
-"25-hydroxyvitamin D",
-"Alkaline phosphatase",
-"Parathyroid hormone (suppressed)"
-],
-"correct": "Alkaline phosphatase",
-"explanation": "Alkaline phosphatase (ALP) is markedly elevated in active rickets due to increased osteoblastic activity
-attempting to mineralize the accumulating osteoid. This elevated ALP level is one of the earliest and most sensitive
-biochemical markers of rickets, often preceding radiographic changes.",
-"reference": "Munns CF, Shaw N, Kiely M, et al. Global Consensus Recommendations on Prevention and Management of
-Nutritional Rickets. J Clin Endocrinol Metab. 2016;101(2):394-415"
-},
-
-{
-"question": "What is the most common clinical manifestation of rickets in infants under 1 year of age?",
-"options": [
-"Bowed legs (genu varum)",
-"Knock knees (genu valgum)",
-"Craniotabes",
-"Rachitic rosary",
-"Wrist widening"
-],
-"correct": "Craniotabes",
-"explanation": "Craniotabes, a softening of the skull bones causing a ping-pong ball-like depression when pressed, is
-often the earliest clinical sign of rickets in infants younger than 1 year. This occurs due to delayed mineralization of
-the skull bones. Other manifestations like bowed legs typically develop when the child begins to bear weight.",
-"reference": "Pettifor JM. Nutritional rickets: deficiency of vitamin D, calcium, or both? Am J Clin Nutr.
-2004;80(6):1725S-1729S"
-},
-
-{
-"question": "Which age group is most susceptible to nutritional rickets?",
-"options": [
-"Neonates (0-28 days)",
-"Infants (1-12 months)",
-"Toddlers (1-3 years)",
-"School-age children (6-12 years)",
-"Adolescents (13-18 years)"
-],
-"correct": "Toddlers (1-3 years)",
-"explanation": "Toddlers aged 1-3 years are most susceptible to nutritional rickets due to rapid growth velocity,
-variable dietary intake, and potentially limited sun exposure. This age group has high calcium and vitamin D
-requirements for bone mineralization during a period of rapid skeletal growth.",
-"reference": "Munns CF, Shaw N, Kiely M, et al. Global Consensus Recommendations on Prevention and Management of
-Nutritional Rickets. J Clin Endocrinol Metab. 2016;101(2):394-415"
-},
-
-{
-"question": "What is the recommended daily vitamin D intake for infants 0-12 months to prevent rickets according to the
-American Academy of Pediatrics?",
-"options": [
-"200 IU",
-"400 IU",
-"600 IU",
-"800 IU",
-"1000 IU"
-],
-"correct": "400 IU",
-"explanation": "The American Academy of Pediatrics recommends a daily vitamin D intake of 400 IU for all infants
-beginning in the first few days of life to prevent rickets. This recommendation applies to both breastfed and
-formula-fed infants until they consume at least 1 liter per day of vitamin D-fortified formula or milk.",
-"reference": "Wagner CL, Greer FR; American Academy of Pediatrics Section on Breastfeeding; American Academy of
-Pediatrics Committee on Nutrition. Prevention of rickets and vitamin D deficiency in infants, children, and adolescents.
-Pediatrics. 2008;122(5):1142-1152"
-},
-
-{
-"question": "Which of the following is NOT a risk factor for vitamin D deficiency rickets?",
-"options": [
-"Exclusive breastfeeding without vitamin D supplementation",
-"Dark skin pigmentation",
-"Limited sun exposure",
-"Consumption of vitamin C-rich foods",
-"Malabsorption syndromes"
-],
-"correct": "Consumption of vitamin C-rich foods",
-"explanation": "Consumption of vitamin C-rich foods does not increase the risk of vitamin D deficiency rickets. In fact,
-vitamin C is necessary for collagen synthesis and may indirectly support bone health. The other options are
-well-established risk factors for vitamin D deficiency: exclusive breastfeeding without supplementation (breast milk
-contains insufficient vitamin D), dark skin pigmentation (reduces vitamin D synthesis), limited sun exposure (reduces
-cutaneous vitamin D production), and malabsorption syndromes (impair vitamin D absorption).",
-"reference": "Misra M, Pacaud D, Petryk A, et al. Vitamin D deficiency in children and its management: review of current
-knowledge and recommendations. Pediatrics. 2008;122(2):398-417"
-},
-
-{
-"question": "What is the active form of vitamin D responsible for increasing intestinal calcium absorption?",
-"options": [
-"Cholecalciferol (vitamin D3)",
-"Ergocalciferol (vitamin D2)",
-"Calcidiol (25-hydroxyvitamin D)",
-"Calcitriol (1,25-dihydroxyvitamin D)",
-"7-dehydrocholesterol"
-],
-"correct": "Calcitriol (1,25-dihydroxyvitamin D)",
-"explanation": "Calcitriol (1,25-dihydroxyvitamin D) is the biologically active form of vitamin D that increases
-intestinal calcium absorption. It is produced through two hydroxylation steps: first in the liver (forming
-25-hydroxyvitamin D) and then in the kidneys (forming 1,25-dihydroxyvitamin D). This active form binds to vitamin D
-receptors in the intestine to enhance calcium absorption.",
-"reference": "Holick MF. Vitamin D deficiency. N Engl J Med. 2007;357(3):266-281"
-},
-
-{
-"question": "Which of the following conditions can cause vitamin D-resistant rickets?",
-"options": [
-"Nutritional vitamin D deficiency",
-"Inadequate calcium intake",
-"X-linked hypophosphatemic rickets",
-"Maternal vitamin D deficiency",
-"Prematurity"
-],
-"correct": "X-linked hypophosphatemic rickets",
-"explanation": "X-linked hypophosphatemic rickets (XLH) is a form of vitamin D-resistant rickets caused by mutations in
-the PHEX gene, resulting in elevated FGF23 levels. This leads to renal phosphate wasting and impaired renal production
-of 1,25-dihydroxyvitamin D despite normal or elevated vitamin D levels. Unlike nutritional rickets, XLH does not respond
-adequately to standard vitamin D supplementation.",
-"reference": "Carpenter TO, Imel EA, Holm IA, et al. A clinician's guide to X-linked hypophosphatemia. J Bone Miner Res.
-2011;26(7):1381-1388"
-},
-
-{
-"question": "What is the primary mechanism of action of vitamin D in bone health?",
-"options": [
-"Direct stimulation of osteoblast activity",
-"Facilitation of calcium and phosphate absorption for bone mineralization",
-"Inhibition of osteoclast activity",
-"Promotion of collagen synthesis",
-"Regulation of growth hormone secretion"
-],
-"correct": "Facilitation of calcium and phosphate absorption for bone mineralization",
-"explanation": "The primary mechanism by which vitamin D promotes bone health is through facilitating intestinal
-absorption of calcium and phosphate, which are essential minerals for proper bone mineralization. By maintaining
-adequate serum calcium and phosphate levels, vitamin D ensures the mineralization of newly formed osteoid tissue,
-preventing rickets in growing children and osteomalacia in adults.",
-"reference": "Holick MF. Vitamin D deficiency. N Engl J Med. 2007;357(3):266-281"
-},
-
-{
-"question": "Which of the following is the most appropriate initial treatment for a 2-year-old child with nutritional
-rickets?",
-"options": [
-"Calcitriol 0.25 mcg daily",
-"Vitamin D2 50,000 IU weekly for 6 weeks",
-"Calcium supplementation only",
-"Phosphate supplements",
-"Surgical correction of bone deformities"
-],
-"correct": "Vitamin D2 50,000 IU weekly for 6 weeks",
-"explanation": "The initial treatment for nutritional rickets typically involves high-dose vitamin D (either D2 or D3)
-to rapidly correct the deficiency, such as 50,000 IU weekly for 6 weeks. This is often accompanied by calcium
-supplementation to ensure adequate substrate for bone mineralization. This approach rapidly corrects biochemical
-abnormalities and leads to radiographic healing within 2-3 months. Calcitriol is typically reserved for patients with
-impaired renal hydroxylation.",
-"reference": "Munns CF, Shaw N, Kiely M, et al. Global Consensus Recommendations on Prevention and Management of
-Nutritional Rickets. J Clin Endocrinol Metab. 2016;101(2):394-415"
-},
-
+  {
+    "question": "What is the most common ocular manifestation of vitamin A deficiency in children?",
+    "options": [
+      "Corneal scarring",
+      "Conjunctival xerosis", 
+      "Night blindness (nyctalopia)", 
+      "Bitot's spots", 
+      "Keratomalacia"
+    ],
+    "correct": "Night blindness (nyctalopia)",
+    "explanation": "Night blindness (nyctalopia) is typically the earliest and most common ocular manifestation of vitamin A deficiency. It occurs due to impaired rhodopsin synthesis in the retina, affecting the rod photoreceptors responsible for vision in low light conditions. This symptom often precedes other ocular manifestations and can be reversed with vitamin A supplementation.",
+    "reference": "World Health Organization. Global prevalence of vitamin A deficiency in populations at risk 1995-2005. WHO Global Database on Vitamin A Deficiency."
+  },
+  {
+    "question": "Which of the following is the WHO-recommended dose of vitamin A for treatment of severe vitamin A deficiency in children 6-11 months of age?",
+    "options": [
+      "50,000 IU",
+      "100,000 IU", 
+      "200,000 IU", 
+      "400,000 IU", 
+      "600,000 IU"
+    ],
+    "correct": "100,000 IU",
+    "explanation": "The WHO recommends 100,000 IU of vitamin A for treatment of severe vitamin A deficiency in children 6-11 months of age. This is administered as a single oral dose on day 1, followed by a second dose on day 2, and a third dose at least 2 weeks later. Children under 6 months receive 50,000 IU, while children 12 months and older receive 200,000 IU following the same schedule.",
+    "reference": "WHO. Guideline: Vitamin A supplementation in infants and children 6–59 months of age. Geneva, World Health Organization, 2011."
+  },
+  {
+    "question": "Which of the following is NOT a risk factor for vitamin A deficiency in children?",
+    "options": [
+      "Measles infection",
+      "Exclusive breastfeeding for 6 months", 
+      "Severe protein-energy malnutrition", 
+      "Persistent diarrhea", 
+      "Maternal vitamin A deficiency"
+    ],
+    "correct": "Exclusive breastfeeding for 6 months",
+    "explanation": "Exclusive breastfeeding for 6 months is protective against vitamin A deficiency, not a risk factor. Human milk contains adequate vitamin A for infants up to 6 months of age when the mother is well-nourished. Other listed options are established risk factors: measles depletes vitamin A stores, malnutrition impairs absorption and storage, persistent diarrhea increases loss, and maternal deficiency leads to low vitamin A content in breast milk.",
+    "reference": "Bailey RL, West KP Jr, Black RE. The epidemiology of global micronutrient deficiencies. Ann Nutr Metab. 2015;66(suppl 2):22-33."
+  },
+  {
+    "question": "Which pathological finding is characteristic of keratomalacia in severe vitamin A deficiency?",
+    "options": [
+      "Hyperkeratinization of conjunctival epithelium",
+      "Corneal stromal infiltrates", 
+      "Corneal ulceration and colliquative necrosis", 
+      "Corneal edema with stromal thickening", 
+      "Increased goblet cell density"
+    ],
+    "correct": "Corneal ulceration and colliquative necrosis",
+    "explanation": "Keratomalacia, the most severe ocular manifestation of vitamin A deficiency, is characterized by corneal ulceration and colliquative necrosis (liquefactive necrosis) of the cornea. This occurs due to severe keratinization of the corneal epithelium, loss of corneal structural integrity, and subsequent bacterial invasion. Without urgent treatment, this condition can rapidly progress to corneal perforation, anterior staphyloma, and permanent blindness.",
+    "reference": "Sommer A. Vitamin A deficiency and clinical disease: An historical overview. J Nutr. 2008;138(10):1835-1839."
+  },
+  {
+    "question": "What is the mechanism by which vitamin A deficiency increases susceptibility to infections in children?",
+    "options": [
+      "Reduced neutrophil production",
+      "Impaired antibody response", 
+      "Compromised epithelial barriers and decreased immune function", 
+      "Diminished complement activation", 
+      "Decreased macrophage phagocytosis only"
+    ],
+    "correct": "Compromised epithelial barriers and decreased immune function",
+    "explanation": "Vitamin A deficiency compromises the integrity of epithelial barriers throughout the body (respiratory, gastrointestinal, urinary tract) and impairs immune function through multiple mechanisms. It reduces the production of secretory IgA, impairs T-cell mediated immunity, decreases natural killer cell activity, and affects cytokine production. The loss of epithelial barrier function combined with impaired immune response significantly increases susceptibility to infections, particularly respiratory and diarrheal diseases.",
+    "reference": "Stephensen CB. Vitamin A, infection, and immune function. Annu Rev Nutr. 2001;21:167-192."
+  },
+  {
+    "question": "Which of the following is a classic sign of vitamin A deficiency affecting the conjunctiva?",
+    "options": [
+      "Follicular hypertrophy",
+      "Bitot's spots", 
+      "Subconjunctival hemorrhage", 
+      "Chemosis", 
+      "Papillary reaction"
+    ],
+    "correct": "Bitot's spots",
+    "explanation": "Bitot's spots are classic signs of vitamin A deficiency affecting the conjunctiva. They appear as foamy, triangular, grayish-white, slightly elevated lesions on the temporal conjunctiva, typically bilateral. These spots consist of keratinized epithelial debris and saprophytic bacteria (particularly Corynebacterium xerosis). Bitot's spots are pathognomonic for vitamin A deficiency when accompanied by conjunctival xerosis, though in severe chronic deficiency, they may persist even after vitamin A supplementation.",
+    "reference": "Sommer A. Vitamin A deficiency and its consequences: a field guide to detection and control. World Health Organization, 1995."
+  },
+  {
+    "question": "In which age group is vitamin A deficiency most prevalent globally?",
+    "options": [
+      "Neonates (0-28 days)",
+      "Young infants (1-5 months)", 
+      "Preschool children (6-59 months)", 
+      "School-age children (6-12 years)", 
+      "Adolescents (13-19 years)"
+    ],
+    "correct": "Preschool children (6-59 months)",
+    "explanation": "Vitamin A deficiency is most prevalent in preschool children aged 6-59 months globally. This age group is particularly vulnerable due to increased physiological requirements during rapid growth, potentially inadequate complementary feeding practices after exclusive breastfeeding ends, higher exposure to infections that deplete vitamin A stores, and limited dietary diversity in many resource-limited settings. WHO estimates that approximately 190 million preschool children worldwide are affected by vitamin A deficiency.",
+    "reference": "Stevens GA, Bennett JE, Hennocq Q, et al. Trends and mortality effects of vitamin A deficiency in children in 138 low-income and middle-income countries between 1991 and 2013: a pooled analysis of population-based surveys. Lancet Glob Health. 2015;3(9):e528-e536."
+  },
+  {
+    "question": "Which histological change is characteristic of vitamin A deficiency in the respiratory epithelium?",
+    "options": [
+      "Increased mucus production",
+      "Squamous metaplasia replacing ciliated epithelium", 
+      "Hyperplasia of goblet cells", 
+      "Infiltration of eosinophils", 
+      "Basement membrane thickening"
+    ],
+    "correct": "Squamous metaplasia replacing ciliated epithelium",
+    "explanation": "Vitamin A deficiency causes squamous metaplasia of the respiratory epithelium, where normal ciliated columnar epithelium is replaced by stratified squamous epithelium. This metaplastic change impairs mucociliary clearance, reducing the respiratory tract's ability to remove pathogens and particulates. The loss of ciliated cells and goblet cells (which produce protective mucus) compromises the mechanical barrier function of the respiratory tract, contributing to increased susceptibility to respiratory infections in vitamin A deficient children.",
+    "reference": "Wolbach SB, Howe PR. Tissue changes following deprivation of fat-soluble A vitamin. J Exp Med. 1925;42(6):753-777."
+  },
+  {
+    "question": "Which intervention has been shown to reduce all-cause mortality in children aged 6-59 months by approximately 24% in vitamin A deficient populations?",
+    "options": [
+      "Weekly low-dose vitamin A supplementation",
+      "Biannual high-dose vitamin A supplementation", 
+      "Daily multivitamin supplementation", 
+      "Monthly moderate-dose vitamin A supplementation", 
+      "Fortification of staple foods with vitamin A"
+    ],
+    "correct": "Biannual high-dose vitamin A supplementation",
+    "explanation": "Biannual high-dose vitamin A supplementation (200,000 IU for children 12-59 months, 100,000 IU for infants 6-11 months) has been shown to reduce all-cause mortality in children aged 6-59 months by approximately 24% in vitamin A deficient populations. This evidence from multiple randomized controlled trials and meta-analyses led to the WHO recommendation for universal vitamin A supplementation in this age group in settings where vitamin A deficiency is a public health problem. The intervention is considered one of the most cost-effective child survival strategies.",
+    "reference": "Imdad A, Mayo-Wilson E, Herzer K, Bhutta ZA. Vitamin A supplementation for preventing morbidity and mortality in children from six months to five years of age. Cochrane Database Syst Rev. 2017;3:CD008524."
+  },
+  {
+    "question": "Which biochemical test is considered the gold standard for assessing vitamin A status in children?",
+    "options": [
+      "Retinol-binding protein (RBP) levels",
+      "Serum retinol concentration", 
+      "Relative dose response (RDR) test", 
+      "Modified relative dose response (MRDR) test", 
+      "Serum retinyl esters measurement"
+    ],
+    "correct": "Relative dose response (RDR) test",
+    "explanation": "The relative dose response (RDR) test is considered the gold standard for assessing vitamin A status in children. It measures the percentage change in serum retinol concentration before and after administration of a small dose of vitamin A. The test reflects liver vitamin A reserves more accurately than static measures like serum retinol. An RDR value >20% indicates depleted liver stores. While more precise than serum retinol measurement, the RDR test requires two blood samples and is more complex to perform, making it less practical for large-scale assessments.",
+    "reference": "Tanumihardjo SA. Vitamin A: biomarkers of nutrition for development. Am J Clin Nutr. 2011;94(2):658S-665S."
+  },
+  
+  {
+    "question": "What is the most common presenting symptom of scurvy in children?",
+    "options": [
+      "Dental caries",
+      "Petechial hemorrhages",
+      "Bone pain and refusal to walk",
+      "Hyperkeratotic folliculitis",
+      "Gingivitis"
+    ],
+    "correct": "Bone pain and refusal to walk",
+    "explanation": "Children with scurvy most commonly present with musculoskeletal manifestations including painful extremities, particularly bone pain near joints, and pseudoparalysis (refusal to walk or move limbs) due to subperiosteal hemorrhages and bone pain. This is often the earliest clinical manifestation in pediatric populations.",
+    "reference": "Agarwal A, Shaharyar A, Kumar A, et al. Scurvy in pediatric age group - A disease often forgotten? Journal of Clinical Orthopaedics and Trauma. 2015;6(2):101-107."
+  },
+  {
+    "question": "Which radiographic finding is characteristic of scurvy in children?",
+    "options": [
+      "Osteophyte formation",
+      "Pelkan spurs (dense metaphyseal lines)",
+      "Osteolytic lesions",
+      "Periosteal thickening",
+      "Fracture of the femoral neck"
+    ],
+    "correct": "Pelkan spurs (dense metaphyseal lines)",
+    "explanation": "Pelkan spurs are characteristic radiographic findings in scurvy, representing thin, dense white lines at the metaphyses due to provisional calcification at the growth plate. Other classic radiographic findings include Wimberger's sign (metaphyseal white line), the scurvy line (zone of increased density at the metaphysis), and a Frankel's line (zone of rarefaction beneath the provisional zone of calcification).",
+    "reference": "Gulko E, Collins LK, Murphy RC, et al. MRI findings in pediatric patients with scurvy. Skeletal Radiology. 2015;44(2):291-297."
+  },
+  {
+    "question": "What is the minimum daily requirement of vitamin C for children aged 1-3 years to prevent scurvy?",
+    "options": [
+      "5 mg/day",
+      "10 mg/day",
+      "15 mg/day",
+      "30 mg/day",
+      "60 mg/day"
+    ],
+    "correct": "15 mg/day",
+    "explanation": "According to the recommended dietary allowances (RDAs), children aged 1-3 years require 15 mg/day of vitamin C to prevent deficiency states like scurvy. While this amount prevents deficiency, the RDA for optimal health in this age group is actually higher at 15-25 mg/day.",
+    "reference": "Institute of Medicine. Dietary Reference Intakes for Vitamin C, Vitamin E, Selenium, and Carotenoids. The National Academies Press; 2000."
+  },
+  {
+    "question": "Which of the following groups of children is MOST at risk for developing scurvy in modern clinical practice?",
+    "options": [
+      "Children with inflammatory bowel disease",
+      "Children with food allergies on restricted diets",
+      "Children with autism spectrum disorders and food selectivity",
+      "Children with celiac disease",
+      "Children with type 1 diabetes mellitus"
+    ],
+    "correct": "Children with autism spectrum disorders and food selectivity",
+    "explanation": "In modern clinical practice, scurvy is most commonly seen in children with autism spectrum disorders who exhibit extreme food selectivity or aversions. These children often restrict their diets to very few, usually processed foods that are deficient in vitamin C. This restricted dietary pattern can persist for years, leading to clinical vitamin C deficiency.",
+    "reference": "Ma NS, Thompson C, Weston S. Brief Report: Scurvy as a Manifestation of Food Selectivity in Children with Autism. Journal of Autism and Developmental Disorders. 2016;46(4):1464-1470."
+  },
+  {
+    "question": "What is the most appropriate initial dose of vitamin C for treating a child with confirmed scurvy?",
+    "options": [
+      "25 mg/day for 2 weeks",
+      "100 mg/day for 1 week then 50 mg/day for 1-2 months",
+      "200-300 mg/day for 1 month",
+      "500 mg/day for 2 weeks",
+      "1000 mg/day for 3 days"
+    ],
+    "correct": "100 mg/day for 1 week then 50 mg/day for 1-2 months",
+    "explanation": "The recommended treatment regimen for scurvy in children involves 100 mg/day of vitamin C for 1 week, followed by 50 mg/day for 1-2 months to replenish body stores. Clinical improvement can be seen within days of starting supplementation, with musculoskeletal symptoms often improving within 48-72 hours.",
+    "reference": "Weinstein M, Babyn P, Zlotkin S. An orange a day keeps the doctor away: scurvy in the year 2000. Pediatrics. 2001;108(3):E55."
+  },
+  {
+    "question": "Which of the following is NOT a dermatological manifestation of scurvy in children?",
+    "options": [
+      "Perifollicular hemorrhages",
+      "Hyperkeratotic papules",
+      "Corkscrew hair",
+      "Purpura",
+      "Erythema nodosum"
+    ],
+    "correct": "Erythema nodosum",
+    "explanation": "Erythema nodosum is not associated with scurvy. Classic dermatological findings in scurvy include perifollicular hemorrhages, hyperkeratotic papules (which may coalesce to form ecchymoses), corkscrew or swan-neck hairs due to defective collagen synthesis, and purpura. Scorbutic skin has a classic 'goose-flesh' appearance due to the perifollicular hyperkeratotic papules.",
+    "reference": "Olmedo JM, Yiannias JA, Windgassen EB, Gornet MK. Scurvy: a disease almost forgotten. International Journal of Dermatology. 2006;45(8):909-913."
+  },
+  {
+    "question": "What is the pathophysiologic mechanism responsible for bleeding manifestations in scurvy?",
+    "options": [
+      "Vitamin K deficiency leading to decreased coagulation factors",
+      "Impaired collagen synthesis leading to capillary fragility",
+      "Thrombocytopenia due to bone marrow suppression",
+      "Defective platelet adhesion",
+      "Increased fibrinolysis"
+    ],
+    "correct": "Impaired collagen synthesis leading to capillary fragility",
+    "explanation": "Vitamin C is essential for collagen synthesis, serving as a cofactor for prolyl and lysyl hydroxylases that stabilize the collagen triple helix. In scurvy, defective collagen synthesis leads to capillary fragility and increased vascular permeability, resulting in hemorrhagic manifestations such as petechiae, ecchymoses, subperiosteal hemorrhages, and gingival bleeding.",
+    "reference": "Léger D. Scurvy: reemergence of nutritional deficiencies. Canadian Family Physician. 2008;54(10):1403-1406."
+  },
+  {
+    "question": "Which of the following oral manifestations is most characteristic of scurvy in a child?",
+    "options": [
+      "Dental caries",
+      "Enamel hypoplasia",
+      "Swollen, spongy gums that bleed easily",
+      "Geographic tongue",
+      "Leukoplakia"
+    ],
+    "correct": "Swollen, spongy gums that bleed easily",
+    "explanation": "Swollen, spongy, friable gums that bleed easily (scorbutic gingivitis) are hallmark features of scurvy. Due to collagen defects, the gingival tissue becomes edematous, purplish, and prone to bleeding with minimal trauma. This finding is typically seen only in children who have erupted teeth, as the gingival changes occur around the dentition.",
+    "reference": "Popovich D, McAlhany A, Adewumi AO, Barnes MM. Scurvy: forgotten but definitely not gone. Journal of Pediatric Health Care. 2009;23(6):405-415."
+  },
+  {
+    "question": "Which laboratory test is most specific for diagnosing scurvy?",
+    "options": [
+      "Low serum vitamin C level (<11 μmol/L)",
+      "Elevated alkaline phosphatase",
+      "Leukopenia",
+      "Anemia",
+      "Prolonged bleeding time"
+    ],
+    "correct": "Low serum vitamin C level (<11 μmol/L)",
+    "explanation": "A serum vitamin C level below 11 μmol/L (0.2 mg/dL) is diagnostic of scurvy. While other laboratory findings such as anemia, leukopenia, thrombocytopenia, increased ESR, and elevated alkaline phosphatase may be present, they are not specific for scurvy. The diagnosis is confirmed by the combination of clinical features, radiographic findings, low serum vitamin C levels, and rapid response to vitamin C supplementation.",
+    "reference": "Fain O. Musculoskeletal manifestations of scurvy. Joint Bone Spine. 2005;72(2):124-128."
+  },
+  {
+    "question": "What is the most common psychiatric comorbidity associated with pediatric scurvy in developed countries?",
+    "options": [
+      "Depression",
+      "Generalized anxiety disorder",
+      "Autism spectrum disorder",
+      "Obsessive-compulsive disorder",
+      "Attention deficit hyperactivity disorder"
+    ],
+    "correct": "Autism spectrum disorder",
+    "explanation": "In developed countries, scurvy in children is most commonly associated with autism spectrum disorder (ASD). Children with ASD frequently exhibit food selectivity or severely restricted eating patterns, often limiting their diets to foods lacking vitamin C. Multiple case series have documented this association, highlighting the importance of nutritional monitoring in children with ASD.",
+    "reference": "Kitcharoensakkul M, Schulz CG, Kassel R, et al. Scurvy revealed by difficulty walking: three cases in young children. Journal of Clinical Rheumatology. 2014;20(4):224-228."
+  }
 
 ]
